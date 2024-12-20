@@ -26,5 +26,32 @@ outputs:
   - rss
   - print
 
+# Change color of code block with theme variant
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
 params:
   showVisitedLinks: true
+  themeVariant:
+    - auto
+    - relearn-light
+    - relearn-dark
+    - zen-dark
+    - zen-light
+  # Show edit button
+  editURL: https://github.com/abuturabofficial/w3-notes/tree/main/content${FilePath}
+
+# Sidebar settings
+param:
+  alwaysopen: false
+  collapsibleMenu: true
+# Image effects
+  imageEffects:
+    border: true
+    lazy: true
+    lightbox: true
+    shadow: false

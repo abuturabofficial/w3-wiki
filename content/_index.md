@@ -1,7 +1,8 @@
 ---
-date: '2024-12-12T10:58:16+05:00'
 draft: false
-title: 'Notes WIKI'
+date: '2024-12-12T10:58:16+05:00'
+title: "My Notes Wiki"
+type: "home"
 description: "A dynamic knowledge hub exploring technology, cybersecurity, cloud computing, operating systems, and more. Continuously updated with insights from courses and lifelong learning to inspire curiosity and growth."
 ---
 
@@ -21,8 +22,11 @@ description: "A dynamic knowledge hub exploring technology, cybersecurity, cloud
 
 🌐 **Connect with me** 🌐  
 
+The easiest and the fastest way to approach me is via email. (Use my Public PGP key to encrypt your emails before sending)
+
 - 🔗 [GitHub](https://github.com/abuturabofficial)  
 - 💼 [LinkedIn](https://linkedin.com/in/abuturabofficial)  
 - 🐘 [Mastodon](https://mastodon.social/@abuturab)  
 - 🐦 [Twitter/X](https://x.com/abuturabofcl)  
 - ✉️  [Email Me](mailto:cyberfrontofficial@proton.me)
+- 🛡️ [My Email PGP Public Key](/misc/publickey.asc)
