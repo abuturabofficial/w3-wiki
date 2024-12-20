@@ -1,0 +1,4 @@
+baseURL: "https://wiki.cyberfront.me"
+languageCode: "en-us"
+title: "Notes Wiki"
+theme: "hugo-theme-relearn"

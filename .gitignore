@@ -2,6 +2,10 @@
 .idea
 .vscode
 
+# Hugo
+/public
+/isableFastRender
+
 # Misc
 .obsidian
 .trash
