@@ -1,6 +1,6 @@
 baseURL: "https://wiki.cyberfront.me"
 languageCode: "en-us"
-title: "Notes Wiki"
+title: "NOTES WIKI"
 theme: "hugo-theme-relearn"
 
 frontmatter:
@@ -27,5 +27,4 @@ outputs:
   - print
 
 params:
-  logo: "/images/logo.svg"
-  linkTitle: "NOTES WIKI"
+  showVisitedLinks: true
