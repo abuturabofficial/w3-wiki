@@ -43,7 +43,7 @@ params:
     - zen-dark
     - zen-light
   # Show edit button
-  editURL: https://github.com/abuturabofficial/w3-notes/tree/main/content${FilePath}
+  editURL: https://github.com/abuturabofficial/w3-notes/tree/main/content/${FilePath}
 
 # Sidebar settings
 param:
