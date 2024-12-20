@@ -5,3 +5,27 @@ theme: "hugo-theme-relearn"
 
 frontmatter:
   format: yaml
+
+params:
+  author:
+    email: cyberfront@proton.me
+    name: AbuTurab
+
+# Print Support: Enable print support to print entire chapters or the whole site
+outputs:
+  home:
+  - html
+  - rss
+  - print
+  page:
+  - html
+  - rss
+  - print
+  section:
+  - html
+  - rss
+  - print
+
+params:
+  logo: "/images/logo.svg"
+  linkTitle: "NOTES WIKI"

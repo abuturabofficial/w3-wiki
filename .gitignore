@@ -5,6 +5,7 @@
 # Hugo
 /public
 /isableFastRender
+.hugo_build.lock
 
 # Misc
 .obsidian
