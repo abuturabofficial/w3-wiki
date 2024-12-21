@@ -64,3 +64,17 @@ This is all about managing different IT services, including public and private c
 > 4. [Directory Services](/google-it-support/sysadmin-and-it-infrastructure-services/directory-services)
 > 5. [Data Recovery and Backups](/google-it-support/sysadmin-and-it-infrastructure-services/data-recovery-and-backups)
 > 6. [Final Project](/google-it-support/sysadmin-and-it-infrastructure-services/sysadmin-and-it-infrastructure-services-final-project)
+
+### 5. IT Security: Defense against the Digital Dark Arts
+
+This course teaches about the best security practices and as well as methods to defend against evolving digital threats.
+
+> [!transparent]- It has 6 sub-modules about different security related topics and a 7th project module...
+>
+> 1. [Understanding Security the Threats](/google-it-support/it-security/understanding-the-security-threats)
+> 2. [Pelcgbybtl (Cryptology)](/google-it-support/it-security/pelcgbybtl)
+> 3. [The 3 As of Cybersecurity — 3A Authentication, Authorization, Accounting](/google-it-support/it-security/the-3as-of-cybersecurity)
+> 4. [Securing Your Networks](/google-it-support/it-security/securing-your-networks)
+> 5. [Defense in Depth](/google-it-support/it-security/defense-in-depth)
+> 6. [Creating a Company Culture for Security](/google-it-support/it-security/creating-a-company-culture-for-security)
+> 7. [Final Project: Creating a Company Culture for Security Design Document](/google-it-support/it-security/creating-a-company-culture-for-security-design-document)
