@@ -17,8 +17,7 @@ Google IT Support Professional Certificate, course consists of 5 individual cour
 
 **Technical Support Fundamentals** is a first course of Google IT Support Professional Certificate.
 
-> [!transparent]- Expand me...
-> It has been divided into following modules:
+> [!transparent]- It has been sub-divided into the following modules...
 >
 > 1. [Introduction to IT](/google-it-support/technical-support-fundamentals/introduction-to-it/)
 > 2. [Hardware](/google-it-support/technical-support-fundamentals/hardware/)
@@ -31,12 +30,24 @@ Google IT Support Professional Certificate, course consists of 5 individual cour
 
 This course delves deep into computer networking and transport layers.
 
-
-> [!transparent]- Expand me...
-> It has following submodules:
+> [!transparent]- It has following sub-modules...
+> 
 > 1. [Introduction to Networking](/google-it-support/bits-and-bytes-of-computer-networking/introduction-to-networking/)
 > 2. [The Network Layer](/google-it-support/bits-and-bytes-of-computer-networking/the-network-layer/)
 > 3. [The Transport Layer and Application Layer](/google-it-support/bits-and-bytes-of-computer-networking/transport-layer-and-application-layer/)
 > 4. [Networking Services](/google-it-support/bits-and-bytes-of-computer-networking/networking-services)
 > 5. [Connecting to the Internet](/google-it-support/bits-and-bytes-of-computer-networking/connecting-to-the-internet)
 > 6. [Troubleshooting and the Future of Networking](/google-it-support/bits-and-bytes-of-computer-networking/troubleshooting-and-the-future-of-networking)
+
+### 3. Operating Systems and You: Becoming a Power User
+
+It teaches about the inner workings of computer operating systems, and how manipulate and control different processes running on a computer.
+
+> [!transparent]- This course has following sub-modules...
+>
+> 1. [Navigating the System](/google-it-support/operating-systems-and-you/navigating-the-system)
+> 2. [Users and Permissions](/google-it-support/operating-systems-and-you/users-and-permissions)
+> 3. [Package and Software Management](/google-it-support/operating-systems-and-you/package-and-software-management)
+> 4. [Filesystems](/google-it-support/operating-systems-and-you/filesystems)
+> 5. [Operating Systems in Practice](/google-it-support/operating-systems-and-you/operating-systems-in-practice)
+> 6. [Process Management](/google-it-support/operating-systems-and-you/process-management)
