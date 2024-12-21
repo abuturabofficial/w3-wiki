@@ -24,9 +24,10 @@ description: "A dynamic knowledge hub exploring technology, cybersecurity, cloud
 
 The easiest and the fastest way to approach me is via email. (Use my Public PGP key to encrypt your emails before sending)
 
-- 🔗 [GitHub](https://github.com/abuturabofficial)  
-- 💼 [LinkedIn](https://linkedin.com/in/abuturabofficial)  
-- 🐘 [Mastodon](https://mastodon.social/@abuturab)  
-- 🐦 [Twitter/X](https://x.com/abuturabofcl)  
-- ✉️  [Email Me](mailto:cyberfrontofficial@proton.me)
-- 🛡️ [My Email PGP Public Key](/misc/publickey.asc)
+- <i class="fas fa-book"></i> [Follow my Blog](https://cyberfront.me)
+- <i class="fab fa-github"></i> [GitHub](https://github.com/abuturabofficial)  
+- <i class="fab fa-linkedin"></i> [LinkedIn](https://linkedin.com/in/abuturabofficial)  
+- <i class="fab fa-mastodon"></i> [Mastodon](https://mastodon.social/@abuturab)  
+- <i class="fab fa-x-twitter"></i> [Twitter/X](https://x.com/abuturabofcl)  
+- <i class="fas fa-envelope"></i> [Email Me](mailto:cyberfrontofficial@proton.me)
+- <i class="fas fa-key"></i> [Email PGP Public Key](/misc/publickey.asc)
