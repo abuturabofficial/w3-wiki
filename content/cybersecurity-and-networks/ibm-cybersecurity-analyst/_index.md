@@ -62,3 +62,17 @@ and more...
 > 4. [Cryptography and Compliance Pitfalls](/cybersecurity-and-networks/ibm-cybersecurity-analyst/compliance-framework-and-sysadmin/cryptography-and-compliance-pitfalls)
 
 ### 4. Network Security and Database Vulnerabilities
+
+This course has following content:
+- Network transport layers
+- IPv4, IPv6 address types and OSI Model
+- Structured and unstructured database types
+
+and much more...
+
+> [!transparent]- It has following modules...
+> 
+> 1. [TCP IP Framework](/cybersecurity-and-networks/ibm-cybersecurity-analyst/network-security-and-database-vuln/tcp-ip-framework)
+> 2. [Basics of IP Addressing and the OSI Model](/cybersecurity-and-networks/ibm-cybersecurity-analyst/network-security-and-database-vuln/basics-of-ip-addressing-and-the-osi-model)
+> 3. [Introduction to Databases](/cybersecurity-and-networks/ibm-cybersecurity-analyst/network-security-and-database-vuln/introduction-to-databases)
+> 4. [Deep Dive Injection Vulnerability](/cybersecurity-and-networks/ibm-cybersecurity-analyst/network-security-and-database-vuln/deep-dive-injection-vulnerability)
