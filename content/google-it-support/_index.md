@@ -51,3 +51,16 @@ It teaches about the inner workings of computer operating systems, and how manip
 > 4. [Filesystems](/google-it-support/operating-systems-and-you/filesystems)
 > 5. [Operating Systems in Practice](/google-it-support/operating-systems-and-you/operating-systems-in-practice)
 > 6. [Process Management](/google-it-support/operating-systems-and-you/process-management)
+
+### 4. System Administration and IT Infrastructure Services
+
+This is all about managing different IT services, including public and private cloud, platform services (PAAS, SAAS, IAAS). Also it teaches about data different backup solution and data recovery techniques.
+
+> [!transparent]- This courses is sub-divided into 6 weeks of study program, which has 5 sub-topics and a final project...
+>
+> 1. [What is System Administration](/google-it-support/sysadmin-and-it-infrastructure-services/what-is-system-administration)
+> 2. [Network and Infrastructure Services](/google-it-support/sysadmin-and-it-infrastructure-services/network-and-infrastructure-services)
+> 3. [Software and Platform Services](/google-it-support/sysadmin-and-it-infrastructure-services/software-and-platform-services)
+> 4. [Directory Services](/google-it-support/sysadmin-and-it-infrastructure-services/directory-services)
+> 5. [Data Recovery and Backups](/google-it-support/sysadmin-and-it-infrastructure-services/data-recovery-and-backups)
+> 6. [Final Project](/google-it-support/sysadmin-and-it-infrastructure-services/sysadmin-and-it-infrastructure-services-final-project)
