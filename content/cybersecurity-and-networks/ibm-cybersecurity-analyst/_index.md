@@ -11,7 +11,9 @@ collapsibleMenu: true
 alwaysOpen: false
 ---
 
-This specialization has 6 courses.
+IBM Cybersecurity Analyst Professional Certificate is a specialization course, which is led by industry experts. The specialization focuses on intermediary skills related to cybersecurity
+
+This specialization has **6 courses**.
 
 ### 1. Introduction to Cybersecurity Tools and Cyberattacks
 
@@ -58,3 +60,5 @@ and more...
 > 2. [Client System Administration Endpoint Protection and Patching](/cybersecurity-and-networks/ibm-cybersecurity-analyst/compliance-framework-and-sysadmin/client-system-administration-endpoint-protection-and-patching)
 > 3. [Server and User Administration](/cybersecurity-and-networks/ibm-cybersecurity-analyst/compliance-framework-and-sysadmin/server-and-user-administration)
 > 4. [Cryptography and Compliance Pitfalls](/cybersecurity-and-networks/ibm-cybersecurity-analyst/compliance-framework-and-sysadmin/cryptography-and-compliance-pitfalls)
+
+### 4. Network Security and Database Vulnerabilities
