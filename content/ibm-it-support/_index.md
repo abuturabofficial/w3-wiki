@@ -44,3 +44,13 @@ It goes into details about different computing platforms and types of software a
 > 2. [Fundamentals of Web Browsers, Applications, and Cloud Computing](/ibm-it-support/intro-to-software-programming-and-databases/fundamentals-of-web-browsers-applications-and-cloud-computing)
 > 3. [Basics of Programming](/ibm-it-support/intro-to-software-programming-and-databases/basics-of-programming)
 > 4. [Database Fundamentals](/ibm-it-support/intro-to-software-programming-and-databases/database-fundamentals)
+
+### 4. Introduction to Networking and Storage
+
+It teaches about the types of networks, like LAN, WAN etc. It lists down the storage types and also goes into the details of troubleshooting common networking problems like DNS issues etc.
+
+>[!transparent]- This course has following sub-topics...
+>
+> 1. [Networking Fundamentals](/ibm-it-support/intro-to-networking-and-storage/networking-fundamentals)
+> 2. [Configuring and Troubleshooting Networks](/ibm-it-support/intro-to-networking-and-storage/configuring-and-troubleshooting-networks)
+> 3. [Storage Types and Network Sharing](/ibm-it-support/intro-to-networking-and-storage/storage-types-and-network-sharing)
