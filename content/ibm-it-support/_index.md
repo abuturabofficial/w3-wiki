@@ -33,3 +33,14 @@ This course is all about building computers and installing different operating s
 > 3. [Interfaces and Connectors](/ibm-it-support/intro-to-hardware-and-os/interfaces-and-connectors)
 > 4. [Internal Computer Components](/ibm-it-support/intro-to-hardware-and-os/internal-computer-components)
 > 5. [Workstation Setup Evaluation and Troubleshooting](/ibm-it-support/intro-to-hardware-and-os/workstation-setup-evaluation-and-troubleshooting)
+
+### 3. Introduction to Software, Programming, and Databases
+
+It goes into details about different computing platforms and types of software applications. It also lists down the available web-browsers, types of cloud computing, basics of programming and types of database queries.
+
+> [!transparent]- It has following 4 sub-modules...
+>
+> 1. [Computing Platforms and Software Application](/ibm-it-support/intro-to-software-programming-and-databases/computing-platforms-and-software-application)
+> 2. [Fundamentals of Web Browsers, Applications, and Cloud Computing](/ibm-it-support/intro-to-software-programming-and-databases/fundamentals-of-web-browsers-applications-and-cloud-computing)
+> 3. [Basics of Programming](/ibm-it-support/intro-to-software-programming-and-databases/basics-of-programming)
+> 4. [Database Fundamentals](/ibm-it-support/intro-to-software-programming-and-databases/database-fundamentals)
