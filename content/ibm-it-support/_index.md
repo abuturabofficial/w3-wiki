@@ -54,3 +54,36 @@ It teaches about the types of networks, like LAN, WAN etc. It lists down the sto
 > 1. [Networking Fundamentals](/ibm-it-support/intro-to-networking-and-storage/networking-fundamentals)
 > 2. [Configuring and Troubleshooting Networks](/ibm-it-support/intro-to-networking-and-storage/configuring-and-troubleshooting-networks)
 > 3. [Storage Types and Network Sharing](/ibm-it-support/intro-to-networking-and-storage/storage-types-and-network-sharing)
+
+### 5. Introduction to Cybersecurity Essentials
+
+This courses teaches about:
+
+- Everyday digital threats like viruses, malware, social engineering etc.
+- How to remain safe online and how to use password management techniques to remain protected.
+- While surfing the web, how to avoid phishing and other threats.
+
+and more...
+
+>[!transparent]- It has 4 sub-modules...
+>
+> 1. [Common Security Threats and Risks](/ibm-it-support/intro-to-cybersecurity-essentials/common-security-threats-and-risks)
+> 2. [Security Best Practices](/ibm-it-support/intro-to-cybersecurity-essentials/security-best-practices)
+> 3. [Safe Browsing Practices](/ibm-it-support/intro-to-cybersecurity-essentials/safe-browsing-practices)
+
+### 6. Introduction to Cloud Computing
+
+Learning opportunities are:
+- PaaS, IaaS, SaaS
+- Private, public and hybrid cloud models
+- Types virtual machines, hypervisors etc
+
+and more...
+
+>[!transparent]- This course talks about these topics...
+>
+> 1. [Overview of Cloud Computing](/ibm-it-support/intro-to-cloud-computing/overview-of-cloud-computing)
+> 2. [Cloud Computing Models](/ibm-it-support/intro-to-cloud-computing/cloud-computing-models)
+> 3. [Components of Cloud Computing](/ibm-it-support/intro-to-cloud-computing/components-of-cloud-computing)
+> 4. [Emerging Trends and Practices](/ibm-it-support/intro-to-cloud-computing/emerging-trends-and-practices)
+> 5. [Cloud Security, Monitoring, Case Studies, Jobs](/ibm-it-support/intro-to-cloud-computing/cloud-security-monitoring-case-studies-jobs)
