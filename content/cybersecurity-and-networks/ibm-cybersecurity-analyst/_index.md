@@ -43,3 +43,18 @@ and more...
 > 2. [Examples and principles of CIA triad](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cybersecurity-roles-processes-and-os-security/examples-and-principles-of-cia-triad)
 > 3. [Operating System Security Basics](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cybersecurity-roles-processes-and-os-security/operating-system-security-basics)
 > 4. [Overview of Virtualization](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cybersecurity-roles-processes-and-os-security/overview-of-virtualization)
+
+### 3. Cybersecurity Compliance Frameworks and System Administration
+
+It contains following topics:
+- CFAA, NIST, GPDR, etc.
+- UEM systems, and Windows Patching.
+
+and more...
+
+> [!transparent]- It has 4 modules...
+>
+> 1. [Compliance Frameworks and Industry Standards](/cybersecurity-and-networks/ibm-cybersecurity-analyst/compliance-framework-and-sysadmin/compliance-frameworks-and-industry-standards)
+> 2. [Client System Administration Endpoint Protection and Patching](/cybersecurity-and-networks/ibm-cybersecurity-analyst/compliance-framework-and-sysadmin/client-system-administration-endpoint-protection-and-patching)
+> 3. [Server and User Administration](/cybersecurity-and-networks/ibm-cybersecurity-analyst/compliance-framework-and-sysadmin/server-and-user-administration)
+> 4. [Cryptography and Compliance Pitfalls](/cybersecurity-and-networks/ibm-cybersecurity-analyst/compliance-framework-and-sysadmin/cryptography-and-compliance-pitfalls)
