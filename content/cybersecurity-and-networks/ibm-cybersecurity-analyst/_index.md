@@ -92,3 +92,19 @@ and much more..
 > 2. [Incident Response](/cybersecurity-and-networks/ibm-cybersecurity-analyst/pentest-ir-and-forensics/incident-response)
 > 3. [Digital Forensics](/cybersecurity-and-networks/ibm-cybersecurity-analyst/pentest-ir-and-forensics/digital-forensics)
 > 4. [Introduction to Scripting](/cybersecurity-and-networks/ibm-cybersecurity-analyst/pentest-ir-and-forensics/introduction-to-scripting)
+
+### 6. Cyber Threat Intelligence
+
+It explains topics like:
+- Give info about different threat intelligence platform like TruStar, IBM X-Force, FireEye etc.
+- Data security and loss prevention
+
+and much more...
+
+>[!transparent]- It has 4 modules...
+>
+> 1. [Threat Intelligence](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cyber-threat-intelligence/threat-intelligence)
+> 2. [Data Loss Prevention and Mobile Endpoint Protection](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cyber-threat-intelligence/data-loss-prevention-and-mobile-endpoint-protection)
+> 3. [Scanning](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cyber-threat-intelligence/scanning)
+> 4. [SIEM Platforms](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cyber-threat-intelligence/siem-platforms)
+> 5. [Threat Hunting](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cyber-threat-intelligence/threat-hunting)
