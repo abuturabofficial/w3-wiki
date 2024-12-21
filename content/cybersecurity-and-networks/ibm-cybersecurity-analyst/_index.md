@@ -27,3 +27,19 @@ and much more...
 > 2. [A brief overview of types of threat actors and their motives](/cybersecurity-and-networks/ibm-cybersecurity-analyst/intro-to-cybersecurity-tools-and-cyberattacks/a-brief-overview-of-types-of-actors-and-their-motives)
 > 3. [An overview of key security concepts](/cybersecurity-and-networks/ibm-cybersecurity-analyst/intro-to-cybersecurity-tools-and-cyberattacks/an-overview-of-key-security-concepts)
 > 4. [An overview of key security tools](/cybersecurity-and-networks/ibm-cybersecurity-analyst/intro-to-cybersecurity-tools-and-cyberattacks/an-overview-of-key-security-tools)
+
+### 2. Cybersecurity Roles, Processes and Operating System Security
+
+It has following topics:
+- Frameworks like ISOs, ITIL, COSO etc.
+- Condentiality principle
+- How OS security works and important techniques.
+
+and more...
+
+>[!transparent]- It has following 4 sub-modules...
+>
+> 1. [People processes and technology](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cybersecurity-roles-processes-and-os-security/people-processes-and-technology)
+> 2. [Examples and principles of CIA triad](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cybersecurity-roles-processes-and-os-security/examples-and-principles-of-cia-triad)
+> 3. [Operating System Security Basics](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cybersecurity-roles-processes-and-os-security/operating-system-security-basics)
+> 4. [Overview of Virtualization](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cybersecurity-roles-processes-and-os-security/overview-of-virtualization)
