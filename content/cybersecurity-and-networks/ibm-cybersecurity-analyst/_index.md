@@ -76,3 +76,19 @@ and much more...
 > 2. [Basics of IP Addressing and the OSI Model](/cybersecurity-and-networks/ibm-cybersecurity-analyst/network-security-and-database-vuln/basics-of-ip-addressing-and-the-osi-model)
 > 3. [Introduction to Databases](/cybersecurity-and-networks/ibm-cybersecurity-analyst/network-security-and-database-vuln/introduction-to-databases)
 > 4. [Deep Dive Injection Vulnerability](/cybersecurity-and-networks/ibm-cybersecurity-analyst/network-security-and-database-vuln/deep-dive-injection-vulnerability)
+
+### 5. Penetration Testing, Incident Response and Forensics
+
+It explains topics like:
+- Social Engineering, Passive and active record.
+- Digital forensics needs and methods.
+- History of scripting and scripting langs like JS, Python etc.
+
+and much more..
+
+>[!transparent]- This course offers 4 modules...
+>
+> 1. [Penetration Testing](/cybersecurity-and-networks/ibm-cybersecurity-analyst/pentest-ir-and-forensics/penetration-testing)
+> 2. [Incident Response](/cybersecurity-and-networks/ibm-cybersecurity-analyst/pentest-ir-and-forensics/incident-response)
+> 3. [Digital Forensics](/cybersecurity-and-networks/ibm-cybersecurity-analyst/pentest-ir-and-forensics/digital-forensics)
+> 4. [Introduction to Scripting](/cybersecurity-and-networks/ibm-cybersecurity-analyst/pentest-ir-and-forensics/introduction-to-scripting)
