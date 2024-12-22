@@ -39,3 +39,13 @@ This specialization has been subdivided into 14 courses and a Capstone Project.
 > 1. [Introduction to Agile Development and Scrum](/devops-and-cloud/ibm-devops-and-se/agile-development-and-scrum/introduction-to-agile-and-scrum)
 > 2. [Agile Planning](/devops-and-cloud/ibm-devops-and-se/agile-development-and-scrum/agile-planning)
 > 3. [Daily Execution](/devops-and-cloud/ibm-devops-and-se/agile-development-and-scrum/daily-execution)
+
+### 4. Introduction to Software Engineering
+
+>[!transparent]- It is divided into these sub-topics...
+> 
+> 1. [SDLC - The Software Development Lifecycle](/devops-and-cloud/ibm-devops-and-se/intro-to-se/the-software-development-lifecycle)
+> 2. [Introduction to Software Development](/devops-and-cloud/ibm-devops-and-se/intro-to-se/introduction-to-software-development)
+> 3. [Basics of Programming](/devops-and-cloud/ibm-devops-and-se/intro-to-se/basics-of-programming-ii)
+> 4. [Software Architecture Design and Patterns](/devops-and-cloud/ibm-devops-and-se/intro-to-se/software-architecture-design-and-patterns)
+> 5. [Job Opportunities and Skill sets in Software Engineering](/devops-and-cloud/ibm-devops-and-se/intro-to-se/job-opportunities-and-skill-sets-in-se)
