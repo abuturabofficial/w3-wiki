@@ -52,8 +52,10 @@ The Golden rule is;
     + designers should have access to a pool of representative users. That is, END users, not their managers or union reps!
 	  
 + Designer centered design  
->“It's not the consumers' job to know what they want.”
->> Steve Jobs
+
+> “It's not the consumers' job to know what they want.”
+>
+> --- Steve Jobs
 
 ## **Case Study: SSL Warnings – example user**
 
