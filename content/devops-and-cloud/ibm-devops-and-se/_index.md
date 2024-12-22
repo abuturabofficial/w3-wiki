@@ -57,3 +57,10 @@ This specialization has been subdivided into 14 courses and a Capstone Project.
 > 1. [Introduction to Linux](/devops-and-cloud/ibm-devops-and-se/linux-commands-and-shell-scripting/introduction-to-linux)
 > 2. [Introduction to Linux Commands](/devops-and-cloud/ibm-devops-and-se/linux-commands-and-shell-scripting/introduction-to-linux-commands)
 > 3. [Introduction to Shell Scripting](/devops-and-cloud/ibm-devops-and-se/linux-commands-and-shell-scripting/introduction-to-shell-scripting)
+
+### 6. Getting Started with Git and GitHub
+
+>[!transparent]- It has following 2 modules...
+> 
+> 1. [Git and GitHub Fundamentals](/devops-and-cloud/ibm-devops-and-se/git-and-github/git-and-github-fundamentals)
+> 2. [Using Git Commands and Managing GitHub Projects](/devops-and-cloud/ibm-devops-and-se/git-and-github/using-git-commands-and-managing-github-projects)
