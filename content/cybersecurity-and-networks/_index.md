@@ -15,7 +15,7 @@ alwaysOpen: true
 
 IBM Cybersecurity Analyst Professional Certificate is a specialization course, which is led by industry experts. The specialization focuses on intermediary skills related to cybersecurity
 
-This specialization has **6 courses**.
+This specialization has **6 courses** and a **Capstone**.
 
 ### 1. Introduction to Cybersecurity Tools and Cyberattacks
 
@@ -110,3 +110,32 @@ and much more...
 > 3. [Scanning](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cyber-threat-intelligence/scanning)
 > 4. [SIEM Platforms](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cyber-threat-intelligence/siem-platforms)
 > 5. [Threat Hunting](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cyber-threat-intelligence/threat-hunting)
+
+### 7. Cybersecurity Capstone: Breach Response Case Studies
+
+It is a case study about LastPass Data Breach of 2022.
+
+> [!transparent]- Expand me
+>
+> 1. [Capstone Project](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cybersecurity-capstone/)
+
+## UOM Cybersecurity Specialization
+
+Cybersecurity Specialization is an advanced course offered by **University of Maryland**. It dives deep into the core topics related to software security, cryptography, hardware etc.
+
+> [!info]
+>
+> My progress in this specialization came to a halt after completing the first course, primarily because the subsequent courses were highly advanced and required background knowledge that I lacked. I will resume my journey once I feel confident in possessing the necessary expertise to tackle those courses.
+
+### 1. Usable Security
+
+This course is all about principles of Human Computer Interaction, designing secure systems, doing usability studies to evaluate the most efficient security model and much more...
+
+>[!transparent]- This course contain 6 modules...
+> 
+> 1. [Fundamentals of Human-Computer Interaction: users, usability, tasks, and cognitive models](/cybersecurity-and-networks/uom-cybersec-specialization/usable-security/fundamentals-of-humans-computer-interaction)
+> 2. [Design: design methodology, prototyping, cybersecurity case study](/cybersecurity-and-networks/uom-cybersec-specialization/usable-security/usable-design)
+> 3. [Evaluation: usability studies, A/B testing, quantitative and qualitative evaluation, cybersecurity case study](/cybersecurity-and-networks/uom-cybersec-specialization/usable-security/usable-evaluation)
+> 4. [Strategies for Secure Interaction Design: authority, guidelines for interface design](/cybersecurity-and-networks/uom-cybersec-specialization/usable-security/strategies-for-secure-interaction-design)
+> 5. [Usable Authentication: authentication mechanisms, biometrics, two-factor authentication](/cybersecurity-and-networks/uom-cybersec-specialization/usable-security/usable-authentication)
+> 6. [Usable Privacy: privacy settings, personal data sharing, data inference](/cybersecurity-and-networks/uom-cybersec-specialization/usable-security/usable-privacy)

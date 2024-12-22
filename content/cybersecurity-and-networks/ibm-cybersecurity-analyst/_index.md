@@ -13,7 +13,7 @@ alwaysOpen: false
 
 IBM Cybersecurity Analyst Professional Certificate is a specialization course, which is led by industry experts. The specialization focuses on intermediary skills related to cybersecurity
 
-This specialization has **6 courses**.
+This specialization has **6 courses** and a **Capstone**.
 
 ### 1. Introduction to Cybersecurity Tools and Cyberattacks
 
@@ -108,3 +108,11 @@ and much more...
 > 3. [Scanning](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cyber-threat-intelligence/scanning)
 > 4. [SIEM Platforms](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cyber-threat-intelligence/siem-platforms)
 > 5. [Threat Hunting](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cyber-threat-intelligence/threat-hunting)
+
+### 7. Cybersecurity Capstone: Breach Response Case Studies
+
+It is a case study about LastPass Data Breach of 2022.
+
+> [!transparent]- Expand me
+>
+> 1. [Capstone Project](/cybersecurity-and-networks/ibm-cybersecurity-analyst/cybersecurity-capstone/)
