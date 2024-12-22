@@ -7,7 +7,7 @@ title: 'Cybersecurity Capstone: Breach Response Case Studies'
 linkTitle: 'Capstone Project'
 weight: 7
 menuPre: '<i class="fas fa-trophy"></i> '
-collapsibleMenu: false
+collapsibleMenu: true
 alwaysOpen: false
 ---
 
