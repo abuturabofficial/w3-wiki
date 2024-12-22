@@ -3,7 +3,7 @@ draft: false
 LastModifierDisplayName: AbuTurab
 LastModifierEmail: cyberfrontofficial@proton.me
 date: '2024-12-22T13:32:57+05:00'
-title: 'Introduction of DevOps'
+title: 'Introduction to DevOps'
 weight: 1
 menuPre: '<i class="fas fa-sync-alt"></i> '
 collapsibleMenu: true
