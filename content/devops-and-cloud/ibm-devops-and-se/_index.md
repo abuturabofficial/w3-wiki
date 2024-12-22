@@ -31,3 +31,11 @@ This specialization has been subdivided into 14 courses and a Capstone Project.
 > 3. [Components of Cloud Computing](/it-fundamentals/ibm-it-support/intro-to-cloud-computing/components-of-cloud-computing)
 > 4. [Emerging Trends and Practices](/it-fundamentals/ibm-it-support/intro-to-cloud-computing/emerging-trends-and-practices)
 > 5. [Cloud Security, Monitoring, Case Studies, Jobs](/it-fundamentals/ibm-it-support/intro-to-cloud-computing/cloud-security-monitoring-case-studies-jobs)
+
+### 3. Introduction to Agile Development and Scrum
+
+>[!transparent]- It has these modules...
+> 
+> 1. [Introduction to Agile Development and Scrum](/devops-and-cloud/ibm-devops-and-se/agile-development-and-scrum/introduction-to-agile-and-scrum)
+> 2. [Agile Planning](/devops-and-cloud/ibm-devops-and-se/agile-development-and-scrum/agile-planning)
+> 3. [Daily Execution](/devops-and-cloud/ibm-devops-and-se/agile-development-and-scrum/daily-execution)
