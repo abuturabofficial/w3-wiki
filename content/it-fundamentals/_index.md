@@ -5,7 +5,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 date: '2024-12-21T11:47:59+05:00'
 title: 'IT Fundamentals'
 weight: 1
-menuPre: '<i class="fas fa-building"></i> '
+menuPre: '<i class="fas fa-desktop"></i> '
 collapsibleMenu: true
 alwaysOpen: true
 ---
