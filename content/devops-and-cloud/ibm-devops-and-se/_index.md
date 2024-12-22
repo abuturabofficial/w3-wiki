@@ -64,3 +64,5 @@ This specialization has been subdivided into 14 courses and a Capstone Project.
 > 
 > 1. [Git and GitHub Fundamentals](/devops-and-cloud/ibm-devops-and-se/git-and-github/git-and-github-fundamentals)
 > 2. [Using Git Commands and Managing GitHub Projects](/devops-and-cloud/ibm-devops-and-se/git-and-github/using-git-commands-and-managing-github-projects)
+
+### 7. Python for Data Science, AI, and Development
