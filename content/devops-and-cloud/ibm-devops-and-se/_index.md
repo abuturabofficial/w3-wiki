@@ -49,3 +49,11 @@ This specialization has been subdivided into 14 courses and a Capstone Project.
 > 3. [Basics of Programming](/devops-and-cloud/ibm-devops-and-se/intro-to-se/basics-of-programming-ii)
 > 4. [Software Architecture Design and Patterns](/devops-and-cloud/ibm-devops-and-se/intro-to-se/software-architecture-design-and-patterns)
 > 5. [Job Opportunities and Skill sets in Software Engineering](/devops-and-cloud/ibm-devops-and-se/intro-to-se/job-opportunities-and-skill-sets-in-se)
+
+### 5. Hands-on Introduction to Linux Commands and Shell Scripting
+
+>[!transparent]- This course has following modules...
+> 
+> 1. [Introduction to Linux](/devops-and-cloud/ibm-devops-and-se/linux-commands-and-shell-scripting/introduction-to-linux)
+> 2. [Introduction to Linux Commands](/devops-and-cloud/ibm-devops-and-se/linux-commands-and-shell-scripting/introduction-to-linux-commands)
+> 3. [Introduction to Shell Scripting](/devops-and-cloud/ibm-devops-and-se/linux-commands-and-shell-scripting/introduction-to-shell-scripting)
