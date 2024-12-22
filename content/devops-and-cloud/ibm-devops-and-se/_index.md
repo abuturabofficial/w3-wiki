@@ -21,3 +21,13 @@ This specialization has been subdivided into 14 courses and a Capstone Project.
 > 2. [Thinking DevOps](/devops-and-cloud/ibm-devops-and-se/intro-to-devops/thinking-devops)
 > 3. [Working DevOps](/devops-and-cloud/ibm-devops-and-se/intro-to-devops/working-devops)
 > 4. [Organizing for DevOps](/devops-and-cloud/ibm-devops-and-se/intro-to-devops/organizing-for-devops)
+
+### 2. Introduction to Cloud Computing
+
+>[!transparent]- This course has following modules...
+> 
+> 1. [Overview of Cloud Computing](/it-fundamentals/ibm-it-support/intro-to-cloud-computing/overview-of-cloud-computing)
+> 2. [Cloud Computing Models](/it-fundamentals/ibm-it-support/intro-to-cloud-computing/cloud-computing-models)
+> 3. [Components of Cloud Computing](/it-fundamentals/ibm-it-support/intro-to-cloud-computing/components-of-cloud-computing)
+> 4. [Emerging Trends and Practices](/it-fundamentals/ibm-it-support/intro-to-cloud-computing/emerging-trends-and-practices)
+> 5. [Cloud Security, Monitoring, Case Studies, Jobs](/it-fundamentals/ibm-it-support/intro-to-cloud-computing/cloud-security-monitoring-case-studies-jobs)
