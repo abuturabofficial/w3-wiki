@@ -106,7 +106,7 @@ Python script directive:
 - `*` — filename expansion wildcard
 - `?` — single character wildcard in filename expansion
   
-![Introduction to Shell Scripting](/notes/Introduction%20to%20Shell%20Scripting.png)
+![Introduction to Shell Scripting](/notes/ibm-devops-and-se/Introduction%20to%20Shell%20Scripting.png)
 
 ### Quoting
 
@@ -114,7 +114,7 @@ Python script directive:
 - `""` — interpret literally, but evaluate meta-characters
 - `''` — interpret literally
   
-![Introduction to Shell Scripting](/notes/Introduction%20to%20Shell%20Scripting-1.png)
+![Introduction to Shell Scripting](/notes/ibm-devops-and-se/Introduction%20to%20Shell%20Scripting-1.png)
 
 ### I/O redirection
   
@@ -125,7 +125,7 @@ Input/Output, or I/O redirection, refers to a set of features used for redirecti
 - `2>>` — Append standard error to a file
 - `<` — Redirect file contents to standard input
   
-![Introduction to Shell Scripting](/notes/Introduction%20to%20Shell%20Scripting-2.png)
+![Introduction to Shell Scripting](/notes/ibm-devops-and-se/Introduction%20to%20Shell%20Scripting-2.png)
 
 ### Command substitution
 
@@ -137,7 +137,7 @@ Input/Output, or I/O redirection, refers to a set of features used for redirecti
 
 - Store output of `pwd` command in `here`:
   
-![Introduction to Shell Scripting](/notes/Introduction%20to%20Shell%20Scripting-3.png)
+![Introduction to Shell Scripting](/notes/ibm-devops-and-se/Introduction%20to%20Shell%20Scripting-3.png)
 
 ### Command line arguments
 
@@ -180,8 +180,8 @@ Input/Output, or I/O redirection, refers to a set of features used for redirecti
   
 **Scheduling cron jobs with crontab**
 
-![Introduction to Shell Scripting](/notes/Introduction%20to%20Shell%20Scripting-4.png)
+![Introduction to Shell Scripting](/notes/ibm-devops-and-se/Introduction%20to%20Shell%20Scripting-4.png)
 
 **Viewing and Removing cron jobs**
 
-![Introduction to Shell Scripting](/notes/Introduction%20to%20Shell%20Scripting-5.png)
+![Introduction to Shell Scripting](/notes/ibm-devops-and-se/Introduction%20to%20Shell%20Scripting-5.png)

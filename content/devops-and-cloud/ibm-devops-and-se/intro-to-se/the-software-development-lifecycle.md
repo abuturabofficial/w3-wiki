@@ -26,7 +26,7 @@ weight: 1
   Engineering principles:
 - Resolved as standardized methods in software engineering and computer-aided software engineering (CASE) tools were developed
   
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle.png)
   
   **Software engineer vs. software developer:**
   
@@ -75,7 +75,7 @@ weight: 1
 - Organizations may have different names for each stage
 - Some organizations have more or fewer stages
   
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-1.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-1.png)
 
 ### Phase 1: Planning
   
@@ -85,7 +85,7 @@ weight: 1
 - Documented
 - Prioritized
   
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-2.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-2.png)
   
   **Prototyping:**
 - Small-scale replica to clarify requirements
@@ -98,7 +98,7 @@ weight: 1
 
 ### Phase 2: Design
   
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-3.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-3.png)
 
 ### Phase 3: Development
   
@@ -117,11 +117,11 @@ Development starts when the design document is finalized and sent to the develop
 
 ### Phase 5: Deployment
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-4.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-4.png)
 
 ### Phase 6: Maintenance
   
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-5.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-5.png)
 
 ## **Building Quality Software**
   
@@ -308,30 +308,30 @@ A process is needed to clarify communication and facilitates information sharing
 Some of these methodologies are:
 - Waterfall
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-6.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-6.png)
 
 - V-shape model
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-7.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-7.png)
 
 - Agile
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-8.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-8.png)
 
 **Sequential vs. iterative:**
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-9.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-9.png)
 
 ### Waterfall pros and cons
   
-  ![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-10.png)
+  ![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-10.png)
 ### V-shape model pros and cons
   
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-11.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-11.png)
 
 ### Agile pros and cons
   
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-12.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-12.png)
 
 ## **Software Versions**
 
@@ -356,7 +356,7 @@ Some of these methodologies are:
 - The third number in the version number indicates patches or minor bug fixes
 - The fourth number indicates build numbers, build dates, and less significant changes
   
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-13.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-13.png)
   
   **Version compatibility:**
 - Older versions may not work as well in newer versions
@@ -374,15 +374,15 @@ Some of these methodologies are:
 	  
 **Test cases:**
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-14.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-14.png)
 
 ### Three types of testing:
   
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-15.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-15.png)
 
 1) **Functional testing:**
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-16.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-16.png)
 
 The purpose of functional is to check:
 - Usability
@@ -410,7 +410,7 @@ Non-functional testing questions:
 
 Choosing test cases for regression testing:
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-17.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-17.png)
 
 ### Testing levels
   
@@ -428,7 +428,7 @@ Unit → Integration → System → Acceptance
 
 Purpose of integration testing:
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-18.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-18.png)
 
 3) **System testing**
 - Compliance with SRS
@@ -438,7 +438,7 @@ Purpose of integration testing:
 
 4) **Acceptance testing**
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-19.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-19.png)
 
 ## **Software Documentation**
 
@@ -454,7 +454,7 @@ Purpose of integration testing:
 
 ### Types of product documentation
   
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-20.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-20.png)
   
 1) **Requirements documentation**
 
@@ -504,36 +504,36 @@ Intended for end-users to explain to operate software or help install and troubl
 
 - Project manager / Scrum master
   
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-21.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-21.png)
 
 - Stakeholders
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-22.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-22.png)
 
 - System / software architect
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-23.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-23.png)
 
 - UX Designer
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-24.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-24.png)
 
 - Developer
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-25.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-25.png)
 
 - Tester / QA engineer
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-26.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-26.png)
 
 - Site reliability / Ops engineer
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-27.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-27.png)
 
 - Product manager / Product owner
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-28.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-28.png)
 
 - Technical writer / Information developer
 
-![The Software Development Lifecycle](/notes/SDLC%20-%20The%20Software%20Development%20Lifecycle-29.png)
+![The Software Development Lifecycle](/notes/ibm-devops-and-se/SDLC%20-%20The%20Software%20Development%20Lifecycle-29.png)

@@ -59,7 +59,7 @@ Build what **is** needed, not what **was** planned.
 
 ### Traditional Waterfall Development:
   
-![Introduction to Agile and Scrum](/notes/Introduction%20to%20Agile%20and%20Scrum.png)
+![Introduction to Agile and Scrum](/notes/ibm-devops-and-se/Introduction%20to%20Agile%20and%20Scrum.png)
   
   **Problems with waterfall approach:**
 - No provisions for changing requirements
@@ -77,7 +77,7 @@ Build what **is** needed, not what **was** planned.
 - Intended to improve software quality and responsiveness to changing customer requirements
 - One of the first Agile method
   
-![Introduction to Agile and Scrum](/notes/Introduction%20to%20Agile%20and%20Scrum-1.png)
+![Introduction to Agile and Scrum](/notes/ibm-devops-and-se/Introduction%20to%20Agile%20and%20Scrum-1.png)
   
   **Extreme Programming values:**
 - Simplicity
@@ -137,11 +137,11 @@ Origin
   
 **Steps in the Scrum process:**
 
-![Introduction to Agile and Scrum](/notes/Introduction%20to%20Agile%20and%20Scrum-2.png)
+![Introduction to Agile and Scrum](/notes/ibm-devops-and-se/Introduction%20to%20Agile%20and%20Scrum-2.png)
 
 **Agile development is iterative:**
 
-![Introduction to Agile and Scrum](/notes/Introduction%20to%20Agile%20and%20Scrum-3.png)
+![Introduction to Agile and Scrum](/notes/ibm-devops-and-se/Introduction%20to%20Agile%20and%20Scrum-3.png)
 
 ## **The 3 Roles of Scrum**
   
@@ -209,7 +209,7 @@ Origin
   
   **Scrum vs. Kanban:**
   
-![Introduction to Agile and Scrum](/notes/Introduction%20to%20Agile%20and%20Scrum-4.png)
+![Introduction to Agile and Scrum](/notes/ibm-devops-and-se/Introduction%20to%20Agile%20and%20Scrum-4.png)
 
 ## **Organizing for Success: Organizational impact of Agile**
   
@@ -240,21 +240,21 @@ Origin
   
 **The Agile dilemma!**
 
-![Introduction to Agile and Scrum](/notes/Introduction%20to%20Agile%20and%20Scrum-5.png)
+![Introduction to Agile and Scrum](/notes/ibm-devops-and-se/Introduction%20to%20Agile%20and%20Scrum-5.png)
 
 **The entire organization must be Agile:**
 
-![Introduction to Agile and Scrum](/notes/Introduction%20to%20Agile%20and%20Scrum-6.png)
+![Introduction to Agile and Scrum](/notes/ibm-devops-and-se/Introduction%20to%20Agile%20and%20Scrum-6.png)
 
 **Agile + DevOps = Alignment**
   
-![Introduction to Agile and Scrum](/notes/Introduction%20to%20Agile%20and%20Scrum-7.png)
+![Introduction to Agile and Scrum](/notes/ibm-devops-and-se/Introduction%20to%20Agile%20and%20Scrum-7.png)
 
 ## **Mistaking Iterative Development for Agile**
   
 The biggest pitfall for companies is that, they think they’re agile, but actually they're just doing an iterative work.
 
-![Introduction to Agile and Scrum](/notes/Introduction%20to%20Agile%20and%20Scrum-8.png)
+![Introduction to Agile and Scrum](/notes/ibm-devops-and-se/Introduction%20to%20Agile%20and%20Scrum-8.png)
   
   **Agile is not…**
 - Agile isn’t a new version of a waterfall, software development life cycle (SDLC), where you do legacy development in sprints

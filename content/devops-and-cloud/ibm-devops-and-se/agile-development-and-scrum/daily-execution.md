@@ -13,7 +13,7 @@ weight: 3
   
 **Steps in the Scrum Process:**
 
-![Daily Execution](/notes/Daily%20Execution.png)
+![Daily Execution](/notes/ibm-devops-and-se/Daily%20Execution.png)
   
   **The Sprint:**
 - A sprint is one iteration through the design, code, test, deploy cycle
@@ -25,7 +25,7 @@ weight: 3
 - Assign it to yourself
 - Move it in process
   
-![Daily Execution](/notes/Daily%20Execution-1.png)
+![Daily Execution](/notes/ibm-devops-and-se/Daily%20Execution-1.png)
 
 - No one should have more than one story assigned to them unless they are blocked
 - When you are finished, move the story to Review/QA and open a PR
@@ -77,7 +77,7 @@ weight: 3
   
 **Burndown chart examples:**
 
-![Daily Execution](/notes/Daily%20Execution-2.png)
+![Daily Execution](/notes/ibm-devops-and-se/Daily%20Execution-2.png)
 
 ## **The Sprint Review**
 

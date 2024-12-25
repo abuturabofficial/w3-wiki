@@ -24,11 +24,11 @@ Is the culture of your organization agile?
 
 **Traditional organization around technology:**
 
-![Organizing for DevOps](/notes/Organizing%20for%20DevOps.png)
+![Organizing for DevOps](/notes/ibm-devops-and-se/Organizing%20for%20DevOps.png)
 
 **Organized around business domains:**
 
-![Organizing for DevOps](/notes/Organizing%20for%20DevOps-1.png)
+![Organizing for DevOps](/notes/ibm-devops-and-se/Organizing%20for%20DevOps-1.png)
 
 **Align teams with the business:**
 - Each team has its own mission aligned with the business
@@ -43,7 +43,7 @@ Is the culture of your organization agile?
   
 **Perspectives on DevOps:**
 
-![Organizing for DevOps](/notes/Organizing%20for%20DevOps-2.png)
+![Organizing for DevOps](/notes/ibm-devops-and-se/Organizing%20for%20DevOps-2.png)
 
 **DevOps is not a team:**
 
@@ -51,11 +51,11 @@ Is the culture of your organization agile?
 
 **Working in silos doesn’t work:**
 
-![Organizing for DevOps](/notes/Organizing%20for%20DevOps-3.png)
+![Organizing for DevOps](/notes/ibm-devops-and-se/Organizing%20for%20DevOps-3.png)
 
 **A DevOps team means we’re DevOps, right?**
 
-![Organizing for DevOps](/notes/Organizing%20for%20DevOps-4.png)
+![Organizing for DevOps](/notes/ibm-devops-and-se/Organizing%20for%20DevOps-4.png)
   
   **DevOps is not a job title:**
 - A culture transformation on an organizational scale
@@ -71,7 +71,7 @@ Is the culture of your organization agile?
 
 **Functional silos breed bad behavior:**
 
-![Organizing for DevOps](/notes/Organizing%20for%20DevOps-5.png)
+![Organizing for DevOps](/notes/ibm-devops-and-se/Organizing%20for%20DevOps-5.png)
 
 **Actions have consequences:**
 - Make people **aware** of the consequences of their actions
@@ -95,7 +95,7 @@ distributed (local) control
 
 **Measure what matters:**
 
-![Organizing for DevOps](/notes/Organizing%20for%20DevOps-6.png)
+![Organizing for DevOps](/notes/ibm-devops-and-se/Organizing%20for%20DevOps-6.png)
 
 **Social metrics:**
 - Who is leveraging the code you are building?
@@ -119,7 +119,7 @@ distributed (local) control
   
   **Actionable metrics:**
   
-![Organizing for DevOps](/notes/Organizing%20for%20DevOps-7.png)
+![Organizing for DevOps](/notes/ibm-devops-and-se/Organizing%20for%20DevOps-7.png)
   
   **Actionable metric examples:**
 - Reduce time to market
@@ -142,7 +142,7 @@ distributed (local) control
 
 You can rate statements developed by Dr. Nicole Forsgren to measure your team’s culture, including statements about information, failures, collaboration, and new ideas.
 
-![Organizing for DevOps](/notes/Organizing%20for%20DevOps-8.png)
+![Organizing for DevOps](/notes/ibm-devops-and-se/Organizing%20for%20DevOps-8.png)
 
 **Strongly agree or disagree?**
 - On my team, information is actively sought
@@ -173,7 +173,7 @@ Goal: Automate yourself out of a job.
   
 **Maintaining stability:**
   
-![Organizing for DevOps](/notes/Organizing%20for%20DevOps-9.png)
+![Organizing for DevOps](/notes/ibm-devops-and-se/Organizing%20for%20DevOps-9.png)
   
   **Commonality:**
 - Both seek to make both Dev and Ops work visible to each other
@@ -184,4 +184,4 @@ Goal: Automate yourself out of a job.
 - SRE maintains the infrastructure
 - DevOps uses infrastructure to maintain their applications
   
-![Organizing for DevOps](/notes/Organizing%20for%20DevOps-10.png)
+![Organizing for DevOps](/notes/ibm-devops-and-se/Organizing%20for%20DevOps-10.png)

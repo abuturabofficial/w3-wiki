@@ -91,7 +91,7 @@ Full-stack developers have skills, knowledge, and experience in both front-end a
   
 Examples of tasks and associated skills that back-end developers need:
 
-![Introduction to Software Development](/notes/Introduction%20to%20Software%20Development.png)
+![Introduction to Software Development](/notes/ibm-devops-and-se/Introduction%20to%20Software%20Development.png)
 
 **APIs, routing, and endpoints:**
 - APIs, routes, and endpoints process requests from the Front-End
@@ -117,7 +117,7 @@ Languages and tools for working with databases:
 - Structured Query Language (SQL)
 - Object-Relational Mapping (ORM)
 
-![Introduction to Software Development](/notes/Introduction%20to%20Software%20Development-1.png)
+![Introduction to Software Development](/notes/ibm-devops-and-se/Introduction%20to%20Software%20Development-1.png)
 
 ## **Introducing Application Development Tools**
   
@@ -129,7 +129,7 @@ Languages and tools for working with databases:
   - Call from your code when required
   - Used to solve a specific problem or add a specific feature
 
-![Introduction to Software Development](/notes/Introduction%20to%20Software%20Development-2.png)
+![Introduction to Software Development](/notes/ibm-devops-and-se/Introduction%20to%20Software%20Development-2.png)
 
 **Frameworks:**
 - Provide a standard way to build and deploy applications
@@ -143,7 +143,7 @@ Languages and tools for working with databases:
 - Frameworks define the workflow that you must follow
 - Inversion of control makes the framework extensible
   
-  ![Introduction to Software Development](/notes/Introduction%20to%20Software%20Development-3.png)
+  ![Introduction to Software Development](/notes/ibm-devops-and-se/Introduction%20to%20Software%20Development-3.png)
   
   **More tools:**
 - CI/CD
@@ -159,7 +159,7 @@ Languages and tools for working with databases:
 
 Examples of Build Tools:
 
-![Introduction to Software Development](/notes/Introduction%20to%20Software%20Development-4.png)
+![Introduction to Software Development](/notes/ibm-devops-and-se/Introduction%20to%20Software%20Development-4.png)
 
 **Packages:**
 - Packages make apps easy to install
@@ -177,11 +177,11 @@ Package managers:
   
 Package Managers by platform:
 
-![Introduction to Software Development](/notes/Introduction%20to%20Software%20Development-5.png)
+![Introduction to Software Development](/notes/ibm-devops-and-se/Introduction%20to%20Software%20Development-5.png)
 
 Cloud application package managers:
 
-![Introduction to Software Development](/notes/Introduction%20to%20Software%20Development-6.png)
+![Introduction to Software Development](/notes/ibm-devops-and-se/Introduction%20to%20Software%20Development-6.png)
 
 ## **Introduction to Software Stacks**
   
@@ -195,7 +195,7 @@ Cloud application package managers:
   
   **Parts of the software stack:**
   
-  ![Introduction to Software Development](/notes/Introduction%20to%20Software%20Development-7.png)
+  ![Introduction to Software Development](/notes/ibm-devops-and-se/Introduction%20to%20Software%20Development-7.png)
   
   **Examples of software stack:**
 - Python-Django
@@ -208,11 +208,11 @@ Cloud application package managers:
   
 **LAMP Stack:**
 
-![Introduction to Software Development](/notes/Introduction%20to%20Software%20Development-8.png)
+![Introduction to Software Development](/notes/ibm-devops-and-se/Introduction%20to%20Software%20Development-8.png)
 
 **MEAN and relasted stacks:**
 
-![Introduction to Software Development](/notes/Introduction%20to%20Software%20Development-9.png)
+![Introduction to Software Development](/notes/ibm-devops-and-se/Introduction%20to%20Software%20Development-9.png)
 
 **Comparison of MEAN, MEVN, and LAMP:**
 - MEAN
