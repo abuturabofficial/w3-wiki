@@ -19,7 +19,7 @@ weight: 5
   
   **The Challenges:**
   
-![Threat Hunting](/notes/Threat%20Hunting.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting.png)
 
 ### The Rise of Advanced Threats
 
@@ -46,17 +46,17 @@ weight: 5
 
 ### SOC Challenges
   
-![Threat Hunting](/notes/Threat%20Hunting-1.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-1.png)
 
-![Threat Hunting](/notes/Threat%20Hunting-2.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-2.png)
 
 ## **SOC Cyber Threat Hunting**
 
 - Intelligence-led Cognitive SOC Proactive Cyber Threat Hunting
 
-![Threat Hunting](/notes/Threat%20Hunting-3.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-3.png)
 
-![Threat Hunting](/notes/Threat%20Hunting-4.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-4.png)
 
 ### What is Cyber Threat Hunting
 
@@ -66,50 +66,50 @@ The earlier you locate and track your adversaries Tactics, Techniques, and Proce
 
 **Multidimensional Trade craft: What is the primary objective of cyber threat hunting?**
 
-![Threat Hunting](/notes/Threat%20Hunting-5.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-5.png)
 
 **Know Your Enemy: Cyber Kill Chain**
 
-![Threat Hunting](/notes/Threat%20Hunting-6.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-6.png)
 
 **The art and Science of threat hunting.**
 
-![Threat Hunting](/notes/Threat%20Hunting-7.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-7.png)
 
 **Advance Your SOC:**
 
-![Threat Hunting](/notes/Threat%20Hunting-8.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-8.png)
 
 ## **Cyber Threat Hunting – An Industry Example**
 
 **Cyber threat hunting team center:**
 
-![Threat Hunting](/notes/Threat%20Hunting-9.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-9.png)
 
 **Build a Cyber Threat Hunting Team:**
 
-![Threat Hunting](/notes/Threat%20Hunting-10.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-10.png)
 
 **Six Key Use Cases and Examples of Enterprise Intelligence:**
 
-![Threat Hunting](/notes/Threat%20Hunting-11.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-11.png)
 
 **i2 Threat Hunting Use Cases:**
 
-![Threat Hunting](/notes/Threat%20Hunting-12.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-12.png)
 
 ### Detect, Disrupt and Defeat Advanced Threats
 
-![Threat Hunting](/notes/Threat%20Hunting-13.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-13.png)
 
 **Know Your Enemy with i2 cyber threat analysis:**
 
-![Threat Hunting](/notes/Threat%20Hunting-14.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-14.png)
 
 **Intelligence Concepts are a Spectrum of Value:**
 
-![Threat Hunting](/notes/Threat%20Hunting-15.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-15.png)
 
 **i2 Cyber Users:**
 
-![Threat Hunting](/notes/Threat%20Hunting-16.png)
+![Threat Hunting](/notes/ibm-cybersecurity-analyst/Threat%20Hunting-16.png)

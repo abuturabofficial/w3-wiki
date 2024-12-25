@@ -19,7 +19,7 @@ weight: 4
 	- Symmetric Key (AES, DES, IDEA, …)
 	- Public key (RSA, Elliptic Curve, DH, …)
 
-   ![Cryptography and Compliance Pitfalls](/notes/Cryptography%20and%20Compliance%20Pitfalls.png)
+   ![Cryptography and Compliance Pitfalls](/notes/ibm-cybersecurity-analyst/Cryptography%20and%20Compliance%20Pitfalls.png)
 
 ### Hash Function
   
@@ -207,7 +207,7 @@ weight: 4
 - HMACs help when data may be maliciously altered while under temporary attacker’s control (e.g., cookies, or transmitted messages).
 - Even encrypted data should be protected by HMACs (to avoid bit-flipping attacks).
   
-  ![Cryptography and Compliance Pitfalls](/notes/Cryptography%20and%20Compliance%20Pitfalls-1.png)
+  ![Cryptography and Compliance Pitfalls](/notes/ibm-cybersecurity-analyst/Cryptography%20and%20Compliance%20Pitfalls-1.png)
 
 ## **Digital Signatures**
 

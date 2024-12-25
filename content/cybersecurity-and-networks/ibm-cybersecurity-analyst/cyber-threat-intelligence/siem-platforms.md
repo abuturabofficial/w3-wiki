@@ -67,7 +67,7 @@ weight: 4
   - Destination port
   - Username
 	  
-![SIEM Platforms](/notes/SIEM%20Platforms.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms.png)
 
 ## **SIEM Deployment**
 
@@ -79,7 +79,7 @@ weight: 4
   
   **QRadar Deployment Examples**
   
-![SIEM Platforms](/notes/SIEM%20Platforms-1.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-1.png)
 
 ### Events
   
@@ -117,11 +117,11 @@ weight: 4
   
   **Triad of Security Operations: People, Process and Technology.**
   
-![SIEM Platforms](/notes/SIEM%20Platforms-2.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-2.png)
 
 ### SOC Data Collection
   
-![SIEM Platforms](/notes/SIEM%20Platforms-3.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-3.png)
 
 ## **SIEM Solutions – Vendors**
   
@@ -140,33 +140,33 @@ weight: 4
 
 ### **Important Concepts**
   
-![SIEM Platforms](/notes/SIEM%20Platforms-4.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-4.png)
 
-![SIEM Platforms](/notes/SIEM%20Platforms-5.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-5.png)
 
 #### IBM QRadar
 
-![SIEM Platforms](/notes/SIEM%20Platforms-6.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-6.png)
 
 **IBM QRadar Components**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-7.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-7.png)
 
 #### ArcSight ESM
 
-![SIEM Platforms](/notes/SIEM%20Platforms-8.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-8.png)
 
 #### Splunk
 
-![SIEM Platforms](/notes/SIEM%20Platforms-9.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-9.png)
 
 **Friendly Representation**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-10.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-10.png)
 
 #### LogRythm’s Security Intelligence Platform
 
-![SIEM Platforms](/notes/SIEM%20Platforms-11.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-11.png)
 
 ## **User Behavior Analytics**
 
@@ -174,7 +174,7 @@ weight: 4
 
 - Detecting insider threats requires a 360 degree view of both logs and flows.
 
-![SIEM Platforms](/notes/SIEM%20Platforms-12.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-12.png)
 
 ### Advantages of an integrated UBA Solution
 
@@ -198,37 +198,37 @@ weight: 4
 - 81% of breaches are with stolen credentials.
 - $4M average cost of a data breach.
   
-![SIEM Platforms](/notes/SIEM%20Platforms-13.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-13.png)
 
 **Malicious behavior comes in many forms**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-14.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-14.png)
 
 **Maturing into User Behavioral Analytics**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-15.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-15.png)
 
 **QRadar UBA delivers value to the SOC**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-16.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-16.png)
 
 ## AI and SIEM
   
 **Your goals as a security operations team are fundamental to your business.**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-17.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-17.png)
 
 **Pressures today make it difficult to achieve your business goals.**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-18.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-18.png)
 
 **Challenge #1: Unaddressed threats**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-19.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-19.png)
 
 **Challenge #2: Insights Overload**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-20.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-20.png)
 
 **Challenge #3: Dwell times are getting worse**
 
@@ -241,11 +241,11 @@ Lack of consistent, high-quality and context-rich investigations lead to a break
 
 **Investigating an Incident without AI:**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-21.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-21.png)
 
 **Unlock a new partnership between analysts and their technology:**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-22.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-22.png)
 
 ### AI and SIEM – An industry Example
   
@@ -256,28 +256,28 @@ QRadar Advisor empowers security analysts to drive consistent investigations and
 
 **Benefits of adopting QRadar Advisor:**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-23.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-23.png)
 
 **How it works – An app that takes QRadar to the next level:**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-24.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-24.png)
 
 **How it works – Building the knowledge (internal and external)**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-25.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-25.png)
 
 **How it works – Aligning incidents to the ATT&CK chain:**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-26.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-26.png)
 
 **How it works – Cross-investigation analytics**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-27.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-27.png)
 
 **How it works – Using analyst feedback to drive better decisions**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-28.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-28.png)
 
 **How it works – QRadar Assistant**
 
-![SIEM Platforms](/notes/SIEM%20Platforms-29.png)
+![SIEM Platforms](/notes/ibm-cybersecurity-analyst/SIEM%20Platforms-29.png)

@@ -83,7 +83,7 @@ weight: 3
 + Respond
 + Follow up
   
-![Incident Response Process](/notes/An%20overview%20of%20key%20security%20concepts.jpg)
+![Incident Response Process](/notes/ibm-cybersecurity-analyst/An%20overview%20of%20key%20security%20concepts.jpg)
 
 ## **Introduction to Frameworks and Best Practices**
 
@@ -121,7 +121,7 @@ weight: 3
 + Governance
 + Others
   
-![Security Policies, Procedures and other](/notes/An%20overview%20of%20key%20security%20concepts.png)
+![Security Policies, Procedures and other](/notes/ibm-cybersecurity-analyst/An%20overview%20of%20key%20security%20concepts.png)
 
 ## **Cybersecurity Compliance and Audit Overview**
   

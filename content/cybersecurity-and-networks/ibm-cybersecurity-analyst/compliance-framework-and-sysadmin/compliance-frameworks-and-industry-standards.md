@@ -65,7 +65,7 @@ weight: 1
 
 #### Compliance: Specific Checklist of Security Controls, Validated
   
-  ![Compliance Frameworks and Industry Standards](/notes/Compliance%20Frameworks%20and%20Industry%20Standards.png)
+  ![Compliance Frameworks and Industry Standards](/notes/ibm-cybersecurity-analyst/Compliance%20Frameworks%20and%20Industry%20Standards.png)
 
 ### **Compliance Basics**
   
@@ -79,7 +79,7 @@ Ex: HIPAA, PCI DSS
 
 #### Any typical compliance process
   
-  ![Compliance Frameworks and Industry Standards](/notes/Compliance%20Frameworks%20and%20Industry%20Standards-1.png)
+  ![Compliance Frameworks and Industry Standards](/notes/ibm-cybersecurity-analyst/Compliance%20Frameworks%20and%20Industry%20Standards-1.png)
 
 - General process for any compliance/audit process
 	- Scoping
@@ -125,7 +125,7 @@ This is simply a standard for EU residence:
 
 ### Key terms for understanding
   
-  ![Compliance Frameworks and Industry Standards](/notes/Compliance%20Frameworks%20and%20Industry%20Standards-2.png)
+  ![Compliance Frameworks and Industry Standards](/notes/ibm-cybersecurity-analyst/Compliance%20Frameworks%20and%20Industry%20Standards-2.png)
 
 ## **Internation Organization for Standardization (ISO) 2700x**
 
@@ -153,7 +153,7 @@ This is simply a standard for EU residence:
 
 ### Compared with ISO 27001
   
-  ![Compliance Frameworks and Industry Standards](/notes/Compliance%20Frameworks%20and%20Industry%20Standards-3.png)
+  ![Compliance Frameworks and Industry Standards](/notes/ibm-cybersecurity-analyst/Compliance%20Frameworks%20and%20Industry%20Standards-3.png)
 
 ### **SOC1 vs SOC2 vs SOC3**
   
@@ -189,7 +189,7 @@ This is simply a standard for EU residence:
   
   Report scope is defined based on the Trust Service Principles and can be expanded to additional subject.
   
-  ![Compliance Frameworks and Industry Standards](/notes/Compliance%20Frameworks%20and%20Industry%20Standards-4.png)
+  ![Compliance Frameworks and Industry Standards](/notes/ibm-cybersecurity-analyst/Compliance%20Frameworks%20and%20Industry%20Standards-4.png)
 
 ## **SOC Reports – Auditor Process Overview**
 
@@ -202,7 +202,7 @@ This is simply a standard for EU residence:
   **4)** **With Resilience notice** → are there checks/balances in place such that if a control does fail, would you be able to correct at all? Within a reasonable timeframe?
   **5)** **Consistency** → Shifting control implementation raises concerns about above, plus increases testing.
 
-  ![Compliance Frameworks and Industry Standards](/notes/Compliance%20Frameworks%20and%20Industry%20Standards-5.png)
+  ![Compliance Frameworks and Industry Standards](/notes/ibm-cybersecurity-analyst/Compliance%20Frameworks%20and%20Industry%20Standards-5.png)
 
 ### **What does SOC1/SOC2 Test**
   
@@ -370,7 +370,7 @@ This is simply a standard for EU residence:
   
   PCI DSS 3.2 includes a total of **264 requirements** grouped under **12 main requirements**:
   
-  ![Compliance Frameworks and Industry Standards](/notes/Compliance%20Frameworks%20and%20Industry%20Standards-6.png)
+  ![Compliance Frameworks and Industry Standards](/notes/ibm-cybersecurity-analyst/Compliance%20Frameworks%20and%20Industry%20Standards-6.png)
 
 #### Scope
   
@@ -423,11 +423,11 @@ This is simply a standard for EU residence:
 
 ### CIS Control<sup>TM</sup> 7
   
-  ![Compliance Frameworks and Industry Standards](/notes/Compliance%20Frameworks%20and%20Industry%20Standards-7.png)
+  ![Compliance Frameworks and Industry Standards](/notes/ibm-cybersecurity-analyst/Compliance%20Frameworks%20and%20Industry%20Standards-7.png)
 
 ### CIS Control<sup>TM</sup> 7.1 Implementation Groups
   
-  ![Compliance Frameworks and Industry Standards](/notes/Compliance%20Frameworks%20and%20Industry%20Standards-8.png)
+  ![Compliance Frameworks and Industry Standards](/notes/ibm-cybersecurity-analyst/Compliance%20Frameworks%20and%20Industry%20Standards-8.png)
 
 ### Structure of the CIS Control<sup>TM</sup> 7.1
   
@@ -439,4 +439,4 @@ This is simply a standard for EU residence:
 
 ## **Compliance Summary**
   
-  ![Compliance Frameworks and Industry Standards](/notes/Compliance%20Frameworks%20and%20Industry%20Standards-9.png)
+  ![Compliance Frameworks and Industry Standards](/notes/ibm-cybersecurity-analyst/Compliance%20Frameworks%20and%20Industry%20Standards-9.png)

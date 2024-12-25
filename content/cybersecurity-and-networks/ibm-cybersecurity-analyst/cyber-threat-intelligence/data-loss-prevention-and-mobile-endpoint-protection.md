@@ -118,22 +118,22 @@ weight: 2
     - Pre-built classification patterns for regulated data
     - Tamper-proof audit repository
 
-![Data Loss Prevention and Mobile Endpoint Protection](/notes/Data%20Loss%20Prevention%20and%20Mobile%20Endpoint%20Protection.png)
+![Data Loss Prevention and Mobile Endpoint Protection](/notes/ibm-cybersecurity-analyst/Data%20Loss%20Prevention%20and%20Mobile%20Endpoint%20Protection.png)
 
 ## **Data Protection – Industry Example**
 
 ### Guardium support the data protection journey
   
-![Data Loss Prevention and Mobile Endpoint Protection](/notes/Data%20Loss%20Prevention%20and%20Mobile%20Endpoint%20Protection-1.png)
+![Data Loss Prevention and Mobile Endpoint Protection](/notes/ibm-cybersecurity-analyst/Data%20Loss%20Prevention%20and%20Mobile%20Endpoint%20Protection-1.png)
 
 ### Guardium – Data Security and Privacy
 
 - Protect all data against unauthorized access
 - Enable organizations to comply with government regulations and industry standards
   
-![Data Loss Prevention and Mobile Endpoint Protection](/notes/Data%20Loss%20Prevention%20and%20Mobile%20Endpoint%20Protection-2.png)
+![Data Loss Prevention and Mobile Endpoint Protection](/notes/ibm-cybersecurity-analyst/Data%20Loss%20Prevention%20and%20Mobile%20Endpoint%20Protection-2.png)
   
-![Data Loss Prevention and Mobile Endpoint Protection](/notes/Data%20Loss%20Prevention%20and%20Mobile%20Endpoint%20Protection-3.png)
+![Data Loss Prevention and Mobile Endpoint Protection](/notes/ibm-cybersecurity-analyst/Data%20Loss%20Prevention%20and%20Mobile%20Endpoint%20Protection-3.png)
 
 ## **Mobile Endpoint Protection**
   
@@ -187,4 +187,4 @@ weight: 2
   
 While it may seem like a lot to monitor hundreds, thousands, or hundreds of thousands of devices daily, much of the information can be digested by automated systems and action taken without much admin interactions.
 
-![Data Loss Prevention and Mobile Endpoint Protection](/notes/Data%20Loss%20Prevention%20and%20Mobile%20Endpoint%20Protection-4.png)
+![Data Loss Prevention and Mobile Endpoint Protection](/notes/ibm-cybersecurity-analyst/Data%20Loss%20Prevention%20and%20Mobile%20Endpoint%20Protection-4.png)

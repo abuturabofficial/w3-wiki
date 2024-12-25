@@ -34,7 +34,7 @@ alwaysOpen: false
 
 LastPass Data Breach 2022
 
-**<a href="/projects/capstone-project.pptx" download>Download the Presentation</a>**
+**<a href="/projects/ibm-cybersecurity-analyst/capstone-project.pptx" download>Download the Presentation</a>**
 
 
 
@@ -57,5 +57,5 @@ LastPass Data Breach 2022
   }
 </style>
 
-<iframe src="/projects/capstone-project.pdf" class="responsive-iframe" frameborder="0" allowfullscreen></iframe>
+<iframe src="/projects/ibm-cybersecurity-analyst/capstone-project.pdf" class="responsive-iframe" frameborder="0" allowfullscreen></iframe>
 

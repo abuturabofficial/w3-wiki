@@ -15,7 +15,7 @@ weight: 2
 - Bob, Alice (friends) want to communicate “securely”.
 - Trudy (intruder) may intercept, delete, add messages.
   
-  ![Friends and enemies: Alice, Bob, Trudy](/notes/Examples%20and%20principles%20of%20CIA%20triad.png)
+  ![Friends and enemies: Alice, Bob, Trudy](/notes/ibm-cybersecurity-analyst/Examples%20and%20principles%20of%20CIA%20triad.png)
 
 ## **Confidentiality, Integrity, and Availability**
 

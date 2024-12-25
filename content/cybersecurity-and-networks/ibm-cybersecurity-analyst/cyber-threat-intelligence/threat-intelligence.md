@@ -29,13 +29,13 @@ weight: 1
   
   **Attackers break through conventional safeguards every day.**
   
-![Threat Intelligence](/notes/Threat%20Intelligence.png)
+![Threat Intelligence](/notes/ibm-cybersecurity-analyst/Threat%20Intelligence.png)
 
 ## **Threat Intelligence Strategy and External Sources**
   
 **Threat Intelligence Strategy Map:**
   
-![Threat Intelligence](/notes/Threat%20Intelligence-1.png)
+![Threat Intelligence](/notes/ibm-cybersecurity-analyst/Threat%20Intelligence-1.png)
 
 ### Sharing Threat Intelligence
   
@@ -81,7 +81,7 @@ Stakeholders:
 
 ### Trends and Predictions
   
-![Threat Intelligence](/notes/Threat%20Intelligence-2.png)
+![Threat Intelligence](/notes/ibm-cybersecurity-analyst/Threat%20Intelligence-2.png)
 
 ## **Threat Intelligence Platforms**
   
@@ -140,7 +140,7 @@ These are made up of several primary feature areas that allow organizations to i
   
 Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK) can be useful for any organization that wants to move toward a threat-informed defense.
 
-![Threat Intelligence](/notes/Threat%20Intelligence-3.png)
+![Threat Intelligence](/notes/ibm-cybersecurity-analyst/Threat%20Intelligence-3.png)
 
 **Level 2:**
 1. Understand ATT&CK
@@ -151,11 +151,11 @@ Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK) can be useful for
 
 ### Cyber Threat Framework
 
-![Threat Intelligence](/notes/Threat%20Intelligence-4.png)
+![Threat Intelligence](/notes/ibm-cybersecurity-analyst/Threat%20Intelligence-4.png)
 
 ### An integrated and intelligent security immune system
   
-![Threat Intelligence](/notes/Threat%20Intelligence-5.png)
+![Threat Intelligence](/notes/ibm-cybersecurity-analyst/Threat%20Intelligence-5.png)
 
 ### Best practices: Intelligent detection
   
@@ -181,7 +181,7 @@ Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK) can be useful for
 
 ### Ask the right questions – The exploit timeline
   
-![Threat Intelligence](/notes/Threat%20Intelligence-6.png)
+![Threat Intelligence](/notes/ibm-cybersecurity-analyst/Threat%20Intelligence-6.png)
 
 ### 3 Pillars of Effective Threat Detection
 
@@ -191,8 +191,8 @@ Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK) can be useful for
 
 ### **Security Effectiveness Reality**
   
-![Threat Intelligence](/notes/Threat%20Intelligence-7.png)
+![Threat Intelligence](/notes/ibm-cybersecurity-analyst/Threat%20Intelligence-7.png)
 
 #### Key Takeaways
   
-![Threat Intelligence](/notes/Threat%20Intelligence-8.png)
+![Threat Intelligence](/notes/ibm-cybersecurity-analyst/Threat%20Intelligence-8.png)

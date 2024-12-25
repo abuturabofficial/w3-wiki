@@ -51,7 +51,7 @@ There are 4 main components of most scanners:
 - The formula for determining the score is public and freely distributed, providing transparency.
 - It helps prioritize risk — CVSS rankings provide both a general score and more specific metrics.
   
-![Scanning](/notes/Scanning.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning.png)
 
 **Score Breakdown:**
 
@@ -60,7 +60,7 @@ The CVSS score has three values for ranking a vulnerability:
 2. **A temporal score**, which ranks how aware people are of the vulnerability, what remedial steps are being taken, and whether threat actors are targeting it.
 3. **An environmental score**, which provides a more customized metric specific to an organization or work environment.
 
-![Scanning](/notes/Scanning-1.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-1.png)
 
 ### STIGS – Security Technical Implementation Guides
 
@@ -86,11 +86,11 @@ The CVSS score has three values for ranking a vulnerability:
 
 ### **Implementation Groups**
   
-![Scanning](/notes/Scanning-2.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-2.png)
 
 #### 20 CIS Controls
   
-![Scanning](/notes/Scanning-3.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-3.png)
 
 ## **Port Scanning**
   
@@ -140,7 +140,7 @@ Port scanning is a method of determining which ports on a network are open and c
   Sniffers operate at the data link layer of the OSI model, which means they don’t have to play by the same rules as the applications and services that reside further up the stack. Sniffers can capture everything on the wire and record it for later review. They allow user’s to see all the data contained in the packet.
 - Wireshark
   
-![Scanning](/notes/Scanning-4.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-4.png)
 
 #### WireShark
   
@@ -178,7 +178,7 @@ Port scanning is a method of determining which ports on a network are open and c
   
   Wireshark is the most popular traffic analyzer in the world. Wireshark uses `.pcap` files to record packet data that has been pulled from a network scan. Packet data is recorded in files with the `.pcap` file extension and can be used to find performance issues and cyberattacks on the network.
   
-![Scanning](/notes/Scanning-5.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-5.png)
 
 # **Security Architecture considerations**
 
@@ -207,53 +207,53 @@ Port scanning is a method of determining which ports on a network are open and c
   
 **Enterprise and Solution Architecture break down the problem, providing different levels of abstraction.**
   
-![Scanning](/notes/Scanning-6.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-6.png)
   
 **High-level architectures are described through Architectural Building Blocks (ABBs) and Solution Building Blocks (SBBs).**
   
-![Scanning](/notes/Scanning-7.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-7.png)
   
 **Here are some example Security ABBs and SBBs providing different levels of abstraction aimed at a different audience.**
   
-![Scanning](/notes/Scanning-8.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-8.png)
   
 **Here is a high level example of an Enterprise Security Architecture for hybrid multicloud showing security domains.**
 
-![Scanning](/notes/Scanning-9.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-9.png)
 
 **The Enterprise Security Architecture domains could be decomposed to show security capabilities… without a context.**
 
-![Scanning](/notes/Scanning-10.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-10.png)
 
 **Adding context gives us a next level Enterprise Architecture for hybrid multi-cloud, but without specific implementation.**
 
-![Scanning](/notes/Scanning-11.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-11.png)
 
 ## **Solution Architecture**
   
 **Additional levels of abstraction are used to describe architectures down to the physical operational aspects.**
 
-![Scanning](/notes/Scanning-12.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-12.png)
 
 **Start with a solution architecture with an Architecture Overview giving an overview of the system being developed.**
 
-![Scanning](/notes/Scanning-13.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-13.png)
 
 **Continue by clearly defining the external context describing the boundary, actors and use that process data.**
 
-![Scanning](/notes/Scanning-14.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-14.png)
 
 **Examine the system internally looking at the functional components and examine the threats to the data flows.**
 
-![Scanning](/notes/Scanning-15.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-15.png)
 
 **Finally, look at where the function is hosted, the security zones and the specific protection required to protect data.**
 
-![Scanning](/notes/Scanning-16.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-16.png)
 
 **As the architecture is elaborated, define what is required and how it will be delivered?**
 
-![Scanning](/notes/Scanning-17.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-17.png)
 
 ## **Security Patterns**
 
@@ -267,7 +267,7 @@ A security Architecture pattern is
 - Vendor specific or agnostic
 - Available at all levels of abstraction
 
-![Scanning](/notes/Scanning-18.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-18.png)
   
   **There are many security architecture patterns available to provide a good starting point to accelerate development.**
 
@@ -275,19 +275,19 @@ A security Architecture pattern is
 
 ## **Application Security Overview**
   
-![Scanning](/notes/Scanning-19.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-19.png)
 
 ### Software Development Lifecycle
 
-![Scanning](/notes/Scanning-20.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-20.png)
 
 ### Penetration Testing Tools
 
-![Scanning](/notes/Scanning-21.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-21.png)
 
 ### Source Code Analysis Tools
 
-![Scanning](/notes/Scanning-22.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-22.png)
 
 ## **Application Security Threats and Attacks**
 
@@ -304,7 +304,7 @@ A security Architecture pattern is
 
 ### Web Application Firewall (WAF)
   
-![Scanning](/notes/Scanning-23.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-23.png)
 
 ### Application Threats/Attacks
   
@@ -371,18 +371,18 @@ A security Architecture pattern is
 
 ### Why this matter?
   
-![Scanning](/notes/Scanning-24.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-24.png)
 
 - Emerging DevOps teams lead to conflicting objectives.
 - DevSecOps is an integrated, automated, continuous security; always.
   
   **Integrating Security with DevOps to create DevSecOps.**
   
-![Scanning](/notes/Scanning-25.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-25.png)
 
 ### **What does DevSecOps look like?**
   
-![Scanning](/notes/Scanning-26.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-26.png)
 
 - Define your operating and governance model early.
 - A successful program starts with the people & culture.
@@ -399,9 +399,9 @@ A security Architecture pattern is
   
   **Security Coach** role to drive security integration.
   
-![Scanning](/notes/Scanning-27.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-27.png)
 
-![Scanning](/notes/Scanning-28.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-28.png)
 
 #### Develop Security: Code & Build Security & Development combined
   
@@ -414,23 +414,23 @@ A security Architecture pattern is
 - Security Engineer to drive technical integration and uplift team security knowledge.
   
   
-![Scanning](/notes/Scanning-29.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-29.png)
 
 #### Develop Securely: Code & Build
   
   Detect issues and fix them, earlier in the lifecycle
   
-![Scanning](/notes/Scanning-30.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-30.png)
 
 #### Develop Securely: Test
   
   Security and development Combined
   
-![Scanning](/notes/Scanning-31.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-31.png)
   
   Validate apps are secure before release & development.
   
-![Scanning](/notes/Scanning-32.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-32.png)
 
 ## **DevSecOps Deployment**
 
@@ -441,11 +441,11 @@ A security Architecture pattern is
   
 Controlled creation & destruction
   
-![Scanning](/notes/Scanning-33.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-33.png)
 
 Create securely, destroy securely, every time.
 
-![Scanning](/notes/Scanning-34.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-34.png)
 
 ### **Secure Operations: Operate & Monitor**
 
@@ -455,15 +455,15 @@ Create securely, destroy securely, every time.
   
   Security & Operations combined
   
-![Scanning](/notes/Scanning-35.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-35.png)
   
   It’s not a question of if you get hacked, but when.
   
-![Scanning](/notes/Scanning-36.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-36.png)
 
 #### So, why DevSecOps?
   
-![Scanning](/notes/Scanning-37.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-37.png)
 
 # **Deep Dive into Cross-Site Scripting**
 
@@ -471,7 +471,7 @@ Create securely, destroy securely, every time.
 
 ### What, Should I worry?
   
-![Scanning](/notes/Scanning-38.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-38.png)
 
 ### Issues Types
 
@@ -484,7 +484,7 @@ Create securely, destroy securely, every time.
 
 - Developers face many challenges:
   
-![Scanning](/notes/Scanning-39.png)
+![Scanning](/notes/ibm-cybersecurity-analyst/Scanning-39.png)
 
 - Yet with good security education, and solid design and implementation practices, we can make sure our products are secure.
 

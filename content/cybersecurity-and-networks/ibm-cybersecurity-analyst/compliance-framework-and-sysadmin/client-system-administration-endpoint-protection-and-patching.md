@@ -76,13 +76,13 @@ weight: 2
 
 ### **Take a new approach to UEM**
   
-  ![Client System Administration Endpoint Protection and Patching](/notes/Client%20System%20Administration%20Endpoint%20Protection%20and%20Patching.png)
+  ![Client System Administration Endpoint Protection and Patching](/notes/ibm-cybersecurity-analyst/Client%20System%20Administration%20Endpoint%20Protection%20and%20Patching.png)
 
 #### UEM with AI
   
-  ![Client System Administration Endpoint Protection and Patching](/notes/Client%20System%20Administration%20Endpoint%20Protection%20and%20Patching-1.png)
+  ![Client System Administration Endpoint Protection and Patching](/notes/ibm-cybersecurity-analyst/Client%20System%20Administration%20Endpoint%20Protection%20and%20Patching-1.png)
   
-  ![Client System Administration Endpoint Protection and Patching](/notes/Client%20System%20Administration%20Endpoint%20Protection%20and%20Patching-2.png)
+  ![Client System Administration Endpoint Protection and Patching](/notes/ibm-cybersecurity-analyst/Client%20System%20Administration%20Endpoint%20Protection%20and%20Patching-2.png)
 
 ### **Traditional Client Management Systems**
 
@@ -100,11 +100,11 @@ weight: 2
 
 ### Modern Unified Endpoint Management
   
-  ![Client System Administration Endpoint Protection and Patching](/notes/Client%20System%20Administration%20Endpoint%20Protection%20and%20Patching-3.png)
+  ![Client System Administration Endpoint Protection and Patching](/notes/ibm-cybersecurity-analyst/Client%20System%20Administration%20Endpoint%20Protection%20and%20Patching-3.png)
   
   IT Teams are also converging:
   
-  ![Client System Administration Endpoint Protection and Patching](/notes/Client%20System%20Administration%20Endpoint%20Protection%20and%20Patching-4.png)
+  ![Client System Administration Endpoint Protection and Patching](/notes/ibm-cybersecurity-analyst/Client%20System%20Administration%20Endpoint%20Protection%20and%20Patching-4.png)
 
 ## **Overview of Patching**
 
@@ -135,4 +135,4 @@ weight: 2
 
 ### Patching Process
   
-  ![Client System Administration Endpoint Protection and Patching](/notes/Client%20System%20Administration%20Endpoint%20Protection%20and%20Patching-5.png)
+  ![Client System Administration Endpoint Protection and Patching](/notes/ibm-cybersecurity-analyst/Client%20System%20Administration%20Endpoint%20Protection%20and%20Patching-5.png)
