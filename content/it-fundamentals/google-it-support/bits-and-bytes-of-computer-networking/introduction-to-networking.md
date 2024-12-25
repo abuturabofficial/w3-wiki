@@ -109,7 +109,7 @@ Smart devices like thermostat, refrigerators, and other home appliances as well 
   + Change voltage to get binary data
   + The most common forms of copper twisted-pair cables used in networking are **Cat5, Cat5e, and Cat6** cables
   
-  ![Types of Twisted-Pair Copper Cables](/notes/Introduction%20to%20Networking.png){: w="600" h="300"}
+  ![Types of Twisted-Pair Copper Cables](/notes/google-it-support/Introduction%20to%20Networking.png){: w="600" h="300"}
   
   > **Crosstalk**: “When an electrical pulse on one wire is accidentally detected on another wire.”
 - Fiber Optic Cables  
@@ -122,12 +122,12 @@ Smart devices like thermostat, refrigerators, and other home appliances as well 
   
   > A physical layer device that allows for connections from many computers at once.
   
-  ![Hubs's Working](/notes/Introduction%20to%20Networking-1.png)
+  ![Hubs's Working](/notes/google-it-support/Introduction%20to%20Networking-1.png)
 - Layer 1 device
 - **Collision domain:** A network segment where only one device can communicate at a time.
 - If multiple systems try sending data at the same time, the electrical pulses sent across the cable can interfere with each other.
   
-  ![Data Collision](/notes/Introduction%20to%20Networking-2.png)
+  ![Data Collision](/notes/google-it-support/Introduction%20to%20Networking-2.png)
 
 #### Network Switch
 
@@ -169,14 +169,14 @@ Smart devices like thermostat, refrigerators, and other home appliances as well 
 
 > **Simplex Communication:** This is unidirectional
   
-  ![Simplex and Duplex Communication](/notes/Introduction%20to%20Networking-3.png)
+  ![Simplex and Duplex Communication](/notes/google-it-support/Introduction%20to%20Networking-3.png)
   
 #### Network Ports and Patch Panels
 
 - Twisted-Pair Cables end with the plug which takes the wires and act as a connector
 - The most common plug **RJ45**
   
-  ![Plugs and Connector](/notes/Introduction%20to%20Networking-4.png)
+  ![Plugs and Connector](/notes/google-it-support/Introduction%20to%20Networking-4.png)
   
   > **Network Ports:** They are generally directly attached to the devices that make up a computer network
 - Most network ports have two small LEDs
@@ -211,7 +211,7 @@ Smart devices like thermostat, refrigerators, and other home appliances as well 
   + It's a 48- bit number normally represented by six groupings of two hexadecimal numbers
   + **Hexadecimal:** A way to represent numbers using 16 digits
   
-  ![Hexadecimal Numbers](/notes/Introduction%20to%20Networking-5.png)
+  ![Hexadecimal Numbers](/notes/google-it-support/Introduction%20to%20Networking-5.png)
   
   + Another way to represent MAC Address is Octet
   + **Octet:** In computer networking, any number can be represented by 8 bits
@@ -221,7 +221,7 @@ Smart devices like thermostat, refrigerators, and other home appliances as well 
   
   > **2) Vendor Assigned(NIC Cards, Interfaces):** Last three octets are assigned by the vendor, depending upon their preferences.
   
-  ![MAC Address Types](/notes/Introduction%20to%20Networking-6.png)
+  ![MAC Address Types](/notes/google-it-support/Introduction%20to%20Networking-6.png)
   
   + Ethernet uses MAC addresses to ensure that the data it sends has both an address for the machine that sent the transmission, and the one the transmission was intended for.
 
@@ -230,13 +230,13 @@ Smart devices like thermostat, refrigerators, and other home appliances as well 
 - Uni-cast
   > A uni-cast transmission is always meant for just one receiving address
   
-  ![Unicast](/notes/Introduction%20to%20Networking-7.png)
+  ![Unicast](/notes/google-it-support/Introduction%20to%20Networking-7.png)
   
   + It's done by looking at a specific bit in the destination MAC address
   + If the least significant bit in the first octet of a destination address is set to **zero**, it means that an Ethernet frame is intended for **only the destination address**. 
   + If the least significant bit in the first octet of a destination address is set to **one**, it means you're dealing with a **Multicast frame.**
   
-  ![Multicast](/notes/Introduction%20to%20Networking-8.png)
+  ![Multicast](/notes/google-it-support/Introduction%20to%20Networking-8.png)
 - Broadcast
   
   > An Ethernet Broadcast is sent to every single device on a LAN
@@ -245,7 +245,7 @@ Smart devices like thermostat, refrigerators, and other home appliances as well 
   + Ethernet broadcast are used, so devices can learn more about each other
   + Ethernet broadcast address used is `FF:FF:FF:FF:FF:FF:FF` 
   
-  ![Broadcast](/notes/Introduction%20to%20Networking-9.png)
+  ![Broadcast](/notes/google-it-support/Introduction%20to%20Networking-9.png)
 
 #### Dissecting an Ethernet Frame
 
@@ -256,7 +256,7 @@ Smart devices like thermostat, refrigerators, and other home appliances as well 
   
   > A highly structured collection of information presented in a specific order
   
-  ![Ethernet Frame](/notes/Introduction%20to%20Networking-10.png)
+  ![Ethernet Frame](/notes/google-it-support/Introduction%20to%20Networking-10.png)
   
   + The first part of an Ethernet frame is called a preamble.
   
@@ -284,7 +284,7 @@ Smart devices like thermostat, refrigerators, and other home appliances as well 
   > **Virtual LAN (VLAN):** A technique that lets you have multiple logical LANs operating on the same physical equipment
   + VLANs, use to segregate different type of network traffic
   
-  ![Vlan Network](/notes/Introduction%20to%20Networking-11.png)
+  ![Vlan Network](/notes/google-it-support/Introduction%20to%20Networking-11.png)
   
   + The next part of Ether frame is payload
   

@@ -28,7 +28,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   Useful for organizing data and making it searchable for an organization.
   
-  ![Directory Structure Management](/notes/Directory%20Services.png)
+  ![Directory Structure Management](/notes/google-it-support/Directory%20Services.png)
 
 ### Implementing Directory Services
   
@@ -55,14 +55,14 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + Directory services provide centralized **authentication, authorization**, and **accounting**, also known as **AAA**.
   + **Role base access control or RBAC** is super important in centralized management to restrict access to authorized users only.
   
-  ![Role Base Access Control](/notes/Directory%20Services-1.png)
+  ![Role Base Access Control](/notes/google-it-support/Directory%20Services-1.png)
   
   They're super powerful configuration management, and automation software tools like:
   + Chef
   + Puppet
   + SCCM
   
-  ![Centralized Management](/notes/Directory%20Services-2.png)
+  ![Centralized Management](/notes/google-it-support/Directory%20Services-2.png)
 
 ## **LDAP**
 
@@ -102,7 +102,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   The common SASL authentication technique is **Kerberos**.
   
-  ![LDAP Authentication](/notes/Directory%20Services-3.png)
+  ![LDAP Authentication](/notes/google-it-support/Directory%20Services-3.png)
 
 #### Kerberos
   
@@ -121,7 +121,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   Local user accounts and security groups are managed by the **Security Accounts Manager (SAM) on a local computer.
   
-  ![Authorization and Access Control Process](/notes/Directory%20Services-6.png)
+  ![Authorization and Access Control Process](/notes/google-it-support/Directory%20Services-6.png)
   
   There are three group scopes:
   
@@ -139,7 +139,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + Password reset will wipe out any encrypted files on the user's computer.
   + Designated user accounts, called recovery agents > accounts, are issued recovery agent certificates with public keys and private keys that are used for EFS data recovery operations.
   
-  ![EFS](/notes/Directory%20Services-4.png)
+  ![EFS](/notes/google-it-support/Directory%20Services-4.png)
 
 ### **Joining an Active Directory Domain**
   
@@ -175,7 +175,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + When you link a GPO, all the computers or users under that domain, site, or `OU` will have that policy applied.
   + A `GPO` can contain **computer configuration, user configuration**, or both.
   
-  ![A GPO](/notes/Directory%20Services-5.png)
+  ![A GPO](/notes/google-it-support/Directory%20Services-5.png)
   
   + **Group Policy Management** tool, or `gpms.msc`, to change GPOs.
 

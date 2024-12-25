@@ -50,7 +50,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + White-hat hackers
   + Black-hat hackers
   
-  ![Hacker](/notes/Understanding%20Security%20Threats.png)
+  ![Hacker](/notes/google-it-support/Understanding%20Security%20Threats.png)
 
 ### Attack 
   
@@ -62,7 +62,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   A type of malicious software that can be used to obtain your sensitive information, or delete or modify files.
   
-  ![Malware](/notes/Understanding%20Security%20Threats-1.png)
+  ![Malware](/notes/google-it-support/Understanding%20Security%20Threats-1.png)
 
 ### Adware
   
@@ -72,7 +72,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   Malware that disguises itself as one thing but does something else.
   
-  ![Trojan](/notes/Understanding%20Security%20Threats-2.png)
+  ![Trojan](/notes/google-it-support/Understanding%20Security%20Threats-2.png)
 
 ### Spyware
   
@@ -132,7 +132,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   Designed to utilize the power of the internet-connected machines to perform some distributed function.
   
-  ![Botnets](/notes/Understanding%20Security%20Threats-3.png)
+  ![Botnets](/notes/google-it-support/Understanding%20Security%20Threats-3.png)
 
 ### Backdoor
   
@@ -142,7 +142,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   A collection of software or tools that an Admin would use.
   
-  ![Rootkit](/notes/Understanding%20Security%20Threats-4.png)
+  ![Rootkit](/notes/google-it-support/Understanding%20Security%20Threats-4.png)
 
 ### Logic bomb
   
@@ -161,7 +161,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   **Man-in-the-middle attack** is an attack that places the attacker in the middle of two hosts that think they're communicating directly with each other.
   
-  ![Network Attacks](/notes/Understanding%20Security%20Threats-5.png)
+  ![Network Attacks](/notes/google-it-support/Understanding%20Security%20Threats-5.png)
   
   The methods of Man-in-the-middle attack are:
   + Session or Cookie hijacking
@@ -172,33 +172,33 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   An access point that is installed on the network without the network administrator's knowledge.
   
-  ![Rogue AP](/notes/Understanding%20Security%20Threats-6.png)
+  ![Rogue AP](/notes/google-it-support/Understanding%20Security%20Threats-6.png)
 
 ### Evil Twin
   
   The premise of an evil twin attack is for you to connect to a network that is identical to yours. This identical network is our network's evil twin and is controlled by our attacker.
   
-  ![Evil Twin](/notes/Understanding%20Security%20Threats-7.png)
+  ![Evil Twin](/notes/google-it-support/Understanding%20Security%20Threats-7.png)
 
 ### **Denial-of-service (DoS) attack**
   
   An attack that tries to prevent access to a service for legitimate users by overwhelming the network or server.
   
-  ![DoS](/notes/Understanding%20Security%20Threats-8.png)
+  ![DoS](/notes/google-it-support/Understanding%20Security%20Threats-8.png)
   
   1) The ping of death or **POD** is an example of DoS attack, where the attacker sends the large number of pings to take down the server.
   
-  ![POD](/notes/Understanding%20Security%20Threats-9.png)
+  ![POD](/notes/google-it-support/Understanding%20Security%20Threats-9.png)
   
   2) Another example is a **ping flood**, sends tons of ping packets to a system. More specifically, it sends **ICMP** echo requests.
   
-  ![ICMP](/notes/Understanding%20Security%20Threats-10.png)
+  ![ICMP](/notes/google-it-support/Understanding%20Security%20Threats-10.png)
   
   3) Similar is a **SYN flood**, to make a TCP connection a client needs to send a **SYN** packet to a server it wants to connect to. Next, the server sends back a **SYN-ACK** message, then the client sends in ACK message.
   
   In a SYN flood, the server is being bombarded with SYN packets.
   
-  ![SYN Flood](/notes/Understanding%20Security%20Threats-11.png)
+  ![SYN Flood](/notes/google-it-support/Understanding%20Security%20Threats-11.png)
   
   During SYN flood, the TCP connection remains open, so it is also called a **Half-open attack**.
 
@@ -227,7 +227,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 
 #### SQL injection attack
   
-  ![SQL Injection Attack](/notes/Understanding%20Security%20Threats-12.png)
+  ![SQL Injection Attack](/notes/google-it-support/Understanding%20Security%20Threats-12.png)
 
 #### Password Attacks
   
@@ -237,11 +237,11 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   A Catchpa, can save your website from brute force attack.
   
-  ![Brute Force Attack](/notes/Understanding%20Security%20Threats-13.png)
+  ![Brute Force Attack](/notes/google-it-support/Understanding%20Security%20Threats-13.png)
 
 #### Dictionary Attack
   
-  ![Dictionary Attack](/notes/Understanding%20Security%20Threats-14.png)
+  ![Dictionary Attack](/notes/google-it-support/Understanding%20Security%20Threats-14.png)
 
 ## **Deceptive Attacks**
 
@@ -249,25 +249,25 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   An attack method that relies heavily on interactions with humans instead of computers.
   
-  ![Social Engineering](/notes/Understanding%20Security%20Threats-15.png)
+  ![Social Engineering](/notes/google-it-support/Understanding%20Security%20Threats-15.png)
   
   The popular types of social engineering attacks:
   + Phishing attack – Use of email or text messaging
   
-  ![Phishing attack](/notes/Understanding%20Security%20Threats-16.png)
+  ![Phishing attack](/notes/google-it-support/Understanding%20Security%20Threats-16.png)
   
   + Spear phishing — Attack individuals
   
-  ![Spear phishing](/notes/Understanding%20Security%20Threats-17.png)
+  ![Spear phishing](/notes/google-it-support/Understanding%20Security%20Threats-17.png)
   
   + Email Spoofing
   
-  ![Email Spoofing](/notes/Understanding%20Security%20Threats-18.png)
+  ![Email Spoofing](/notes/google-it-support/Understanding%20Security%20Threats-18.png)
   
   + Baiting – Entice a victim to do something
   + Tailgating
   
-  ![Baiting](/notes/Understanding%20Security%20Threats-19.png)
+  ![Baiting](/notes/google-it-support/Understanding%20Security%20Threats-19.png)
   
   + Whaling – Spear phishing a high value target
   + Vishing - Use of Voice over IP (VoIP)

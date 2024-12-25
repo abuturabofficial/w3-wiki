@@ -50,7 +50,7 @@ Services that employees use that allow them to do their daily job functions.
   
   It is an only protocol for sending emails.
   
-  ![Email Services](/notes/Software%20and%20Platform%20Services.png)
+  ![Email Services](/notes/google-it-support/Software%20and%20Platform%20Services.png)
 
 ### Configuring User Productivity Services
   
@@ -75,14 +75,14 @@ Services that employees use that allow them to do their daily job functions.
 
 ### What are File Services?
   
-  ![File Services](/notes/Software%20and%20Platform%20Services-1.png)
+  ![File Services](/notes/google-it-support/Software%20and%20Platform%20Services-1.png)
 
 ### Network File Storage
 
 - Only few file systems are cross-compatible. Like FAT32.
 - Network File System (NFS), allows us to share files over a network, cross-compatible.
   
-  ![NFS](/notes/Software%20and%20Platform%20Services-2.png)
+  ![NFS](/notes/google-it-support/Software%20and%20Platform%20Services-2.png)
 - NFS is even through cross-compatible, but there are some compatibility issues on Windows.
 - Even your fleet is mostly Windows, you can use **Samba**, though Samba is also cross-platform.
   

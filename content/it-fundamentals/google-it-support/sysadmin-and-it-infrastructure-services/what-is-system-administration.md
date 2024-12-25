@@ -24,7 +24,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   + Database Administrators
   
-  ![A Company X IT Infrastructure](/notes/What%20is%20System%20Administrations.png)
+  ![A Company X IT Infrastructure](/notes/google-it-support/What%20is%20System%20Administrations.png)
 
 ## **Servers Revisited**
 
@@ -49,13 +49,13 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + Rack Servers
   + Blade Servers
   
-  ![Types of Server](/notes/What%20is%20System%20Administrations-1.png)
+  ![Types of Server](/notes/google-it-support/What%20is%20System%20Administrations-1.png)
 
 ### KVM Switch
   
   Keyboard, Video, and Mouse (KVM) is an industry standard hardware device for connecting directly to the servers.
   
-  ![A KVM Switch in Action](/notes/What%20is%20System%20Administrations-2.png)
+  ![A KVM Switch in Action](/notes/google-it-support/What%20is%20System%20Administrations-2.png)
 
 ## **The Cloud**
 
@@ -80,7 +80,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   There are four stages of hardware life cycle
   
-  ![A Company Hardware Life-cycle](/notes/What%20is%20System%20Administrations-3.png)
+  ![A Company Hardware Life-cycle](/notes/google-it-support/What%20is%20System%20Administrations-3.png)
 
 ### Routine Maintenance
   

@@ -110,7 +110,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 - If we want to close an unresponsive process, we use signals.
 - The most common is **SIGINT** or signal interrupt. You can send this signal to a running process with the **CTRL+C** key combination.
   
-  ![Windows Signals](/notes/Process%20Management.png)
+  ![Windows Signals](/notes/google-it-support/Process%20Management.png)
 
 #### Signal
   

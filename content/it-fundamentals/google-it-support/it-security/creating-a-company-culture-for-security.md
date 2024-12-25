@@ -39,7 +39,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + [OpenVAS](https://www.openvas.org/)
   + [Qualys](https://www.qualys.com/forms/freescan/)
   
-  ![Creating a Company Culture for Security](/notes/Creating%20a%20Company%20Culture%20for%20Security.png)
+  ![Creating a Company Culture for Security](/notes/google-it-support/Creating%20a%20Company%20Culture%20for%20Security.png)
 
 #### Penetration testing
   
@@ -73,7 +73,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + A much greater risk in the workplace that users should be educated on is **credential theft** from phishing emails.
   + If someone entered their password into a phishing site, or even suspects they did, it's important to **change their password** asap.
   
-  ![Creating a Company Culture for Security](/notes/Creating%20a%20Company%20Culture%20for%20Security-1.png)
+  ![Creating a Company Culture for Security](/notes/google-it-support/Creating%20a%20Company%20Culture%20for%20Security-1.png)
 
 ### Third-Party Security
   
@@ -98,7 +98,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   Once the scope of the incident is determined, the next step is **containment**.
   + If an account was compromised, change the password immediately. If the owner is unable to **change the password** right away, then **lock the account**.
   
-  ![Creating a Company Culture for Security](/notes/Creating%20a%20Company%20Culture%20for%20Security-2.png)
+  ![Creating a Company Culture for Security](/notes/google-it-support/Creating%20a%20Company%20Culture%20for%20Security-2.png)
   
   Another part of incident analysis is determining **severity, impact, and recoverability** of the incident.
   + Severity includes factors like what and how many systems were compromised, and how the breach affects business functions.

@@ -41,19 +41,19 @@ LastModifierEmail: cyberfrontofficial@proton.me
   Provide protection against DoS or Denial of Service attacks.
   + fail2ban
   
-  ![Flood Guards](/notes/Securing%20Your%20Networks.png)
+  ![Flood Guards](/notes/google-it-support/Securing%20Your%20Networks.png)
 
 ### **Network Hardware Hardening**
   
   To protect against Rogue DHCP server attack, enterprise switches offer a feature called DHCP snooping.
   
-  ![Network Hardware Hardening](/notes/Securing%20Your%20Networks-1.png)
+  ![Network Hardware Hardening](/notes/google-it-support/Securing%20Your%20Networks-1.png)
   
   Another form of network hardening is **Dynamic ARP inspection**.
   
   Dynamic ARP inspection is also a feature of enterprise switches.
   
-  ![Network Hardware Hardening](/notes/Securing%20Your%20Networks-2.png)
+  ![Network Hardware Hardening](/notes/google-it-support/Securing%20Your%20Networks-2.png)
   
   IP Source Guard is used to protect against IP spoofing attacks in enterprise switches.
   
@@ -64,13 +64,13 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + The authentication server uses either a shared key system or open access system to control who is able to connect to the network.
   + Based on the criteria of the authentication server, the supplicator will grant the authentication request and begin the connection process, or it will be sent an Access Reject message and terminate the connection.
   
-  ![Network Hardware Hardening](/notes/Securing%20Your%20Networks-3.png)
+  ![Network Hardware Hardening](/notes/google-it-support/Securing%20Your%20Networks-3.png)
 
 #### EAP-TLS
   
   An authentication type supported by EAP that uses TLS to provide mutual authentication of both the client and the authenticating server.
   
-  ![EAP-TLS](/notes/Securing%20Your%20Networks-4.png)
+  ![EAP-TLS](/notes/google-it-support/Securing%20Your%20Networks-4.png)
 
 ### Network Software Hardening
   
@@ -91,14 +91,14 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + Open System authentication
   + Shared Key authentication
   
-  ![WEP](/notes/Securing%20Your%20Networks-5.png)
+  ![WEP](/notes/google-it-support/Securing%20Your%20Networks-5.png)
   
   Why WEP is for everyone:
   + Seriously bad for privacy and confidentiality purposes
   + It was abandoned in 2004, in favor of more strong encryption methods.
   + [Inherent weaknesses in RC4 Encryption Algorithm](https://link.springer.com/chapter/10.1007/3-540-45537-X_1) use in WEP.
   
-  ![WEP](/notes/Securing%20Your%20Networks-6.png)
+  ![WEP](/notes/google-it-support/Securing%20Your%20Networks-6.png)
 
 ### **Let's Get Rid of WEP! WPA/WPA2**
   
@@ -112,7 +112,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   Under WPA, the **pre-shared key** is the Wi-Fi password you share with people when they come over and want to use your wireless network.
   
-  ![WPA](/notes/Securing%20Your%20Networks-7.png)
+  ![WPA](/notes/google-it-support/Securing%20Your%20Networks-7.png)
 
 #### WPA2
   
@@ -120,11 +120,11 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + Uses AES.
   + CCMP (Counter Mode CBC-MAC Protocol)
   
-  ![WPA2](/notes/Securing%20Your%20Networks-8.png)
+  ![WPA2](/notes/google-it-support/Securing%20Your%20Networks-8.png)
   
   Four-way handshake
   
-  ![WPA2](/notes/Securing%20Your%20Networks-9.png)
+  ![WPA2](/notes/google-it-support/Securing%20Your%20Networks-9.png)
   
   PMTK is generated through:
   + PMK
@@ -198,9 +198,9 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + [Suricata](https://suricata-ids.org/)
   + [Bro NIDS](https://www.zeek.org/) (Rename to the Zeek Network Security Monitor)
   
-  ![NIDS](/notes/Securing%20Your%20Networks-10.png)
+  ![NIDS](/notes/google-it-support/Securing%20Your%20Networks-10.png)
   
-  ![NIDS](/notes/Securing%20Your%20Networks-11.png)
+  ![NIDS](/notes/google-it-support/Securing%20Your%20Networks-11.png)
 
 ### **Unified Threat Management (UTM)**
   
@@ -255,7 +255,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 
 - **Meddler in the middle attacks** allows a meddler to get between two communication devices or applications. The meddler then replies as the sender and receiver without either one knowing they are not communicating with the correct person, device, or application. These attacks allow the meddler to obtain login credentials and other sensitive information.
   
-  ![Common Security Vuln](/notes/Securing%20Your%20Networks-12.png)
+  ![Common Security Vuln](/notes/google-it-support/Securing%20Your%20Networks-12.png)
   
 - **Data Theft** is when data within the network is stolen, copied, sent, or viewed by someone who should not have access.
 - **Ransomware** uses malware to keep users from accessing important files on their network. Hackers grant access to the files after receiving a ransom payment.

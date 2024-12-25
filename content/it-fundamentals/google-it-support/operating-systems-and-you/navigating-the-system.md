@@ -276,7 +276,7 @@ so, to list directories
 
 - Some old but not powerful as PowerShell, cmd.exe commands are
   
-  ![cmd.exe](/notes/Navigating%20the%20System.png)
+  ![cmd.exe](/notes/google-it-support/Navigating%20the%20System.png)
   
 ### Windows: Searching within Files
 

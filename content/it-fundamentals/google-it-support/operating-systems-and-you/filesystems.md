@@ -16,9 +16,9 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + Shortcomings are, max file size supported is 4 GB
   + Max file system 32 GB
   
-  ![USB on Linux and Windows](/notes/Filesystems.png)
+  ![USB on Linux and Windows](/notes/google-it-support/Filesystems.png)
   
-  ![USB not Working on Windows](/notes/Filesystems-1.png)
+  ![USB not Working on Windows](/notes/google-it-support/Filesystems-1.png)
 
 ### **Disk Anatomy**
 
@@ -28,11 +28,11 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + Two main Partition tables are used
     + Master Boot Record (MBR)
   
-    ![MBR](/notes/Filesystems-2.png)
+    ![MBR](/notes/google-it-support/Filesystems-2.png)
   
     + GUID Partition Table (GPT)
   
-    ![GPT](/notes/Filesystems-3.png)
+    ![GPT](/notes/google-it-support/Filesystems-3.png)
   
   + For new booting standard UEFI, you need GPT table.
 
@@ -92,7 +92,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   Cluster size is the smallest division of storage possible in a drive. Cluster size is important because a file will take up the entire size of the cluster, regardless of how much space it actually requires in the cluster.
 - For example, if the cluster size is 4kb (the default size for many formats and sizes) and the file you're trying to store is 4.1kb, that file will take up 2 clusters. This means that the drive has effectively lost 3.9 Kb of space for use on a single file.
   
-  ![Cluster size](/notes/Filesystems-4.png)
+  ![Cluster size](/notes/google-it-support/Filesystems-4.png)
   
 #### Volume
   
@@ -172,7 +172,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   Example of an `fstab` table:
   
-  ![FSTAB](/notes/Filesystems-5.png)
+  ![FSTAB](/notes/google-it-support/Filesystems-5.png)
   
   To get a UUID of a disk
   
@@ -180,7 +180,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   sudo blkid
   ```
   
-  ![Fstab Options](/notes/Filesystems-6.png)
+  ![Fstab Options](/notes/google-it-support/Filesystems-6.png)
   
 ### **Windows: Swap**
 
@@ -223,7 +223,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   mklink /H <Hard link Name> <Original File Name>
   ```
   
-  ![Master File Table](/notes/Filesystems-7.png)
+  ![Master File Table](/notes/google-it-support/Filesystems-7.png)
   
 #### File metadata
   
@@ -241,7 +241,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 - We store inodes in an **inode table**, and they help us manage the files on our file system.
 - Shortcut on Linux, referred to as **Softlink**.
   
-  ![Linux file links](/notes/Filesystems-8.png)
+  ![Linux file links](/notes/google-it-support/Filesystems-8.png)
   
   To create a soft link:
   
@@ -268,7 +268,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 - For Solid state drives, the system can use the **Trim** feature to reclaim unused space.
 - For CLI, disk cleanup `du` tool is used
   
-  ![DISK USAGE CLI](/notes/Filesystems-9.png)
+  ![DISK USAGE CLI](/notes/google-it-support/Filesystems-9.png)
   
 #### Defragmentation
   

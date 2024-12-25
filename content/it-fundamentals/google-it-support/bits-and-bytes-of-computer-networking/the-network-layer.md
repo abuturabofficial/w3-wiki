@@ -77,13 +77,13 @@ alwaysOpen: false
   
   + Entire content IP datagram are encapsulated in the form of IP payload of 3rd layer
   
-  ![IP Datagrams](/notes/The%20Network%20Layer.png)
+  ![IP Datagrams](/notes/google-it-support/The%20Network%20Layer.png)
 
 ### **IP Address Classes**
 
 - IP addresses can be split into two sections: the **network ID** and **host ID**
   
-  ![IP Address Classes](/notes/The%20Network%20Layer-1.png)
+  ![IP Address Classes](/notes/google-it-support/The%20Network%20Layer-1.png)
 
 #### Address class system
   
@@ -96,7 +96,7 @@ alwaysOpen: false
 - ClassC
 > First three octets used for network ID, the last one used for host ID.
   
-  ![IP Address Classes](/notes/The%20Network%20Layer-2.png)
+  ![IP Address Classes](/notes/google-it-support/The%20Network%20Layer-2.png)
 
 ### **Address Resolution Protocol (ARP)**
   
@@ -112,7 +112,7 @@ alwaysOpen: false
 The process of taking a large network and splitting it up into many individual and smaller subnetworks, or subnets.
 - Class-C subnetting table.
   
-  ![Subnetting Table](/notes/The%20Network%20Layer-3.png)
+  ![Subnetting Table](/notes/google-it-support/The%20Network%20Layer-3.png)
 
 ### Subnet Masks
 
@@ -128,11 +128,11 @@ The process of taking a large network and splitting it up into many individual a
 - Generally, an IP address consists of **Network ID** and **Host ID**
 - In Subnetting world, **Host ID** is further divided into **Subnet ID** to identify the subnet mask.
   
-  ![Subnet ID](/notes/The%20Network%20Layer-4.png)
+  ![Subnet ID](/notes/google-it-support/The%20Network%20Layer-4.png)
   
 ### **Basic Binary Math**
   
-  ![Basic Binary Table](/notes/The%20Network%20Layer-5.png)
+  ![Basic Binary Table](/notes/google-it-support/The%20Network%20Layer-5.png)
   
 - Two of the most important operators are **OR and AND**.
 - In computer logic, a **1** represents **true** and a **0** represents **false**.
@@ -147,7 +147,7 @@ The process of taking a large network and splitting it up into many individual a
 
 To describe where one network or system ends and another one begins.
   
-  ![CIDR](/notes/The%20Network%20Layer-6.png)
+  ![CIDR](/notes/google-it-support/The%20Network%20Layer-6.png)
   
 ## **Routing**
 
@@ -157,13 +157,13 @@ To describe where one network or system ends and another one begins.
   
 A network device that forwards traffic depending on the destination address of that traffic.
   
-  ![Basic Routing](/notes/The%20Network%20Layer-7.png)
+  ![Basic Routing](/notes/google-it-support/The%20Network%20Layer-7.png)
   
 ### Routing Tables
 
 - Destination Network
 
-  ![Destination Network](/notes/The%20Network%20Layer-8.png)
+  ![Destination Network](/notes/google-it-support/The%20Network%20Layer-8.png)
 
 - Next Hop
 - Total Hops
@@ -184,7 +184,7 @@ Used by routers to share information within a single autonomous system.
 
 “A collection of networks that all fall under the control of a single network operator.”
 
-  ![Interior Gateway Protocols](/notes/The%20Network%20Layer-9.png)
+  ![Interior Gateway Protocols](/notes/google-it-support/The%20Network%20Layer-9.png)
 
 > In computer science, a **list** is known as a **vector**.
 
@@ -202,7 +202,7 @@ Numbers assigned to individual autonomous systems.
 - 32-bits long as IP addresses
 - But has only single decimal block instead of 4 octets
 
-  ![The Internet](/notes/The%20Network%20Layer-10.png)
+  ![The Internet](/notes/google-it-support/The%20Network%20Layer-10.png)
 
 #### Non-Routable Address Space
 
