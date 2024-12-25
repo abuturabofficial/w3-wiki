@@ -17,7 +17,7 @@ weight: 3
 - Malware
 - Poorly designed apps
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices.png)
 
 ### Rooting and Jail breaking
 
@@ -29,27 +29,27 @@ weight: 3
 - Not physically secure
 - Non-HTTPS browsing
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-1.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-1.png)
 
 ### Business software
   
   Business software automates transactions, mines sales data, manages information, and more.
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-2.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-2.png)
 
 ### Corporate network
   
   To protect files, systems, and resources, businesses must limit access.
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-3.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-3.png)
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-4.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-4.png)
 
 ## **Public Browsing Risks**
 
 ### Free and Open networks
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-5.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-5.png)
 
 ### Public browsing risks
 
@@ -58,21 +58,21 @@ weight: 3
 
 ### Social Networking Sites
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-6.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-6.png)
 
 ### Instant messaging
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-7.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-7.png)
 
 ### Internet browser and versions
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-8.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-8.png)
 
 ### Cookies
   
   Cookies are text files with small pieces of data.
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-9.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-9.png)
   
   Cookie types:
 - Session cookies
@@ -86,25 +86,25 @@ weight: 3
   
   Secure sockets layer (SSL) certificates authenticate a website’s identity and enable an encrypted connection between a web server and a browser.
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-10.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-10.png)
 
 ### Browser updates
   
   Because browsers are a favorite target for hackers, keeping them updated is very important.
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-11.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-11.png)
 
 ## **Safe Browsing Techniques**
 
 ### Autofill management
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-12.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-12.png)
 
 ### Browser cache and history
   
   A browser cache is a storage data that holds downloads of web pages you’ve visited.
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-13.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-13.png)
 
 ### Private browsing
 
@@ -117,7 +117,7 @@ weight: 3
 
 ### Malicious websites
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-14.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-14.png)
 
 ### Safe websites
   
@@ -132,7 +132,7 @@ weight: 3
 
 ### Adware and popups
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-15.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-15.png)
 
 ### Redirection
   
@@ -151,11 +151,11 @@ weight: 3
   
   Search engines use algorithms to detect harmful sites. Browsers use those results to warn users.
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-16.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-16.png)
 
 ## **Security Threats: Virtual Private Networks**
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-17.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-17.png)
   
   VPN types:
 - Site-to-site VPN
@@ -168,7 +168,7 @@ weight: 3
 - Devices specifically designed to create VPNs
 - Network devices with added VPN functionality
   
-  ![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-18.png)
+  ![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-18.png)
 
 ### Internet Protocol Security (IPsec)
   
@@ -184,8 +184,8 @@ weight: 3
 
 The IPsec suite has two modes:
 
-![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-19.png)
+![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-19.png)
 
 The IPsec suite uses:
 
-![Safe Browsing Practices](/notes/Safe%20Browsing%20Practices-20.png)
+![Safe Browsing Practices](/notes/ibm-it-support/Safe%20Browsing%20Practices-20.png)

@@ -69,7 +69,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 
 ### **The job interview**
   
-  ![Technical Support Skills and Opportunities](/notes/Technical%20Support%20Skills%20and%20Opportunities.png)
+  ![Technical Support Skills and Opportunities](/notes/ibm-it-support/Technical%20Support%20Skills%20and%20Opportunities.png)
 
 #### Basic programming and coding
 
@@ -139,7 +139,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   What is the purpose of a performance evaluation?
   
-  ![Technical Support Skills and Opportunities](/notes/Technical%20Support%20Skills%20and%20Opportunities-1.png)
+  ![Technical Support Skills and Opportunities](/notes/ibm-it-support/Technical%20Support%20Skills%20and%20Opportunities-1.png)
 
 ### **What you should expect?**
 

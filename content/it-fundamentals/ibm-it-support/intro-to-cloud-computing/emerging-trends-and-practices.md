@@ -60,7 +60,7 @@ weight: 4
 
 #### A Scenario
   
-  ![Emerging Trends and Practices](/notes/Emerging%20Trends%20and%20Practices.png)
+  ![Emerging Trends and Practices](/notes/ibm-it-support/Emerging%20Trends%20and%20Practices.png)
 
 #### Serverless computing services
 
@@ -113,7 +113,7 @@ weight: 4
 
 ### Challenges
   
-  ![Emerging Trends and Practices](/notes/Emerging%20Trends%20and%20Practices-1.png)
+  ![Emerging Trends and Practices](/notes/ibm-it-support/Emerging%20Trends%20and%20Practices-1.png)
   
   Vendor Dependent Capabilities
 - Authentication
@@ -121,7 +121,7 @@ weight: 4
 - Monitoring
 - Configuration management
   
-  ![Emerging Trends and Practices](/notes/Emerging%20Trends%20and%20Practices-2.png)
+  ![Emerging Trends and Practices](/notes/ibm-it-support/Emerging%20Trends%20and%20Practices-2.png)
 
 # **Cloud Native Applications, DevOps, and Application Modernization**
 
@@ -183,7 +183,7 @@ weight: 4
 - Continuous Monitoring
 - Delivery Pipeline
   
-  ![Emerging Trends and Practices](/notes/Emerging%20Trends%20and%20Practices-3.png)
+  ![Emerging Trends and Practices](/notes/ibm-it-support/Emerging%20Trends%20and%20Practices-3.png)
 
 ### DevOps and Cloud
   
@@ -203,7 +203,7 @@ weight: 4
 
 ### Enterprise Applications
   
-  ![Emerging Trends and Practices](/notes/Emerging%20Trends%20and%20Practices-4.png)
+  ![Emerging Trends and Practices](/notes/ibm-it-support/Emerging%20Trends%20and%20Practices-4.png)
 
 ### Application Modernization
   

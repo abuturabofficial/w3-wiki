@@ -24,7 +24,7 @@ weight: 3
 - Do not need power to retain data
 - faster than any HDD
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing.png)
 
 ### Solid-state Hybrid Drive (SSHD)
   
@@ -36,7 +36,7 @@ weight: 3
 - Cost less than SSDs
 - Higher capacities than SSDs
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-1.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-1.png)
 
 ### Optical Disk Drive (ODD)
   
@@ -51,37 +51,37 @@ weight: 3
   
   Flash drives store data on solid-state drives (SSDs). Less energy is needed to run flash drives, as they don’t have moving parts that require cooling. High-end versions deduplicate and compress data to save space.
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-2.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-2.png)
 
 ## **Local Storage wit Multiple Drives**
   
   Hybrid disk arrays physically combine multiple SSD and HDD devices into an array of drives working together to achieve the fast and easy performance of solid-state and the lower costs and higher capacities of hard-disk.
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-3.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-3.png)
 
 ### **Direct Attached Storage (DAS)**
   
   DAS is one or more storage units within an external enclosure that is directly attached to the computer accessing it.
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-4.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-4.png)
 
 #### Ephemeral and Persistent storage
   
   In DAS units and other storage devices, you can configure storage settings to be Ephemeral or Persistent.
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-5.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-5.png)
 
 #### Redundant Array of Independent Disks (RAID)
   
   A RAID spread data across multiple storage drives working in parallel.
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-6.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-6.png)
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-7.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-7.png)
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-8.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-8.png)
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-9.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-9.png)
   
   Companies choose RAID devices for their durability and performance.
 - Maintain RAID devices
@@ -181,7 +181,7 @@ weight: 3
   
   Here are some common RAID troubleshooting steps:
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-10.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-10.png)
 
 ## **Types of Hosted Storage and Sharing**
 
@@ -274,7 +274,7 @@ weight: 3
 
 #### Difference between NAS and SAN
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-11.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-11.png)
 
 ## **Cloud-based Storage Devices**
 
@@ -325,12 +325,12 @@ weight: 3
   
   A storage gateway is a service that connect on-premises devices with cloud storage.
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-12.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-12.png)
 
 ### Archival storage
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-13.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-13.png)
 
 ### Backups and snapshots
   
-  ![Storage Types and Network Sharing](/notes/Storage%20Types%20and%20Network%20Sharing-14.png)
+  ![Storage Types and Network Sharing](/notes/ibm-it-support/Storage%20Types%20and%20Network%20Sharing-14.png)

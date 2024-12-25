@@ -13,7 +13,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 
 ### Customer Service vs. Technical Support
   
-![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support.png)
+![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support.png)
 
 ### Why do companies use technical support?
 
@@ -27,7 +27,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 
 ### Who uses technical support?
   
-![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support-1.png)
+![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support-1.png)
 
 ### Why is technical support important?
 
@@ -41,7 +41,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 
 ### Why choose technical support?
   
-![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support-2.png)
+![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support-2.png)
 
 ### Why should you pick technical support?
 
@@ -73,17 +73,17 @@ LastModifierEmail: cyberfrontofficial@proton.me
 	- Mid-tier
 	- Upper-tier
 
-![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support-3.png)
+![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support-3.png)
 
 ### Current jobs in technical support
   
-![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support-4.png)
+![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support-4.png)
   
-![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support-5.png)
+![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support-5.png)
   
 Technical support career advantages:
 
-![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support-6.png)
+![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support-6.png)
 
 ## **Technical Support Roles and Responsibilities**
 
@@ -98,27 +98,27 @@ Technical support career advantages:
 
 ### **Roles of technical support**
   
-![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support-7.png)
+![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support-7.png)
 
 #### Help Desk & Support Technicians
   
-![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support-8.png)
+![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support-8.png)
 
 #### Technical Support Specialists & Engineers
   
-![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support-9.png)
+![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support-9.png)
 
 #### IT Support Analysts & Specialists
   
-![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support-10.png)
+![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support-10.png)
 
 #### Service Desk Technicians & Analysts
   
-![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support-11.png)
+![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support-11.png)
 
 ### A day of Technical Support
   
-  ![Industry Professional's Guide to Technical Support](/notes/Industry%20Professionals%20Guide%20to%20Technical%20Support-12.png)
+  ![Industry Professional's Guide to Technical Support](/notes/ibm-it-support/Industry%20Professionals%20Guide%20to%20Technical%20Support-12.png)
 
 ## **Introduction to IT Infrastructure**
 

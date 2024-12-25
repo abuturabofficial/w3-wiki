@@ -28,7 +28,7 @@ weight: 1
 
 ### Single-platform vs. cross-platform
   
-  ![Computing Platforms and Software Application](/notes/Computing%20Platforms%20and%20Software%20Application.png)
+  ![Computing Platforms and Software Application](/notes/ibm-it-support/Computing%20Platforms%20and%20Software%20Application.png)
 
 ### Compatibility concerns
 
@@ -103,7 +103,7 @@ weight: 1
 
 ### Subscription or one-time licenses
   
-  ![Computing Platforms and Software Application](/notes/Computing%20Platforms%20and%20Software%20Application-1.png)
+  ![Computing Platforms and Software Application](/notes/ibm-it-support/Computing%20Platforms%20and%20Software%20Application-1.png)
 
 ## **Software Installation Management**
 
@@ -153,7 +153,7 @@ weight: 1
 - The third number in the version number indicates patches or minor bug fixes.
 - The fourth number indicates build numbers, build dates, and less significant changes.
   
-  ![Computing Platforms and Software Application](/notes/Computing%20Platforms%20and%20Software%20Application-2.png)
+  ![Computing Platforms and Software Application](/notes/ibm-it-support/Computing%20Platforms%20and%20Software%20Application-2.png)
 
 ### Version compatibility
 
@@ -178,11 +178,11 @@ weight: 1
   
   “Productivity software is made up of programs and application that we use every day.”
   
-  ![Computing Platforms and Software Application](/notes/Computing%20Platforms%20and%20Software%20Application-3.png)
+  ![Computing Platforms and Software Application](/notes/ibm-it-support/Computing%20Platforms%20and%20Software%20Application-3.png)
 
 #### Types of productivity software
   
-  ![Computing Platforms and Software Application](/notes/Computing%20Platforms%20and%20Software%20Application-4.png)
+  ![Computing Platforms and Software Application](/notes/ibm-it-support/Computing%20Platforms%20and%20Software%20Application-4.png)
 
 ### **What is business software?**
 
@@ -191,7 +191,7 @@ weight: 1
 
 #### Types of business software
   
-  ![Computing Platforms and Software Application](/notes/Computing%20Platforms%20and%20Software%20Application-5.png)
+  ![Computing Platforms and Software Application](/notes/ibm-it-support/Computing%20Platforms%20and%20Software%20Application-5.png)
 
 ### **What is collaboration software?**
 
@@ -201,7 +201,7 @@ weight: 1
 
 #### Types of collaboration software
   
-  ![Computing Platforms and Software Application](/notes/Computing%20Platforms%20and%20Software%20Application-6.png)
+  ![Computing Platforms and Software Application](/notes/ibm-it-support/Computing%20Platforms%20and%20Software%20Application-6.png)
 
 ### **What is utility software?**
 
@@ -210,7 +210,7 @@ weight: 1
 
 #### Utility software
   
-  ![Computing Platforms and Software Application](/notes/Computing%20Platforms%20and%20Software%20Application-7.png)
+  ![Computing Platforms and Software Application](/notes/ibm-it-support/Computing%20Platforms%20and%20Software%20Application-7.png)
 
 ## **Types of File Formats**
 
@@ -228,7 +228,7 @@ weight: 1
 
 ### Common compression formats
   
-  ![Computing Platforms and Software Application](/notes/Computing%20Platforms%20and%20Software%20Application-8.png)
+  ![Computing Platforms and Software Application](/notes/ibm-it-support/Computing%20Platforms%20and%20Software%20Application-8.png)
 
 ### Common audio and video formats
   
@@ -250,7 +250,7 @@ weight: 1
   
   Some common image formats are:
   
-  ![Computing Platforms and Software Application](/notes/Computing%20Platforms%20and%20Software%20Application-9.png)
+  ![Computing Platforms and Software Application](/notes/ibm-it-support/Computing%20Platforms%20and%20Software%20Application-9.png)
 
 ### Document formats
   

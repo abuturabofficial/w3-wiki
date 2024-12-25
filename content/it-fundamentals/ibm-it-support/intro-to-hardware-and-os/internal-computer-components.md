@@ -45,7 +45,7 @@ weight: 4
 - Array of pins holding a processor and connecting the processor to the motherboard
 - Differ based on the motherboard
   
-  ![Internal Computer Components](/notes/Internal%20Computer%20Components.png)
+  ![Internal Computer Components](/notes/ibm-it-support/Internal%20Computer%20Components.png)
 
 ### Power connectors
 
@@ -99,7 +99,7 @@ weight: 4
 	- Network interfaces
 - Availability depends on the motherboard configuration
   
-  ![Internal Computer Components](/notes/Internal%20Computer%20Components-1.png)
+  ![Internal Computer Components](/notes/ibm-it-support/Internal%20Computer%20Components-1.png)
 
 ### Disk Controllers
 
@@ -135,9 +135,9 @@ weight: 4
 
 ### Traditional hard drive technology
   
-  ![Internal Computer Components](/notes/Internal%20Computer%20Components-2.png)
+  ![Internal Computer Components](/notes/ibm-it-support/Internal%20Computer%20Components-2.png)
   
-  ![Internal Computer Components](/notes/Internal%20Computer%20Components-3.png)
+  ![Internal Computer Components](/notes/ibm-it-support/Internal%20Computer%20Components-3.png)
 
 ### IDE and PATA drives
   
@@ -146,7 +146,7 @@ weight: 4
 	- Early ATA drives: 33 Mbps
 	- Later ATA drives: 133 Mbps
 	  
-	  ![Internal Computer Components](/notes/Internal%20Computer%20Components-4.png)
+	  ![Internal Computer Components](/notes/ibm-it-support/Internal%20Computer%20Components-4.png)
 
 ### SATA drives
   
@@ -156,7 +156,7 @@ weight: 4
 - Initial data processing of 1.5 Gbps
 - Current processing of 6 Gbps
   
-  ![Internal Computer Components](/notes/Internal%20Computer%20Components-5.png)
+  ![Internal Computer Components](/notes/ibm-it-support/Internal%20Computer%20Components-5.png)
 
 - Available in multiple sizes
 - Spin at 5400 or 7200 rpm
@@ -174,7 +174,7 @@ weight: 4
   1994:
 - Discontinued usage
   
-  ![Internal Computer Components](/notes/Internal%20Computer%20Components-6.png)
+  ![Internal Computer Components](/notes/ibm-it-support/Internal%20Computer%20Components-6.png)
 
 ### Solid-state drives
   
@@ -185,7 +185,7 @@ weight: 4
 - Capacity: 120 GB to 2 TB
 - Cost: More expensive than SATA or SCSI drives but also more reliable
   
-  ![Internal Computer Components](/notes/Internal%20Computer%20Components-7.png)
+  ![Internal Computer Components](/notes/ibm-it-support/Internal%20Computer%20Components-7.png)
 
 - Available as internal, external, and hybrid hard drives
 - As part of an internal hybrid configuration:
@@ -193,7 +193,7 @@ weight: 4
 	- SATA drive functions as storage
 	- Hybrid drives tend to operate slower than SSD drives
 	  
-	![Internal Computer Components](/notes/Internal%20Computer%20Components-8.png)
+	![Internal Computer Components](/notes/ibm-it-support/Internal%20Computer%20Components-8.png)
 
 ### **Optical Drives**
   
@@ -205,7 +205,7 @@ weight: 4
 
 #### CDs and DVDs compared
   
-  ![Internal Computer Components](/notes/Internal%20Computer%20Components-9.png)
+  ![Internal Computer Components](/notes/ibm-it-support/Internal%20Computer%20Components-9.png)
 
 ### Blu-ray discs
 
@@ -216,7 +216,7 @@ weight: 4
 - Writable Blu-ray discs exist in 100 GB and quad-layer 128 GB formats
 - Writable Blu-ray discs require BD-XL-compatible drives
   
-  ![Internal Computer Components](/notes/Internal%20Computer%20Components-10.png)
+  ![Internal Computer Components](/notes/ibm-it-support/Internal%20Computer%20Components-10.png)
 
 ### Expansion Slots
 
@@ -304,7 +304,7 @@ weight: 4
 - Excess heat is drawn away
 - Before warm air can damage the internal components
   
-  ![Internal Computer Components](/notes/Internal%20Computer%20Components-11.png)
+  ![Internal Computer Components](/notes/ibm-it-support/Internal%20Computer%20Components-11.png)
 
 #### Liquid-based cooling
 

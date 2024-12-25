@@ -68,13 +68,13 @@ weight: 5
   
   Historically, three bus types:
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting.png)
 
 #### Bus alternatives
   
   Replacement technologies include:
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-1.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-1.png)
   
   And others.
 
@@ -85,7 +85,7 @@ weight: 5
 
 ### Storage
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-2.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-2.png)
 
 ### RAM error symptoms
 
@@ -103,45 +103,45 @@ weight: 5
   
   Environment: Where does the use work?
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-3.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-3.png)
   
   What are the user’s workspace conditions?
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-4.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-4.png)
   
   Network access: What are the user’s options?
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-5.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-5.png)
   
   Data storage requirements:
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-6.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-6.png)
   
   Application requirements:
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-7.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-7.png)
 
 ### Evaluating peripheral needs
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-8.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-8.png)
 
 ### Suggested computing solutions
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-9.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-9.png)
 
 ### Evaluating computing options
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-10.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-10.png)
 
 ### Purchasing decisions
   
   Four important considerations:
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-11.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-11.png)
 
 ### **Workstation setup**
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-12.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-12.png)
 
 #### Environment
 
@@ -237,15 +237,15 @@ weight: 5
 
 #### Restoring Functionality
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-13.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-13.png)
 
 #### Common PC issues
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-14.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-14.png)
 
 #### Internet Support
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-15.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-15.png)
 
 #### Manufacturer Technical Support
 
@@ -319,13 +319,13 @@ weight: 5
   
   Drivers are the software components that enable communications between the operating system and the device
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-16.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-16.png)
 
 ### Utilities
   
   Utilities help you administer and manage the operating system:
   
-  ![Workstation Setup and Evaluation and Troubleshooting](/notes/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-17.png)
+  ![Workstation Setup and Evaluation and Troubleshooting](/notes/ibm-it-support/Workstation%20Setup%20Evaluation%20and%20Troubleshooting-17.png)
 
 ## **Introduction to Business Continuity Principles**
 

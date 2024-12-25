@@ -20,7 +20,7 @@ weight: 3
 
 ### **Interpreted programming**
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming.png)
   
 - Some interpreted programming languages are outdated
 - Some are more versatile and easier to learn languages
@@ -29,7 +29,7 @@ weight: 3
 
 #### Interpreted programming examples
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-1.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-1.png)
 
 ### **Compiled programming**
 
@@ -38,7 +38,7 @@ weight: 3
 - Usually larger programs
 - Used to help solve more challenging  problems, like interpreting source code
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-2.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-2.png)
 
 #### Examples
   
@@ -48,7 +48,7 @@ weight: 3
 
 #### Compiled programming
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-3.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-3.png)
 
 ## **Comparing Compiled and Interpreted Programming Languages**
 
@@ -61,7 +61,7 @@ weight: 3
 
 ### **Programming Languages**
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-4.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-4.png)
 
 #### Interpreted Programming Languages
 
@@ -80,7 +80,7 @@ weight: 3
 
 ##### Interpreted vs. compiled
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-5.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-5.png)
 
 ##### Programming Language examples
 
@@ -175,7 +175,7 @@ weight: 3
 - Action queries manipulate data in a database
 #### Common query statements
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-6.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-6.png)
 
 #### Query statement examples
 
@@ -223,7 +223,7 @@ mov TOTAL, 212 ;Transfer the value 212 in the memory variable TOTAL
 
 ### **Code organization is important**
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-7.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-7.png)
   
   Planning and organizing software design:
 - Enables writing cleaner, more reliable code
@@ -249,9 +249,9 @@ mov TOTAL, 212 ;Transfer the value 212 in the memory variable TOTAL
 - Analyze different methods of solving a problem or completing a process
 - Standard symbols to highlight elements and relationships
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-8.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-8.png)
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-9.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-9.png)
 
 #### Flowchart software
 
@@ -284,31 +284,31 @@ mov TOTAL, 212 ;Transfer the value 212 in the memory variable TOTAL
 
 ### Introduction to programming logic
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-10.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-10.png)
 
 ### Boolean expressions and variables
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-11.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-11.png)
 
 ### Branching programming logic
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-12.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-12.png)
   
   Branching statements allow program execution flow:
 - if
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-13.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-13.png)
 - if-then-else
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-14.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-14.png)
 - Switch
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-15.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-15.png)
 - GoTo
 
 ### Looping programming logic
   
-  ![Basics of Programming](/notes/Basics%20of%20Programming-16.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-16.png)
 
   There are three basic loop statements:
 - **While loop**: Condition is evaluated before processing, if true, then loop is executed
@@ -409,12 +409,12 @@ mov TOTAL, 212 ;Transfer the value 212 in the memory variable TOTAL
 - OOP packages methods with data structures
 	- Objects operate on their own data structure
 
-	![Basics of Programming](/notes/Basics%20of%20Programming-17.png)
+	![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-17.png)
 
 Objects in programming
 - Consist of states (properties) and behaviors (methods)
 
-  ![Basics of Programming](/notes/Basics%20of%20Programming-18.png)
+  ![Basics of Programming](/notes/ibm-it-support/Basics%20of%20Programming-18.png)
 
 - Store properties in field (variables)
 - Expose their behaviors through methods (functions)

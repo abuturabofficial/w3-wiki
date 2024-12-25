@@ -11,11 +11,11 @@ weight: 2
 
 ## **Common Web Browsers**
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing.png)
 
 ### Web Browser components
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-1.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-1.png)
 
 ## **Browser installs and updates**
 
@@ -56,7 +56,7 @@ weight: 2
 
 - Proxy servers perform network address translation to request and retrieve web content on behalf of requesting computers on the network.
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-2.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-2.png)
 
 ### Managing cookies
 
@@ -211,7 +211,7 @@ Cons
 - How will an application be use?
 - How will it be accessed?
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-3.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-3.png)
 
 #### One-tier model
 
@@ -268,31 +268,31 @@ Cons
 - Methodology for consistent development that ensures quality production
 - Six major steps
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-4.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-4.png)
 
 #### Requirement analysis and planning
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-5.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-5.png)
 
 #### Design
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-6.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-6.png)
 
 #### Coding or implementation
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-7.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-7.png)
 
 #### Testing
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-8.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-8.png)
 
 #### Deployment
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-9.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-9.png)
 
 #### Maintenance
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-10.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-10.png)
 
 ### SDLC models
   
@@ -348,8 +348,8 @@ Cons
 - Development and Operations teams work collaboratively
 - Accelerate software deployment
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-11.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-11.png)
 
 ### Traditional SDLC vs. Agile
   
-  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-12.png)
+  ![Fundamentals of Web Browsers, Applications, and Cloud Computing](/notes/ibm-it-support/Fundamentals%20of%20Web%20Browsers,%20Applications,%20and%20Cloud%20Computing-12.png)

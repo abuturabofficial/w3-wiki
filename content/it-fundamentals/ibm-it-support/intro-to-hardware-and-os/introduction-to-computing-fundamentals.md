@@ -15,27 +15,27 @@ weight: 1
 
   A computer is a device or system that includes:
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals.png)
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-1.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-1.png)
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-2.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-2.png)
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-3.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-3.png)
 
 ### Functions of computing
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-4.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-4.png)
 
 ### Benefits of computing
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-5.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-5.png)
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-6.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-6.png)
 
 ## **Common Computing Devices and Platforms**
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-7.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-7.png)
 
 ### Stationary computing devices
 
@@ -104,11 +104,11 @@ weight: 1
 - Communicate via Wi-Fi, Bluetooth, NFC, Zigbee, and other protocols.
 - Software updatable, but generally no hardware upgrades.
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-8.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-8.png)
 
 ### IoT devices: categorized
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-9.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-9.png)
 
 ## **Understanding How Computers Talk**
 
@@ -116,25 +116,25 @@ weight: 1
   
   A system of symbols that represent types of numbers.
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-10.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-10.png)
 
 ### Notational systems – decimal
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-11.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-11.png)
 
 ### Notational systems – binary
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-12.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-12.png)
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-13.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-13.png)
 
 ### Convert to decimal to binary
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-14.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-14.png)
 
 ### Convert binary to decimal
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-15.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-15.png)
 
 ### Notational Systems – hexadecimal
 
@@ -142,7 +142,7 @@ weight: 1
 - Enables compact notation for large numbers
 - Used for **MAC** addresses, colors, IP addresses, and memory addresses
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-16.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-16.png)
 
 ### Convert hex to binary
   
@@ -151,13 +151,13 @@ weight: 1
   3) String (concatenate) all the binary digits together from left to right.
   4) Discard any leading zeros at the left of the concatenated number.
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-17.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-17.png)
   
   **The result is 100100011010.**
 
 ### Data Types
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-18.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-18.png)
 
 ### **Character Types**
 
@@ -170,7 +170,7 @@ weight: 1
   + Expanded to 8-bytes representing another 256 characters.
   + Full charts are available online.
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-19.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-19.png)
 
 #### Unicode
   
@@ -180,7 +180,7 @@ weight: 1
   + Commonly formatted as **U+hhhh**, known as "code points", where **hhhh** is character hexadecimal value.
   + Conversion services are available online.
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-20.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-20.png)
 
 ## **An Introduction to Operating Systems**
 
@@ -194,7 +194,7 @@ weight: 1
 
 ### **Operating system history**
   
-  ![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-21.png)
+  ![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-21.png)
 
 #### The first generation (1945-1955)
 
@@ -264,4 +264,4 @@ weight: 1
 
 ### Using Keyboard Shortcuts
   
-![Introduction to Computing Fundamentals](/notes/Introduction%20to%20Computing%20Fundamentals-22.png)
+![Introduction to Computing Fundamentals](/notes/ibm-it-support/Introduction%20to%20Computing%20Fundamentals-22.png)

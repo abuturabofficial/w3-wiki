@@ -24,7 +24,7 @@ weight: 2
   
   Identification factors are pieces of information that only you and an authentication service know.
   
-  ![Security Best Practices](/notes/Security%20Best%20Practices.png)
+  ![Security Best Practices](/notes/ibm-it-support/Security%20Best%20Practices.png)
 
 ### Single sign-on
   
@@ -38,7 +38,7 @@ weight: 2
   
   There are three processes involved in logging in to a network or account.
   
-  ![Security Best Practices](/notes/Security%20Best%20Practices-1.png)
+  ![Security Best Practices](/notes/ibm-it-support/Security%20Best%20Practices-1.png)
 
 #### Access control
 
@@ -57,19 +57,19 @@ weight: 2
   
   Authentication is the act of confirming the identity of a user.
   
-  ![Security Best Practices](/notes/Security%20Best%20Practices-2.png)
+  ![Security Best Practices](/notes/ibm-it-support/Security%20Best%20Practices-2.png)
 
 ### Accounting
   
   Digital accounting is used in troubleshooting, security analysis, forensics, and hacking.
   
-  ![Security Best Practices](/notes/Security%20Best%20Practices-3.png)
+  ![Security Best Practices](/notes/ibm-it-support/Security%20Best%20Practices-3.png)
 
 ### Non-repudiation
   
   Non-repudiation is when you can’t deny being in a specific location. It guarantees a message sent between two parties is genuine.
   
-  ![Security Best Practices](/notes/Security%20Best%20Practices-4.png)
+  ![Security Best Practices](/notes/ibm-it-support/Security%20Best%20Practices-4.png)
 
 ## **Ways to Hardening Devices**
 
@@ -116,7 +116,7 @@ weight: 2
 
 ## **Encryption concepts**
   
-  ![Security Best Practices](/notes/Security%20Best%20Practices-5.png)
+  ![Security Best Practices](/notes/ibm-it-support/Security%20Best%20Practices-5.png)
 
 ### Public Key Infrastructure (PKI)
   

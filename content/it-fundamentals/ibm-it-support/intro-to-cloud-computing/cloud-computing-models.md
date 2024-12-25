@@ -28,12 +28,12 @@ weight: 2
   
   The ability to **track and monitor** the performance and usage of their cloud services and manage **disaster recovery**.
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models.png)
 - End users don’t interact directly with the physical infrastructure, but experience it as a **service provided to them**.
 - Comes with supporting services like auto-scaling and load balancing that provide scalability and high performance.
 - Object storage is the most common mode of storage in the cloud, given that it is highly distributed and resilient.
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-1.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-1.png)
 
 ### **IaaS use cases**
 
@@ -90,7 +90,7 @@ weight: 2
   
   **User manages: Application Code**
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-2.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-2.png)
 
 ### Essential Characteristics of PaaS
 
@@ -121,7 +121,7 @@ weight: 2
 
 ### PaaS available offerings
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-3.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-3.png)
 
 ### Risks of PaaS
 
@@ -190,23 +190,23 @@ weight: 2
 
 ### **Public Cloud**
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-4.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-4.png)
 
 #### Public Cloud providers in the market today
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-5.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-5.png)
 
 #### Public cloud characteristics
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-6.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-6.png)
 
 #### Public cloud benefits
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-7.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-7.png)
 
 #### Public cloud concerns
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-8.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-8.png)
 
 #### Public cloud use cases
 
@@ -222,25 +222,25 @@ weight: 2
 
 #### **Internal or External**
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-9.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-9.png)
 
 ##### Virtual Private Cloud (VPC)
   
   An external cloud that offers a private, secure, computing environment in a shared public cloud.
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-10.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-10.png)
 
 #### Best of Both Worlds
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-11.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-11.png)
 
 #### Benefits of Private Clouds
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-12.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-12.png)
 
 #### Common Use Cases
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-13.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-13.png)
 
 ### **Hybrid Cloud**
   
@@ -255,11 +255,11 @@ weight: 2
 
 #### The Three Tenets
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-14.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-14.png)
 
 #### Types of Hybrid Clouds
   
-  ![Cloud Computing Models](/notes/Cloud%20Computing%20Models-15.png)
+  ![Cloud Computing Models](/notes/ibm-it-support/Cloud%20Computing%20Models-15.png)
 
 #### Benefits
 
