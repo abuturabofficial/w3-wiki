@@ -29,7 +29,7 @@ The Golden rule is;
 - Many processes;
   + Iterative design
 
-    ![Iterative Design Process](/notes/Usable%20Design.png)
+    ![Iterative Design Process](/notes/uom-cybersecurity-specialization/Usable%20Design.png)
   
 + System centered design
   - What can be built easily on this platform?
