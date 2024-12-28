@@ -12,11 +12,11 @@ weight: 1
   
 **Working without Version Control:**
 
-![Git and GitHub Fundamentals](/notes/ibm-devops-and-se/Git%20and%20GitHub%20Fundamentals.png)
+![Git and GitHub Fundamentals](/notes/ibm-devops-and-se/Git%20and%20GitHub%20Fundamentals.webp)
 
 **Working with Version Control:**
 
-![Git and GitHub Fundamentals](/notes/ibm-devops-and-se/Git%20and%20GitHub%20Fundamentals-1.png)
+![Git and GitHub Fundamentals](/notes/ibm-devops-and-se/Git%20and%20GitHub%20Fundamentals-1.webp)
 
 ### Git
 
@@ -26,7 +26,7 @@ weight: 1
 - One of the most common version control systems available
 - Can also version control images, documents, etc.
   
-![Git and GitHub Fundamentals](/notes/ibm-devops-and-se/Git%20and%20GitHub%20Fundamentals-2.png)
+![Git and GitHub Fundamentals](/notes/ibm-devops-and-se/Git%20and%20GitHub%20Fundamentals-2.webp)
 
 ### Short Glossary of Terms
   

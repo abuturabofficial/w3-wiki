@@ -22,25 +22,25 @@ weight: 2
 - Printer
 - Desktops and /or laptops
   
-  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks.png)
+  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks.webp)
 
 #### Setup steps – plan ahead
   
   When setting up a SOHO network, knowing the compatibility requirements is very important.
 - Before setting up any SOHO network, review and confirm everything in your plan to ensure a successful installation.
   
-  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-1.png)
+  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-1.webp)
 
 #### Setup steps – gather hardware
 
 - SOHO networks need a switch to act as the hub of the network
 - If Internet is desired, a router can be added or used instead
   
-  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-2.png)
+  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-2.webp)
 
 #### Setup steps – connect hardware
   
-  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-3.png)
+  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-3.webp)
 
 #### Setup steps – router settings
   
@@ -69,7 +69,7 @@ weight: 2
   
   User account setup is included in most operating systems.
   
-  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-4.png)
+  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-4.webp)
 
 #### Setup steps – test connectivity
   
@@ -92,7 +92,7 @@ weight: 2
   
   A SOHO wireless network can be configured with the help of a central WAP, which can cover a range of wireless devices within a small office or home.
   
-  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-5.png)
+  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-5.webp)
 
 #### Common broadband types
   
@@ -110,11 +110,11 @@ weight: 2
   
   Wireless networks can be setup to be either open (unencrypted) or encrypted.
   
-  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-6.png)
+  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-6.webp)
 
 #### Get to know your wireless router
   
-  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-7.png)
+  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-7.webp)
 
 #### Connect to router admin interface
   
@@ -131,7 +131,7 @@ weight: 2
 
 #### Wireless encryption security modes
   
-  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-8.png)
+  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-8.webp)
 
 #### Going wireless
   
@@ -175,7 +175,7 @@ weight: 2
 ### **Causes of Connectivity Problems**
   
   Common causes of network connectivity problems:
-  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-9.png)
+  ![Configuring and Troubleshooting Networks](/notes/ibm-it-support/Configuring%20and%20Troubleshooting%20Networks-9.webp)
 
 #### Cable Damage
   

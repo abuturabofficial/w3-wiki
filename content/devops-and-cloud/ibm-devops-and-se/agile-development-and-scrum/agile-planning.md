@@ -32,15 +32,15 @@ weight: 2
   
 **Product Manager vs. Product Owner:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning.webp)
 
 **Project Manager vs. Scrum Master:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-1.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-1.webp)
 
 **Development Team vs. Scrum Team:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-2.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-2.webp)
   
 “Until and unless business leaders accept the idea that they are no longer managing projects with fixed functions, timeframes, and costs, as they did with waterfall, they will struggle to use agile as it was designed to be used.”
 >— Bob Kantor, Founder Kantor Consulting Group, Inc.
@@ -70,15 +70,15 @@ weight: 2
   
 **What is Kanban Board?**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-3.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-3.webp)
 
 **Real World Example:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-4.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-4.webp)
 
 **Default ZenHub pipelines:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-5.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-5.webp)
 
 ## **User Stories: Creating Good User Stories**
 
@@ -120,7 +120,7 @@ weight: 2
   
   **Sample Story:**
   
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-6.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-6.webp)
   
   **Bill Wake’s INVEST:**
 - **I**ndependent
@@ -150,7 +150,7 @@ weight: 2
   
 **What does a story point measure?**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-7.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-7.webp)
   
   **Relative T-Shirt sizes**
 - Story points acknowledge that humans are bad at estimating time-to-completion
@@ -175,7 +175,7 @@ weight: 2
   
 **Steps in the Scrum process:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-8.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-8.webp)
 
   **Product Backlog:**
 - A product backlog contains all the unimplemented stories not yet in a sprint
@@ -191,11 +191,11 @@ weight: 2
   
 **ZenHub Kanban board:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-9.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-9.webp)
 
 **Creating new stories**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-10.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-10.webp)
   
 **Story Template:**
 
@@ -215,7 +215,7 @@ weight: 2
 
 **Creating the next story:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-11.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-11.webp)
 
 **Must allow multiple counters:**
 
@@ -227,7 +227,7 @@ weight: 2
 
 **Creating the next story:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-12.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-12.webp)
 
 **Persist counters across restarts:**
 
@@ -239,7 +239,7 @@ weight: 2
 
 **Creating the last story:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-13.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-13.webp)
 
 **Counters can be reset:**
 
@@ -251,11 +251,11 @@ weight: 2
 
 **Stories in the backlog:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-14.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-14.webp)
 
 **Prioritize the product backlog:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-15.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-15.webp)
 
 # **The Planning Process**
 
@@ -280,7 +280,7 @@ weight: 2
   
 **Backlog refinement workflow:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-16.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-16.webp)
   
   **New issue triage:**
 - Start with new issue triage
@@ -291,7 +291,7 @@ weight: 2
 - Move them into the icebox if they are a good idea but not now
 - Reject them if they are not where you want to go
   
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-17.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-17.webp)
   
   **Backlog refinement workflow:**
 - Product owner sorts the product backlog in order of importance
@@ -321,19 +321,19 @@ Then `<some measurable outcome>`
 
 **Need a service that has a counter:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-18.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-18.webp)
 
 **Must Persist counter across restarts:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-19.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-19.webp)
 
 **Deploy service to the cloud:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-20.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-20.webp)
 
 **Ability to reset the counter:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-21.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-21.webp)
 
 ## **Backlog Refinement: Finishing Up**
   
@@ -342,23 +342,23 @@ Then `<some measurable outcome>`
 
 **Labels in GitHub**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-22.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-22.webp)
 
 **Need a service that has a counter:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-23.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-23.webp)
 
 **Must persist counter across restarts:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-24.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-24.webp)
 
 **Deploy service to the cloud:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-25.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-25.webp)
 
 **Ability to reset the counter:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-26.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-26.webp)
 
 ### Technical debt
 
@@ -415,4 +415,4 @@ Then `<some measurable outcome>`
   
 **Create a milestone:**
 
-![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-27.png)
+![Agile Planning](/notes/ibm-devops-and-se/Agile%20Planning-27.webp)

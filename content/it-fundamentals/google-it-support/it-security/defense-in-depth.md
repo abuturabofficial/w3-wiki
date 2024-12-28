@@ -58,7 +58,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + [IBM Security Qradar](https://www.ibm.com/security/security-intelligence/qradar)
   + RSA Security Analytics
   
-  ![Defense in Depth](/notes/google-it-support/Defense%20in%20Depth.png)
+  ![Defense in Depth](/notes/google-it-support/Defense%20in%20Depth.webp)
 
 ### Antimalware Protection
   
@@ -71,7 +71,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   [Sophos antivirus was maliciously compromised.](https://lock.cmpxchg8b.com/Sophail.pdf)
   [How hackers bypassed the binary whitelisting defenses?](https://www.crn.com/news/security/240148192/bit9-admits-systems-breach-stolen-code-signing-certificates.htm)
   
-  ![Defense in Depth](/notes/google-it-support/Defense%20in%20Depth-1.png)
+  ![Defense in Depth](/notes/google-it-support/Defense%20in%20Depth-1.webp)
 
 ### **Disk Encryption**
   
@@ -82,7 +82,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   Works by automatically converting data on a hard drive into a form that cannot be understood by anyone who doesn't have the key to “undo” the conversation.
   + When you implement a full disk encryption solution at scale, it's super important to think how to handle cases where passwords are forgotten.
   
-  ![Defense in Depth](/notes/google-it-support/Defense%20in%20Depth-2.png)
+  ![Defense in Depth](/notes/google-it-support/Defense%20in%20Depth-2.webp)
   
 #### Key Escrow
   Allows the encryption key to be securely stored for later retrieval by an authorized party.

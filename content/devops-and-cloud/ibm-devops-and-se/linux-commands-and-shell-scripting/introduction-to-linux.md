@@ -21,11 +21,11 @@ weight: 1
 	  
 **UNIX beginnings:**
 
-![Introduction to Linux](/notes/ibm-devops-and-se/Introduction%20to%20Linux.png)
+![Introduction to Linux](/notes/ibm-devops-and-se/Introduction%20to%20Linux.webp)
 
 **Linux's beginnings:**
 
-![Introduction to Linux](/notes/ibm-devops-and-se/Introduction%20to%20Linux-1.png)
+![Introduction to Linux](/notes/ibm-devops-and-se/Introduction%20to%20Linux-1.webp)
 
 **Linux, use cases today:**
 - Android
@@ -35,7 +35,7 @@ weight: 1
 
 ## **Overview of Linux Architecture**
 
-![Introduction to Linux](/notes/ibm-devops-and-se/Introduction%20to%20Linux-2.png)
+![Introduction to Linux](/notes/ibm-devops-and-se/Introduction%20to%20Linux-2.webp)
   
   **Kernel**
 - Lowest-level software in system
@@ -49,10 +49,10 @@ weight: 1
 
 **Linux filesystem:**
 
-![Introduction to Linux](/notes/ibm-devops-and-se/Introduction%20to%20Linux-3.png)
+![Introduction to Linux](/notes/ibm-devops-and-se/Introduction%20to%20Linux-3.webp)
 
 ## **Linux Terminal Overview**
   
 **Communicating with Linux System:**
 
-![Introduction to Linux](/notes/ibm-devops-and-se/Introduction%20to%20Linux-4.png)
+![Introduction to Linux](/notes/ibm-devops-and-se/Introduction%20to%20Linux-4.webp)

@@ -101,11 +101,11 @@ LastModifierEmail: cyberfrontofficial@proton.me
 
 ### Levels of technical support
   
-  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements.png)
+  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements.webp)
   
 ### Technical support skills required
   
-  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-1.png)
+  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-1.webp)
   
 ## **Service-Level Agreements (SLAs)**
 
@@ -139,11 +139,11 @@ LastModifierEmail: cyberfrontofficial@proton.me
 
 #### SLA priority levels
   
-  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-2.png)
+  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-2.webp)
   
 #### Response SLAs vs Resolution SLAs
   
-  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-3.png)
+  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-3.webp)
   
 #### SLA management
 
@@ -171,19 +171,19 @@ LastModifierEmail: cyberfrontofficial@proton.me
 
 #### 1) Functional escalation
   
-  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-4.png)
+  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-4.webp)
   
 #### 2) Hierarchical escalation
   
-  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-5.png)
+  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-5.webp)
   
 #### 3) Automatic escalation
   
-  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-6.png)
+  ![Support Tools, Support Tiers, and Service-Level Agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-6.webp)
   
 ### Escalation matrix
   
-  ![Support Tools, Support Tiers, and Service-Level agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-7.png)
+  ![Support Tools, Support Tiers, and Service-Level agreements](/notes/ibm-it-support/Support%20Tools,%20Support%20Tiers,%20and%20Service-Level%20Agreements-7.webp)
   
 ### Handoffs in technical support
 

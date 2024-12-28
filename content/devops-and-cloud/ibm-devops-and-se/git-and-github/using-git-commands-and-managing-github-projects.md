@@ -17,7 +17,7 @@ weight: 2
 - The master branch stores the deployable code
 - Create a new branch for planned changes
   
-![Using Git Commands and Managing GitHub Projects](/notes/ibm-devops-and-se/Using%20Git%20Commands%20and%20Managing%20GitHub%20Projects.png)
+![Using Git Commands and Managing GitHub Projects](/notes/ibm-devops-and-se/Using%20Git%20Commands%20and%20Managing%20GitHub%20Projects.webp)
   
   **Merging Branches:**
 - Start with a common base
@@ -25,7 +25,7 @@ weight: 2
 - Both branches are undergoing changes
 - When the two streams of work are ready to merge, each branch’s code is identified as a tip and the two tips are merged into a third, combined branch
   
-![Using Git Commands and Managing GitHub Projects](/notes/ibm-devops-and-se/Using%20Git%20Commands%20and%20Managing%20GitHub%20Projects-1.png)
+![Using Git Commands and Managing GitHub Projects](/notes/ibm-devops-and-se/Using%20Git%20Commands%20and%20Managing%20GitHub%20Projects-1.webp)
   
   **What is a Pull Request?**
 - A PR makes the proposed (committed) changes available for others to review and use

@@ -13,11 +13,11 @@ weight: 3
 
 **Interpreted programming:**
 
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II.webp)
 
 Interpreted programming examples:
 
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-1.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-1.webp)
   
   **Compiled programming:**
 - Programs that you run on your computer
@@ -25,7 +25,7 @@ Interpreted programming examples:
 - Usually larger programs
 - Used to help solve more challenging problems, like interpreting source code
   
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-2.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-2.webp)
 
 Compiled programming examples:
 - C, C++, and C# are used in many OSs, like MS Windows, Apple macOS and Linux
@@ -33,7 +33,7 @@ Compiled programming examples:
 
 Compiled programming:
 
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-3.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-3.webp)
 
 ## **Comparing Compiled and Interpreted Programming Languages**
 
@@ -46,11 +46,11 @@ Compiled programming:
 
 **Programming languages:**
 
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-4.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-4.webp)
 
 **Interpreted vs. compiled**
 
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-5.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-5.webp)
 
 ## **Query and Assembly Programming Languages**
   
@@ -108,11 +108,11 @@ When a user performs a query, the database:
   
   **Common query statements:**
   
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-6.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-6.webp)
 
 query statement examples:
 
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-7.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-7.webp)
 
 ### Assembly Languages
 
@@ -164,15 +164,15 @@ query statement examples:
 - Analyze different methods of solving a problem or completing a process
 - Standard symbols to highlight elements and relationships
   
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-8.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-8.webp)
 
 Flowchart software:
 
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-9.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-9.webp)
 
 **Pseudocode:**
 
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-10.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-10.webp)
   
   **Pseudocode Advantages:**
 - Simply explains each line of code
@@ -193,11 +193,11 @@ Flowchart software:
   
 **Introduction to programming logic:**
 
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-11.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-11.webp)
 
 **Boolean expressions and variables:**
 
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-12.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-12.webp)
 
 **Branching programming logic:**
   
@@ -207,7 +207,7 @@ Flowchart software:
 - Switch
 - GoTo
   
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-13.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-13.webp)
 
 **Looping programming logic:**
 
@@ -217,7 +217,7 @@ For loop: Initial value performed once, condition tests and compares, if false i
 
 Do-while loop: Condition always executed after the body of a loop
 
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-14.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-14.webp)
 
 ## **Introduction to Programming Concepts**
 
@@ -287,7 +287,7 @@ vector <int> my_vector;
 - OOP packages methods with data structures
   - Objects operate on their own data structure
 
-![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-15.png)
+![Basics of Programming](/notes/ibm-devops-and-se/Basics%20of%20Programming%20II-15.webp)
 
 Objects in programming
 - Consist of states (properties) and behaviors (methods)

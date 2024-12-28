@@ -10,8 +10,8 @@ weight: 1
 
 ## **Logic Operators: OR**
 
-![Python Programming Fundamentals](/notes/ibm-devops-and-se/Python%20Programming%20Fundamentals.png)
+![Python Programming Fundamentals](/notes/ibm-devops-and-se/Python%20Programming%20Fundamentals.webp)
 
 ## **Logic Operators: AND**
   
-![Python Programming Fundamentals](/notes/ibm-devops-and-se/Python%20Programming%20Fundamentals-1.png)
+![Python Programming Fundamentals](/notes/ibm-devops-and-se/Python%20Programming%20Fundamentals-1.webp)

@@ -93,7 +93,7 @@ weight: 4
   
   Structure diagram example:
   
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns.webp)
 
 ### Behavioral models:
 
@@ -110,15 +110,15 @@ weight: 4
   
 Advantages of Unified Modeling Language (UML):
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-1.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-1.webp)
 
 State transition diagram example:
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-2.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-2.webp)
 
 Interaction diagram:
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-3.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-3.webp)
 
 ## **Object-Oriented Analysis and Design**
   
@@ -126,11 +126,11 @@ Interaction diagram:
 - A patient could be an object
 - An object contains data, and an object can perform actions
   
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-4.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-4.webp)
 
 **Classes and objects:**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-5.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-5.webp)
   
   **Object-Oriented analysis and design:**
 - Used for a system that can be modeled by interacting objects
@@ -139,7 +139,7 @@ Interaction diagram:
   
 **Class diagram:**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-6.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-6.webp)
 
 # **Software Architecture Patterns and Deployment Topologies**
 
@@ -160,7 +160,7 @@ Interaction diagram:
   
 **Components examples:**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-7.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-7.webp)
   
   **Component-based architecture:**
 - Decomposes design into logical components
@@ -173,7 +173,7 @@ Interaction diagram:
 - Solution to a business need
 - Has one unique, always running instance with whom multiple clients communicate
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-8.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-8.webp)
 
 **Examples of Services:**
 - A service is a component that can be deployed independently
@@ -204,41 +204,41 @@ Interaction diagram:
 
 **Distributed system architectures:**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-9.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-9.webp)
 
 ## **Architectural Patterns in Software**
 
 ### Types of architectural patterns:
   
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-10.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-10.webp)
 
 **2-tier**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-11.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-11.webp)
 
 **3-tier**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-12.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-12.webp)
 
 **Peer-to-peer (P2P)**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-13.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-13.webp)
 
 **Event-driven**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-14.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-14.webp)
 
 **Microservices**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-15.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-15.webp)
 
 **Examples:**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-16.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-16.webp)
 
 **Combining patterns**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-17.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-17.webp)
 
 ## **Application Deployment Environments**
   
@@ -252,7 +252,7 @@ Include:
   
 **Pre-production environments:**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-18.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-18.webp)
 
 ### Production environment
 
@@ -273,17 +273,17 @@ Include:
   
 **Cloud deployment types:**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-19.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-19.webp)
 
 ## **Production Deployment Components**
   
 **Production deployment infrastructure:**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-20.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-20.webp)
 
 **Web and application servers:**
 
-![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-21.png)
+![Software Architecture Design and Patterns](/notes/ibm-devops-and-se/Software%20Architecture%20Design%20and%20Patterns-21.webp)
   
   **Proxy server:**
 - An intermediate server that handles requests between two tiers

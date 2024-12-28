@@ -28,11 +28,11 @@ weight: 1
 
 #### 5 Essential characteristics
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing.webp)
 
 - **Cloud Computing as a Service**
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-1.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-1.webp)
 
 #### 3 Types of cloud deployment models
   
@@ -60,13 +60,13 @@ weight: 1
 
 ### Cloud: Switch from CapEx to OpEx
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-2.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-2.webp)
 
 ## **Key Considerations for Cloud Computing**
 
 ### **Key Drivers for moving to cloud**
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-3.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-3.webp)
 
 #### Infrastructure and Workloads
 
@@ -108,43 +108,43 @@ weight: 1
 
 ## **Future of Cloud Computing**
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-4.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-4.webp)
 
 ### **Cloud Service Providers**
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-5.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-5.webp)
 
 #### Alibaba Cloud
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-6.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-6.webp)
 
 #### Amazon Web Services
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-7.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-7.webp)
 
 #### Google Cloud Platform
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-8.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-8.webp)
 
 #### IBM Cloud
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-9.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-9.webp)
 
 #### Microsoft Azure
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-10.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-10.webp)
 
 #### Oracle Cloud
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-11.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-11.webp)
 
 #### Salesforce
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-12.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-12.webp)
 
 #### SAP
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-13.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-13.webp)
 ## **Business Case for Cloud Computing**
 
 ### Cloud Adoption – No longer a choice
@@ -166,23 +166,23 @@ weight: 1
 
 ### Internet of Things in the Cloud
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-14.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-14.webp)
 
 ### **Artificial Intelligence on the Cloud**
 
 #### AI, IoT, and the Cloud
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-15.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-15.webp)
 
 ### BlockChain and Analytics in the Cloud
 
 #### **Blockchain & Cloud**
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-16.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-16.webp)
 
 ##### A 3-Way Relationship
   
-  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-17.png)
+  ![Overview of Cloud Computing](/notes/ibm-it-support/Overview%20of%20Cloud%20Computing-17.webp)
 
 #### Analytics on the Cloud
   

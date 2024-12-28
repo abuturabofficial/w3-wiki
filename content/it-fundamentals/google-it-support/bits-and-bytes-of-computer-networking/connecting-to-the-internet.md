@@ -21,11 +21,11 @@ weight: 5
   
   A dial-up connection uses **POTS** for data transfer, and gets its name because the connection is established by actually dialing a phone number.
   
-  ![A Dial-up](/notes/google-it-support/Connecting%20to%20the%20Internet.png)
+  ![A Dial-up](/notes/google-it-support/Connecting%20to%20the%20Internet.webp)
   
 - Transferring data on dial-ups is done through **Modems**, stands for **Modulator/Demodulator**.
   
-  ![A Modem In Practice](/notes/google-it-support/Connecting%20to%20the%20Internet-1.png)
+  ![A Modem In Practice](/notes/google-it-support/Connecting%20to%20the%20Internet-1.webp)
   
 - Early modems have very low **Baud rate**
 - By the late 1950s, computers can generally send data at the rate of **110bps**.
@@ -55,7 +55,7 @@ weight: 5
 - With **T1,** AT&T invented a way to carry **24 phone calls** simultaneously over a single copper cable.
 - A few years later, **T1** technology was repurposed for data transfers.
   
-  ![T1 technology at play](/notes/google-it-support/Connecting%20to%20the%20Internet-2.png)
+  ![T1 technology at play](/notes/google-it-support/Connecting%20to%20the%20Internet-2.webp)
   
 - Over the years, the phrase **T1** has come to mean any **twisted pair copper connection** capable of speeds of **1.544mbps**, even if they don't strictly follow the original **Transferring System 1** specifications.
 - Initially, **T1** lines were used to connect telecommunication channels only
@@ -80,7 +80,7 @@ weight: 5
   + HDSL (High Bit-rate Digital Subscriber Lines)
     + These provision speeds above **1.544mbps**.
   
-  ![A DSL connection](/notes/google-it-support/Connecting%20to%20the%20Internet-3.png)
+  ![A DSL connection](/notes/google-it-support/Connecting%20to%20the%20Internet-3.webp)
   
 ### **Cable Broadband**
 
@@ -90,7 +90,7 @@ weight: 5
 - Late 1940s, first television technology was developed.
 - In 1984, **Cable Communications Policy Act** deregulated the television industry, started booming, rest of the world soon followed suit.
   
-  ![Cable and DSL](/notes/google-it-support/Connecting%20to%20the%20Internet-4.png)
+  ![Cable and DSL](/notes/google-it-support/Connecting%20to%20the%20Internet-4.webp)
   
 - Cable connections are managed by **Cable modems**.
 
@@ -116,7 +116,7 @@ weight: 5
   + **FTTB** and **FTTH,** both may also refer to as **FTTP** or Fiber to the Premises
 - Instead of modem, the demarcation point for Fiber technologies is known as **Optical Network Terminator** or **ONT**.
   
-  ![Fiber to the X](/notes/google-it-support/Connecting%20to%20the%20Internet-5.png)
+  ![Fiber to the X](/notes/google-it-support/Connecting%20to%20the%20Internet-5.webp)
   
 #### Optical Network Terminator (ONT)
   
@@ -150,7 +150,7 @@ weight: 5
 - They maintain their secure connection to these cloud solutions through **Point-to-Point VPNs**.
 - Point-to-Point VPN, typically called **Site-to-Site VPN**.
   
-  ![Point-to-Point VPNs](/notes/google-it-support/Connecting%20to%20the%20Internet-6.png)
+  ![Point-to-Point VPNs](/notes/google-it-support/Connecting%20to%20the%20Internet-6.webp)
   
 ## **Wireless Networking**
 
@@ -188,7 +188,7 @@ weight: 5
   > Contains a checksum used for a cyclical redundancy check, just like how Ethernet does it.
 - The most common wireless setup includes **wireless access point**.
   
-  ![802.11 Data Frame](/notes/google-it-support/Connecting%20to%20the%20Internet-7.png)
+  ![802.11 Data Frame](/notes/google-it-support/Connecting%20to%20the%20Internet-7.webp)
   
 #### Frequency band
   
@@ -213,26 +213,26 @@ weight: 5
 - Used in smartphones, Warehouses
 - Important tool during disaster like earthquake, the relief workers, can communicate via ad-hoc network.
   
-  ![Ad-hoc Network](/notes/google-it-support/Connecting%20to%20the%20Internet-8.png)
+  ![Ad-hoc Network](/notes/google-it-support/Connecting%20to%20the%20Internet-8.webp)
   
 #### Wireless LAN (WLAN)
 
 - Most common in business settings
   
-  ![Wireless LAN](/notes/google-it-support/Connecting%20to%20the%20Internet-9.png)
+  ![Wireless LAN](/notes/google-it-support/Connecting%20to%20the%20Internet-9.webp)
   
 #### Mesh Network
 
 - Most mesh networks are only made up of wireless access points. And are still connected to the wired network.
   
-  ![Mesh Network](/notes/google-it-support/Connecting%20to%20the%20Internet-10.png)
+  ![Mesh Network](/notes/google-it-support/Connecting%20to%20the%20Internet-10.webp)
   
 ### **Wireless Channels**
   
   “Individual, smaller sections of the overall frequency band used by a wireless network.”
 - Channels solve the problem of collision domain.
   
-  ![2.4 GHz band and Wireless Channels](/notes/google-it-support/Connecting%20to%20the%20Internet-11.png)
+  ![2.4 GHz band and Wireless Channels](/notes/google-it-support/Connecting%20to%20the%20Internet-11.webp)
   
 #### Collision domain
   
@@ -264,7 +264,7 @@ You configure your access points to only allow for connections from a specific s
 - There are cellular frequency bands reserved for Cellular communications.
 - Phone frequency waves can travel several KMs.
   
-  ![Cellular Networking](/notes/google-it-support/Connecting%20to%20the%20Internet-12.png)
+  ![Cellular Networking](/notes/google-it-support/Connecting%20to%20the%20Internet-12.webp)
   
 ### Mobile Device Networks
 

@@ -23,7 +23,7 @@ weight: 3
   
 **Impact of Taylorism on IT:**
 
-![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps.png)
+![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps.webp)
   
   **Software development is bespoke:**
 - Software development is **NOT** like assembling automobiles
@@ -60,13 +60,13 @@ weight: 3
   
 **A clash of work culture:**
 
-![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-1.png)
+![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-1.webp)
 
   **The no-win scenario:**
 - Development wants innovation
 - Operations wants stability
   
-![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-2.png)
+![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-2.webp)
   
   **Operations view of development:**
 - Development teams throw dead cats over the wall
@@ -87,7 +87,7 @@ weight: 3
   
   **Required DevOps behaviors:**
   
-![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-3.png)
+![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-3.webp)
 
 ## **Infrastructure as Code**
 
@@ -131,7 +131,7 @@ weight: 3
 - Builds are run periodically
 - Devs continue to add to the development branch
   
-![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-4.png)
+![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-4.webp)
 
 ### Continuous Integration
 
@@ -139,7 +139,7 @@ weight: 3
 - Devs work in short-lived feature branches
 - Each check-in is verified by an automated build
   
-![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-5.png)
+![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-5.webp)
   
   **Changes are kept small:**
 - Working in small batches
@@ -188,7 +188,7 @@ weight: 3
   
 **Continuous integration and delivery:**
 
-![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-6.png)
+![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-6.webp)
 
 **Five key principles:**
 
@@ -200,7 +200,7 @@ weight: 3
 
 **CI/CD + Continuous deployment:**
 
-![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-7.png)
+![Working DevOps](/notes/ibm-devops-and-se/Working%20DevOps-7.webp)
 
 **How DevOps manages risk:**
 - Deployment is king

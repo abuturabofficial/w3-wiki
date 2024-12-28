@@ -33,7 +33,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   These algorithms are usually very complex. But there are also simple algorithms as well.
   
-  ![Encryption Algorithm](/notes/google-it-support/Pelcgbybtl%20(Cryptology).png)
+  ![Encryption Algorithm](/notes/google-it-support/Pelcgbybtl%20(Cryptology).webp)
   
   **Security through obscurity** is a principle where underlying encryption algorithm is also kept hidden for security purposes. But you shouldn't rely on it, as once the underlying mechanism is discovered, your whole security will wash away.
   
@@ -91,7 +91,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   An encryption mechanism that replaces parts of your plaintext with ciphertext.
   + E.g., Caesar cipher, ROT13 etc.
   
-  ![Substitution Cipher](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-1.png)
+  ![Substitution Cipher](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-1.webp)
 
 #### Stream cipher
   
@@ -102,7 +102,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   The cipher takes data in, places it into a bucket or block of data that's a fixed size, then encodes that entire block as one unit.
   
-  ![Block Ciphers](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-2.png)
+  ![Block Ciphers](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-2.webp)
 
 ### **Symmetric Encryption Algorithms**
 
@@ -130,7 +130,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   A symmetric stream cipher that gained widespread adoption because of its simplicity and speed. 
   + Abandoned due to inheritance weaknesses.
   
-  ![RC4](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-3.png)
+  ![RC4](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-3.webp)
   
   [RC4 Exists No More](https://www.rc4nomore.com/)
 
@@ -191,7 +191,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   A public-key encryption system that uses the algebraic structure of elliptic curves over finite fields to generate secure keys.
   
-  ![ECC](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-4.png)
+  ![ECC](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-4.webp)
   
   + The benefit of elliptic curve based encryption systems is that they are able to achieve security similar to traditional public key systems with smaller key sizes. So, for example, a 256 bit elliptic curve key, would be comparable to a 3,072 bit RSA key. This is really beneficial since it reduces the amount of data needed to be stored and transmitted when dealing with keys. 
   + Both Diffie-Hellman and DSA have elliptic curve variants, referred to as **ECDH** and **ECDSA**, respectively.
@@ -203,7 +203,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 ## **Hashing**
   A type of function or operation that takes in an arbitrary data input and maps it to an output of fixed size, called a hash or digest.
   
-  ![Hashing](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-5.png)
+  ![Hashing](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-5.webp)
   
   + You feed in any amount of data into a hash function, and the resulting output will always be the same size. But the output should be **unique to the input**, such that two different inputs should never yield the same output.
   + Hashing can also be used to identify duplicate data sets in databases or archives to speed up searching tables, or to remove duplicate data to save space.
@@ -215,7 +215,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   Two different inputs mapping to the same output.
   
-  ![Hash collision](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-6.png)
+  ![Hash collision](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-6.webp)
 
 ### **Hashing Algorithms**
 
@@ -291,7 +291,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + Another common methods to help raise the computational bar and protect against brute force attacks is to run the password through the hashing function multiple times, sometimes through thousands of iterations.
   + A **rainbow** table is ta table of precalculated hashes.
   
-  ![Defense against hash attacks](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-7.png)
+  ![Defense against hash attacks](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-7.webp)
   
   + To protect against these precalculated rainbow tables, **password salt** come into play.
 
@@ -301,7 +301,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + Modern systems use 128-bits salt.
   + It means there are 2^128 possible salt combination.
   
-  ![Password salt](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-8.png)
+  ![Password salt](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-8.webp)
 
 ## **Cryptographic Applications**
 
@@ -316,11 +316,11 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   Start from the Root Certificate authority, which signs the certificate itself, as no one above it.
   
-  ![PKI signing process](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-9.png)
+  ![PKI signing process](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-9.webp)
   
   This Root certificate authority can now use the self-signed certificate and the associated private key to begin signing other public keys and issuing certificates.
   
-  ![RCA](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-10.png)
+  ![RCA](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-10.webp)
   
   A certificate that has no authority as a CA is referred to as an **end-entity** or **leaf certificate**.
   + The [X.509 standard](https://www.ietf.org/rfc/rfc5280.txt) is what defines the format of digital certificates.
@@ -366,7 +366,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   This is a certificate that a web server presents to a client as part of the initial secure setup of an SSL, TLS connection.
   
-  ![SSL-TLS](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-11.png)
+  ![SSL-TLS](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-11.webp)
 
 #### Self-signed certificate
   
@@ -384,7 +384,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   Individuals are signing each other certificates, after verifying the identity of the persons with agreed upon methods.
   
-  ![Webs of Trust](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-12.png)
+  ![Webs of Trust](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-12.webp)
 
 ### **Cryptography in Action**
 
@@ -403,7 +403,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   To establish a TLS channel, there is a TLS handshake in place.
   
-  ![TLS](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-13.png)
+  ![TLS](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-13.webp)
   
   The session key is the shared symmetric encryption key used in TLS sessions to encrypt data being sent back and forth.
 
@@ -422,12 +422,12 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   A mechanism that allows you to remotely connect  a host or network to an internal, private network, passing the data over a public channel, like the internet.
   
-  ![VPN](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-14.png)
+  ![VPN](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-14.webp)
   
   There are different VPN protocols:
   + IPsec
   
-  ![](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-15.png)
+  ![](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-15.webp)
   
   IPsec support two modes:
   1. When **transport mode** is used, only the payload of the IP packet is encrypted, leaving the IP headers untouched.
@@ -473,7 +473,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + Filevault 2
   + dm-crypt
   
-  ![FDE](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-16.png)
+  ![FDE](/notes/google-it-support/Pelcgbybtl%20(Cryptology)-16.webp)
 
 ### Generating OpenSSL Public-Private Key pairs
   

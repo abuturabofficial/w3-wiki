@@ -38,16 +38,16 @@ Some additional categories of authentication methods:
   A system where users are authenticated by presenting multiple pieces of information or objects.
   + OTP with physical token
   
-  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity.png)
+  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity.webp)
   
   + Counter-based token
   
-  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-1.png)
+  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-1.webp)
   
   + Biometrics
   + U2F – Universal 2nd Factor
   
-  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-2.png)
+  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-2.webp)
 
 #### Biometric authentication
   
@@ -77,13 +77,13 @@ Some additional categories of authentication methods:
   
   Remote Authentication Dial-In User Service (RADIUS) is a protocol that provides AAA services for users on a network.
   
-  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-3.png)
+  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-3.webp)
 
 ### Kerberos
   
   A network authentication protocol that uses “tickets” to allow entities to prove their identity over potentially insecure channels to provide mutual authentication.
   
-  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-4.png)
+  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-4.webp)
 
 ### TACACS+
   
@@ -94,11 +94,11 @@ Some additional categories of authentication methods:
   
   An authentication concept that allows users to authenticate once to be granted access to a lot of different services and applications.
   
-  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-5.png)
+  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-5.webp)
 
 #### OpenID
   
-  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-6.png)
+  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-6.webp)
 
 ## **Authorization**
   
@@ -115,19 +115,19 @@ Some additional categories of authentication methods:
   
   An open standard that allows users to grant third-party websites and applications access to their information without sharing account credentials.
   
-  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-7.png)
+  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-7.webp)
   
   + OAuth's permissions can be used in phishing-style attacks to again access to accounts, **without requiring credentials** to be compromised.
   
   **This was used in an [OAuth-based worm-like attack](https://www.theverge.com/2017/5/3/15534768/google-docs-phishing-attack-share-this-document-with-you-spam) in early 2017, with a rash of phishing emails that appeared to be from a friend or colleague who wants to share a Google Document**.
   
-  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-8.png)
+  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-8.webp)
 
 ### Access Control List (ACL)
   
   A way of defining permissions or authorization for objects.
   
-  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-9.png)
+  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-9.webp)
 
 ## **Accounting**
   
@@ -143,6 +143,6 @@ Some additional categories of authentication methods:
   + CISCO's AAA system supports accounting of individual commands executed, connection to and from network devices, commands executed in privileged mode, and network services and system details like configuration reloads or reboots.
   + RADIUS will track details like session duration, client location and bandwidth, or other resources used during the session.
   
-  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-10.png)
+  ![The 3As of Cybersecurity](/notes/google-it-support/the-3as-of-cybersecurity-10.webp)
   
   RADIUS accounting can be used by ISPs to charge for their services.

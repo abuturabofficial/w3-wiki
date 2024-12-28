@@ -44,15 +44,15 @@ weight: 4
 
 #### A Typical DNS Query
   
-  ![A DNS query: Step 1](/notes/google-it-support/Networking%20Services.png)
+  ![A DNS query: Step 1](/notes/google-it-support/Networking%20Services.webp)
   
-  ![Step 2](/notes/google-it-support/Networking%20Services-1.png)
+  ![Step 2](/notes/google-it-support/Networking%20Services-1.webp)
   
-  ![Step 3](/notes/google-it-support/Networking%20Services-2.png)
+  ![Step 3](/notes/google-it-support/Networking%20Services-2.webp)
   
-  ![Step 4](/notes/google-it-support/Networking%20Services-3.png)
+  ![Step 4](/notes/google-it-support/Networking%20Services-3.webp)
   
-  ![Step 5](/notes/google-it-support/Networking%20Services-4.png)
+  ![Step 5](/notes/google-it-support/Networking%20Services-4.webp)
   
 #### Anycast
   
@@ -63,12 +63,12 @@ weight: 4
 - DNS, an application layer service, uses UDP
 - A full DNS lookup with TCP in use, will use 44 total packets
   
-  ![A DNS resolution with TCP](/notes/google-it-support/Networking%20Services-5.png)
+  ![A DNS resolution with TCP](/notes/google-it-support/Networking%20Services-5.webp)
   
 - A full DNS lookup with UDP on the other hand require only 8 packets
 - Error recovery is done by asking again in the UDP, as no error check is present
   
-  ![A DNS Lookup with UDP](/notes/google-it-support/Networking%20Services-6.png)
+  ![A DNS Lookup with UDP](/notes/google-it-support/Networking%20Services-6.webp)
   
 ## **Name Resolution is Practice**
 
@@ -135,7 +135,7 @@ When you combine all of these parts together, you have what's known as this.
 - The root and TLD name servers are actually just authoritative name servers, too. It's just that the zones that they're authoritative for are special zones.
 - E.g., a large company has three servers, one in LA, other in Paris and 3rd one in Shanghai. It will have three zones that and fourth for large company server, so in total **4 DNS server zones**.
   
-  ![DNS Zones of Large Company](/notes/google-it-support/Networking%20Services-7.png)
+  ![DNS Zones of Large Company](/notes/google-it-support/Networking%20Services-7.webp)
   
 #### Zone files
   
@@ -173,7 +173,7 @@ When you combine all of these parts together, you have what's known as this.
 - Resolves problem having to manually give an IP address to a device each time, it connects to the internet.
 - DHCP works on some standards, like **Dynamic allocation**.
   
-  ![DHCP](/notes/google-it-support/Networking%20Services-8.png)
+  ![DHCP](/notes/google-it-support/Networking%20Services-8.webp)
   
 #### Dynamic Allocation
   
@@ -211,19 +211,19 @@ So, how DHCP works in practice:
 It has four steps
   + The DHCP clients sends what's known as a DHCP discover message out onto the network.
   
-  ![DHCPDISCOVER Message](/notes/google-it-support/Networking%20Services-9.png)
+  ![DHCPDISCOVER Message](/notes/google-it-support/Networking%20Services-9.webp)
   
   + The response is sent via DHCP offer message.
   
-  ![DHCPOFFER Message](/notes/google-it-support/Networking%20Services-10.png)
+  ![DHCPOFFER Message](/notes/google-it-support/Networking%20Services-10.webp)
   
   + A DHCP client will respond to a DHCP offer message with **a DHCP request** message.
   
-  ![DHCPREQUEST Message](/notes/google-it-support/Networking%20Services-11.png)
+  ![DHCPREQUEST Message](/notes/google-it-support/Networking%20Services-11.webp)
   
   + DHCP server will receive DHCPREQUEST and respond with **DHCPACK** message
   
-  ![DHCPACK Message](/notes/google-it-support/Networking%20Services-12.png)
+  ![DHCPACK Message](/notes/google-it-support/Networking%20Services-12.webp)
   
   + All of this configuration is known as **DHCP lease,** as it includes an expiration time. DHCP lease might last for days or only a short amount of time.
 
@@ -240,7 +240,7 @@ It has four steps
 - Hides the IP of the computer originating the request. This is known as **IP masquerading**.
 - To the outside world, the entire space of **Network A** is hidden and private. This is called **One-to-many NAT**.
   
-  ![A NAT in action](/notes/google-it-support/Networking%20Services-13.png)
+  ![A NAT in action](/notes/google-it-support/Networking%20Services-13.webp)
   
 ### **NAT and the Transport Layer**
 
@@ -253,13 +253,13 @@ It has four steps
   
   “A technique where the source port chosen by a client is the same port used by the router.”
   
-  ![Port preservation in Practice](/notes/google-it-support/Networking%20Services-14.png)
+  ![Port preservation in Practice](/notes/google-it-support/Networking%20Services-14.webp)
   
 #### Port forwarding
   
   “A technique where specific destination ports can be configured to always be delivered to specific nodes.”
   
-  ![Port forwarding in practice](/notes/google-it-support/Networking%20Services-15.png)
+  ![Port forwarding in practice](/notes/google-it-support/Networking%20Services-15.webp)
   
 ### **NAT, Non-Routable Address Space and the Limits of IPv4**
   
@@ -273,7 +273,7 @@ It has four steps
 - The IANA assigned the last unallocated **/8** network blocks to the various **RIRs** on **February 3, 2011**.
 - Solution is NAT, and Non-Routable Address Space, defined **rfc1918**.
   
-  ![NAT, Non-Routable Address space at Rescue](/notes/google-it-support/Networking%20Services-16.png)
+  ![NAT, Non-Routable Address space at Rescue](/notes/google-it-support/Networking%20Services-16.webp)
   
 ## **VPNs and Proxies**
 
@@ -281,14 +281,14 @@ It has four steps
   
 “A technology that allows for the extension of a private or local network to hosts that might not be on that local network.”
   
-  ![VPN in practice](/notes/google-it-support/Networking%20Services-17.png)
+  ![VPN in practice](/notes/google-it-support/Networking%20Services-17.webp)
   
 - A VPN is a tunneling protocol, it's basically a technique not a strict protocol which involves, using different methods.
 - VPNs require strict authentication protocols to allow only access to the required clients
 - VPNs were the first to implement the **2FA** on a large scale
 - VPNs can be used to have site to site connectivity as well
   
-  ![VPN in action](/notes/google-it-support/Networking%20Services-18.png)
+  ![VPN in action](/notes/google-it-support/Networking%20Services-18.webp)
   
 #### Two-factor authentication
   
@@ -308,4 +308,4 @@ It has four steps
   
   “A service that might appear to be a single server to external clients, but actually represents many servers living behind it.”
   
-  ![Reverse Proxy](/notes/google-it-support/Networking%20Services-19.png)
+  ![Reverse Proxy](/notes/google-it-support/Networking%20Services-19.webp)

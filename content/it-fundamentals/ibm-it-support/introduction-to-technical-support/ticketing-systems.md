@@ -242,7 +242,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 - Processes, activities, technologies, and people
 - Strategy for IT services
   
-  ![Ticketing Systems](/notes/ibm-it-support/Ticketing%20Systems.png)
+  ![Ticketing Systems](/notes/ibm-it-support/Ticketing%20Systems.webp)
 
 ### Implementing ITSM
 

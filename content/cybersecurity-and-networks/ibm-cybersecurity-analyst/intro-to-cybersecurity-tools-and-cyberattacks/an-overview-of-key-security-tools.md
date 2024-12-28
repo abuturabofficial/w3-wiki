@@ -216,11 +216,11 @@ weight: 4
 
 ## **Pen-test Methodologies**
   
-![Pentest Methodologies](/notes/ibm-cybersecurity-analyst/An%20overview%20of%20key%20security%20tools.png)
+![Pentest Methodologies](/notes/ibm-cybersecurity-analyst/An%20overview%20of%20key%20security%20tools.webp)
 
 ## **Vulnerability Tests**
   
-![Vulnerability Test](/notes/ibm-cybersecurity-analyst/An%20overview%20of%20key%20security%20tools-1.png)
+![Vulnerability Test](/notes/ibm-cybersecurity-analyst/An%20overview%20of%20key%20security%20tools-1.webp)
 
 ## **What is Digital Forensics?**
 

@@ -14,23 +14,23 @@ weight: 3
 - Connectors plug into ports
 - Each port has a unique function and accepts only specific connectors
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors.webp)
   
 ### **Interfaces**
 
 - Point of communication between two or more entities
 - Can be hardware or software based
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-1.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-1.webp)
   
   Common Interfaces are:
   + USB 
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-2.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-2.webp)
   
   + USB connectors
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-3.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-3.webp)
 
 #### Thunderbolt
 
@@ -39,7 +39,7 @@ weight: 3
 - New versions reuse USB-C connectors
 - Identified with a thunderbolt symbol
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-4.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-4.webp)
 
 #### FireWire
 
@@ -49,7 +49,7 @@ weight: 3
   + Uses a serial bus to transfer data on e bit at a time
   + Still used for audio/video connections on older computers (before 2011), and in the automobile and aerospace industries
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-5.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-5.webp)
 
 ####  PS/2
 
@@ -60,7 +60,7 @@ weight: 3
 	- Purple for keyboard
 - Considered a legacy port
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-6.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-6.webp)
 
 #### eSATA
 
@@ -72,7 +72,7 @@ weight: 3
 	- Revision 2: Speeds of 3 Gbps
 	- Revision 3: Speeds of 6 Gbps
 	  
-	  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-7.png)
+	  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-7.webp)
 
 ## **Identifying Graphic Devices**
 
@@ -84,22 +84,22 @@ weight: 3
 - ATI/AMD, nVIDIA, SiS, Intel, and Via are leading manufacturers
 ### **Display System**
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-8.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-8.webp)
 
 #### VGA Display System
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-9.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-9.webp)
 
 #### LED Display System
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-10.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-10.webp)
 
 ### **Display Connectors**
 
 - Different cables and connectors for different display adapters
 - Each connector has specific function and benefits
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-11.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-11.webp)
 
 #### HDMI Interface
 
@@ -133,7 +133,7 @@ weight: 3
 - Single-link for lower resolutions and Dual-link for HDTV
 - Superseded by HDMI and Thunderbolt
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-12.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-12.webp)
 
 #### Video Graphics Array (VGA)
 
@@ -148,7 +148,7 @@ weight: 3
 - Has multiple ports to connect a variety of devices
 - Used for multimedia application, education and entertainment, presentation, and teleconferencing
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-13.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-13.webp)
 
 ### **Audio connectors**
 
@@ -180,7 +180,7 @@ weight: 3
 
 ### **Wired connectors**
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-14.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-14.webp)
 
 #### Wire connection benefits
 
@@ -250,7 +250,7 @@ weight: 3
 	- Compatibility among manufacturers
 - Cables commonly feature 9-pin connections and two screws to secure the cable
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-15.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-15.webp)
 
 #### Parallel port cable connection
 
@@ -259,7 +259,7 @@ weight: 3
 - Feature 25-pin connections
 - Include two screws to keep the cable connected
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-16.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-16.webp)
 
 #### Network connections
 
@@ -268,7 +268,7 @@ weight: 3
 
 #### Connecting to local printers
   
-  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-17.png)
+  ![Interfaces and Connectors](/notes/ibm-it-support/Interfaces%20and%20Connectors-17.webp)
 
 ## **Installation Types**
   

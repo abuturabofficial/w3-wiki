@@ -43,7 +43,7 @@ weight: 1
 - 52% of the Fortune 500 have disappeared since the year 2000.
 - When disruption happen, businesses need to adopt according no matter what, and this adaptation should be agile and lean.
   
-  ![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps.png)
+  ![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps.webp)
   
   **Digitization + Business Model:**
 - Technology is the enabler of innovation, not the driver of innovation.
@@ -124,7 +124,7 @@ weight: 1
   - Ecosystem enabler
   - Fast startup
 	  
-![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-1.png)
+![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-1.webp)
 
 ### The Perfect Combination/Storm
 
@@ -139,11 +139,11 @@ weight: 1
 
 ### Application Evolution
   
-![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-2.png)
+![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-2.webp)
 
 **DevOps has three dimensions:**
 
-![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-3.png)
+![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-3.webp)
 
 **Responsibility, transparency, feedback:**
 
@@ -162,7 +162,7 @@ While tools and methods are important;
 - Organizational change.
 - Change of the way people are measured.
   
-![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-4.png)
+![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-4.webp)
 
 ## **Leading Up to DevOps**
 
@@ -174,7 +174,7 @@ While tools and methods are important;
 
 ### **Traditional Waterfall Method**
   
-![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-5.png)
+![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-5.webp)
 
 #### Problems with Waterfall Approach
 
@@ -195,7 +195,7 @@ While tools and methods are important;
 - Intended to improve software quality, responsiveness to changing customer requirements
 - One of the first Agile methods
   
-![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-6.png)
+![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-6.webp)
 
 ### The Agile Manifesto
   
@@ -209,16 +209,16 @@ That is, while there is value in the items on the right, we value the items on t
 
 ### Agile Development
   
-![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-7.png)
+![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-7.webp)
 
 **Agile alone is not good enough:**
 
-![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-8.png)
+![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-8.webp)
 
 **2 Speed IT:**
 - This is how **Shadow IT** started, as Ops team wasn’t meeting their needs.
 
-![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-9.png)
+![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-9.webp)
 
 ### Shadow IT
 
@@ -264,7 +264,7 @@ He recognized Dev and Ops worked ineffectively and not together.
 Patrick Debois (lead 2009-15)
 Bridget Kromhout (lead 2015-2020)
 
-![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-10.png)
+![Overview of DevOps](/notes/ibm-devops-and-se/Overview%20of%20DevOps-10.webp)
 
 ### Why is the history significant?
   

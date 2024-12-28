@@ -23,7 +23,7 @@ weight: 3
 	- NAS (Network Attached Storage), Network fileshares such as EMC or NetApp; and Cloud Shares such as Amazon S3, Google Drive, Dropbox, Box.com etc.
 	- Unstructured-Data
 	  
-	  ![Introduction to Databases](/notes/ibm-cybersecurity-analyst/Introduction%20to%20Databases.png)
+	  ![Introduction to Databases](/notes/ibm-cybersecurity-analyst/Introduction%20to%20Databases.webp)
 
 ## **Data Model Types**
 
@@ -62,13 +62,13 @@ weight: 3
 - The tables for a relational database are linked to each other through the use of **Keys**. Each table may have one **primary key** and any number of **foreign keys**. A **foreign key** is simply a **primary key** from one table that has been placed in another table.
 - The most important rules for designing relational databases are called **Normal Forms**. When databases are designed properly, huge amounts of information can be kept under control. This lets you **query** the database (search for information section) and quickly get the answer you need.
   
-  ![Introduction to Databases](/notes/ibm-cybersecurity-analyst/Introduction%20to%20Databases-1.png)
+  ![Introduction to Databases](/notes/ibm-cybersecurity-analyst/Introduction%20to%20Databases-1.webp)
 
 # **Securing Databases**
 
 ## **Securing your “Crown Jewels”**
   
-  ![Introduction to Databases](/notes/ibm-cybersecurity-analyst/Introduction%20to%20Databases-2.png)
+  ![Introduction to Databases](/notes/ibm-cybersecurity-analyst/Introduction%20to%20Databases-2.webp)
 
 ## Leveraging Security Industry Best Practices
   
@@ -99,15 +99,15 @@ weight: 3
   
   Perhaps the most common day-to-day use case for a database is using it as the backend of an application, such as your organization HR system, or even your organization's email system!
   
-  ![Introduction to Databases](/notes/ibm-cybersecurity-analyst/Introduction%20to%20Databases-3.png)
+  ![Introduction to Databases](/notes/ibm-cybersecurity-analyst/Introduction%20to%20Databases-3.webp)
 
 ## **Anatomy of a Vulnerability Assessment Test Report**
   
-  ![Introduction to Databases](/notes/ibm-cybersecurity-analyst/Introduction%20to%20Databases-4.png)
+  ![Introduction to Databases](/notes/ibm-cybersecurity-analyst/Introduction%20to%20Databases-4.webp)
 
 ## **Securing Data Sources by Type**
   
-  ![Introduction to Databases](/notes/ibm-cybersecurity-analyst/Introduction%20to%20Databases-5.png)
+  ![Introduction to Databases](/notes/ibm-cybersecurity-analyst/Introduction%20to%20Databases-5.webp)
 
 # **A Data Protection Solution Example, IBM Security Guadium Use Cases**
 

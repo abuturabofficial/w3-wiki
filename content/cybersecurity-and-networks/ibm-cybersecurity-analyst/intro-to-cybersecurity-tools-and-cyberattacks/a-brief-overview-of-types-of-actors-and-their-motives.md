@@ -115,7 +115,7 @@ weight: 2
 
 ## **Network Security Model**
   
-  ![Network Security Model](/notes/ibm-cybersecurity-analyst/A%20brief%20overview%20of%20types%20of%20actors%20and%20their%20motives.png)
+  ![Network Security Model](/notes/ibm-cybersecurity-analyst/A%20brief%20overview%20of%20types%20of%20actors%20and%20their%20motives.webp)
 
 ### Security Architecture is Context
   
@@ -181,17 +181,17 @@ weight: 2
 
 ## **Passive Attacks**
   
-  ![Passive Attack: Traffic Analysis](/notes/ibm-cybersecurity-analyst/A%20brief%20overview%20of%20types%20of%20actors%20and%20their%20motives-1.png)
+  ![Passive Attack: Traffic Analysis](/notes/ibm-cybersecurity-analyst/A%20brief%20overview%20of%20types%20of%20actors%20and%20their%20motives-1.webp)
 
 ## **Active Attacks**
   
-  ![Active Attack: Masquerade](/notes/ibm-cybersecurity-analyst/A%20brief%20overview%20of%20types%20of%20actors%20and%20their%20motives-2.png)
+  ![Active Attack: Masquerade](/notes/ibm-cybersecurity-analyst/A%20brief%20overview%20of%20types%20of%20actors%20and%20their%20motives-2.webp)
   
-  ![Active Attack: Modification](/notes/ibm-cybersecurity-analyst/A%20brief%20overview%20of%20types%20of%20actors%20and%20their%20motives-3.png)
+  ![Active Attack: Modification](/notes/ibm-cybersecurity-analyst/A%20brief%20overview%20of%20types%20of%20actors%20and%20their%20motives-3.webp)
  
-  ![Active Attack: DDos](/notes/ibm-cybersecurity-analyst/A%20brief%20overview%20of%20types%20of%20actors%20and%20their%20motives-4.png)
+  ![Active Attack: DDos](/notes/ibm-cybersecurity-analyst/A%20brief%20overview%20of%20types%20of%20actors%20and%20their%20motives-4.webp)
   
-  ![Active Attack: DDos](/notes/ibm-cybersecurity-analyst/A%20brief%20overview%20of%20types%20of%20actors%20and%20their%20motives-5.png)
+  ![Active Attack: DDos](/notes/ibm-cybersecurity-analyst/A%20brief%20overview%20of%20types%20of%20actors%20and%20their%20motives-5.webp)
 
 # **Malware and an Introduction to Threat Protection**
 

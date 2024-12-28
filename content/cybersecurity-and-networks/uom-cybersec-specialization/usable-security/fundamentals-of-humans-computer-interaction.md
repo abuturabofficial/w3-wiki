@@ -67,11 +67,11 @@ weight: 1
 - Affordance
   + Mapping
   
-    ![Mapping a Stove Design](/notes/uom-cybersecurity-specialization/Fundamentals%20of%20Humans%20Computer%20Interaction.png)
+    ![Mapping a Stove Design](/notes/uom-cybersecurity-specialization/Fundamentals%20of%20Humans%20Computer%20Interaction.webp)
   
   + Visibility
   
-    ![Visibility: A search Engine](/notes/uom-cybersecurity-specialization/Fundamentals%20of%20Humans%20Computer%20Interaction-1.png)
+    ![Visibility: A search Engine](/notes/uom-cybersecurity-specialization/Fundamentals%20of%20Humans%20Computer%20Interaction-1.webp)
   
   + Feedback
 

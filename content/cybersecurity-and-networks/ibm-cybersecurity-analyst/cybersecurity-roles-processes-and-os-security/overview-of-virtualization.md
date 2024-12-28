@@ -29,12 +29,12 @@ weight: 4
 
 ## **Virtualization to Cloud**
   
-  ![Overview of Virtualization](/notes/ibm-cybersecurity-analyst/Overview%20of%20Virtualization.png)
+  ![Overview of Virtualization](/notes/ibm-cybersecurity-analyst/Overview%20of%20Virtualization.webp)
 
 ### Cloud Deployments
   
-  ![Overview of Virtualization](/notes/ibm-cybersecurity-analyst/Overview%20of%20Virtualization-1.png)
+  ![Overview of Virtualization](/notes/ibm-cybersecurity-analyst/Overview%20of%20Virtualization-1.webp)
 
 ### Cloud Computing Reference Model
   
-  ![Overview of Virtualization](/notes/ibm-cybersecurity-analyst/Overview%20of%20Virtualization-2.png)
+  ![Overview of Virtualization](/notes/ibm-cybersecurity-analyst/Overview%20of%20Virtualization-2.webp)

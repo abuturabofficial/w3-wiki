@@ -23,7 +23,7 @@ weight: 3
 - Isolation of zones improves the cloud’s fault tolerance, decrease latency, and more
 - very high bandwidth connectivity with other AZs, Data Centers and the internet
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing.webp)
 
 #### Computing Resources
   
@@ -54,7 +54,7 @@ weight: 3
 - configuration
 - management
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-1.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-1.webp)
   
   Networking interfaces in the cloud need:
 - IP address
@@ -80,7 +80,7 @@ weight: 3
 
 ### Shared or Public Cloud VMs
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-2.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-2.webp)
 
 ### Transient or Spot VMs
 
@@ -92,7 +92,7 @@ weight: 3
 - Running stateless workloads, testing scalability
 - Running big data and HPC workloads at a low cost
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-3.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-3.webp)
 
 ### Reserved virtual server instances
 
@@ -100,7 +100,7 @@ weight: 3
 - If you exceed your reserved capacity, complement it with hourly or monthly VMs
   **Note: Not all predefined VMs families or configuration may be available as reserved.**
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-4.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-4.webp)
 
 ### Dedicated Hosts
 
@@ -144,7 +144,7 @@ weight: 3
 - High Performance Computing
 - Highly secure / isolated environments
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-5.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-5.webp)
 
 ### Bare-metal server vs. Virtual Servers
   
@@ -160,16 +160,16 @@ weight: 3
 
 ### Networking in Cloud vs. On Premise
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-6.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-6.webp)
   
   To create a network in cloud:
 - Define the size of the Network using IP address range, e.g.,: 10.10.0.0/16
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-7.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-7.webp)
 
 ### Direct Connectivity
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-8.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-8.webp)
 
 ### Building a Cloud
   
@@ -203,13 +203,13 @@ weight: 3
 		- Low cost
 		- Attach to multiple servers
 		  
-		  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-9.png)
+		  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-9.webp)
 
 - **Block Storage**
 	- Advantages
 		- Faster read/write speeds
 		  
-		  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-10.png)
+		  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-10.webp)
 
 - **Object Storage**
 - Disadvantages
@@ -219,7 +219,7 @@ weight: 3
 	- Infinite in size
 	- Pay for what you use
 	  
-	  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-11.png)
+	  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-11.webp)
 
 ## **File Storage**
   
@@ -233,13 +233,13 @@ weight: 3
 - Provision much larger amounts of Storage
   
   File storage is mounted from remote storage appliances:
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-12.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-12.webp)
 - Resilient to failure
 - Offer Encryption
 - Managed by service provider 
   
   File storage is mounted on compute nodes via Ethernet networks:
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-13.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-13.webp)
 
 ### Multiple Compute Nodes
 
@@ -310,7 +310,7 @@ weight: 3
   
   1. Object storage can be used without connecting to a particular compute node to use it:
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-14.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-14.webp)
   
   2. Object storage is less expensive than other cloud storage options
   3. The most important thing to note about Object Storage is that it’s effectively infinite
@@ -322,17 +322,17 @@ weight: 3
 
 ### **Object Storage Buckets**
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-15.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-15.webp)
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-16.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-16.webp)
 
 #### Managed by Service Provider
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-17.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-17.webp)
 
 ### Object Storage – Resilience Options
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-18.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-18.webp)
 
 ### Object Storage – Use Cases
 
@@ -351,7 +351,7 @@ weight: 3
 
 ### **Object Storage Tiers**
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-19.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-19.webp)
 
 #### Standard Tier
 
@@ -388,7 +388,7 @@ weight: 3
 
 ### Application Programming Interface, or API
   
-  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-20.png)
+  ![Components of Cloud Computing](/notes/ibm-it-support/Components%20of%20Cloud%20Computing-20.webp)
 
 ### Object Storage – Backup solutions
 

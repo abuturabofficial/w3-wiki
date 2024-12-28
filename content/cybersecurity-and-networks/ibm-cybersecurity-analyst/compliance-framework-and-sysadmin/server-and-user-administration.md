@@ -29,7 +29,7 @@ weight: 3
 
 ### Typical Windows Directory Structure
   
-  ![Server and User Administration](/notes/ibm-cybersecurity-analyst/Server%20and%20User%20Administration.png)
+  ![Server and User Administration](/notes/ibm-cybersecurity-analyst/Server%20and%20User%20Administration.webp)
 
 ## **Role-Based Access Control and Permissions**
 
@@ -125,7 +125,7 @@ weight: 3
 - Although user accounts are not marked for delegation by default, accounts in an AD domain can be trusted for delegation. This means that a service or a computer that is trusted for delegation can impersonate an account that authenticates to the to access other resources across the network.
 - It is a best practice to configure the user objects for all sensitive accounts in AD by selecting the **Account is sensitive and cannot be delegated** check box under **Account options** to prevent accounts from being delegated.
   
-  ![Server and User Administration](/notes/ibm-cybersecurity-analyst/Server%20and%20User%20Administration-1.png)
+  ![Server and User Administration](/notes/ibm-cybersecurity-analyst/Server%20and%20User%20Administration-1.webp)
 
 ## **Overview of Server Management with Windows Admin Center**
 

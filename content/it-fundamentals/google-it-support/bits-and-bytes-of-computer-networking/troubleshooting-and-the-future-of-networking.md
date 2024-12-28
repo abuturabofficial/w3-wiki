@@ -42,7 +42,7 @@ weight: 6
   + It contains the entire IP Header, and the first 8-bytes of the data payload section of the offending packet.
 - ICMP isn't developed for the humans to interact with.
   
-  ![ICMP Message](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking.png)
+  ![ICMP Message](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking.webp)
   
 #### Ping
   
@@ -54,7 +54,7 @@ weight: 6
   
   “A utility that lets you discover the path between two nodes, and gives you information about each hop along the way.”
   
-  ![Traceroute](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-1.png)
+  ![Traceroute](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-1.webp)
   
 - Two similar tools to traceroute are:
   + MTR - Linux/macOS
@@ -79,7 +79,7 @@ weight: 6
 - An ISP almost always gives you access to a **recursive name server** as part of the service it provides.
 - Many businesses run their own name servers. To give names to the Printers, computers etc. instead of referring them with their IPs.
   
-  ![A Private Name server](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-2.png)
+  ![A Private Name server](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-2.webp)
   
 - Another option is using **DNS as a service** provider. It is becoming more popular.
 - Some organizations run Public DNS servers, like Google's **8.8.8.8**, Cloudflare's **1.1.1.1**, quad9's **9.9.9.9** etc.
@@ -89,7 +89,7 @@ weight: 6
 - One should be careful when using Public DNS server, hijacking outbound DNS query, and redirecting the traffic to a malicious website is a common intrusion technique.
 - Always make sure the name server is run by a reputable company, and try to use the name servers provided by your ISP outside of troubleshooting scenarios.
   
-  ![DNS Hi-jacking](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-3.png)
+  ![DNS Hi-jacking](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-3.webp)
   
 ### **DNS Registration and Expiration**
 
@@ -139,7 +139,7 @@ A way of sending network traffic to yourself.
   
   “A piece of software that runs and manages virtual machines, while also offering these guests a virtual operating platform that's indistinguishable from an actual hardware.”
   
-  ![A Hypervisor](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-4.png)
+  ![A Hypervisor](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-4.webp)
   
 
 #### Public Cloud
@@ -186,11 +186,11 @@ A way of licensing the use of software to others while keeping that software cen
 - IPv6 = 128 bits, written as 8 groups of 16-bits each. Each one of these groups is further made up of **four** hexadecimal numbers.
 - Full IPv6 address looks like this
   
-  ![An IPv6 Address](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-5.png)
+  ![An IPv6 Address](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-5.webp)
   
 - Reserved IPv6 range is as follows, for education, documentation, books, courses etc.
   
-  ![Reserved IPv6 Addresses](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-6.png)
+  ![Reserved IPv6 Addresses](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-6.webp)
   
 #### Shortening of an IPv6 address
   
@@ -230,7 +230,7 @@ A way of licensing the use of software to others while keeping that software cen
   + Destination Address : 128-bits
   + Data Payload section
   
-  ![An IPv6 Header](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-7.png)
+  ![An IPv6 Header](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-7.webp)
   
 ### **IPv6 and IPv4 harmony**
 
@@ -238,7 +238,7 @@ A way of licensing the use of software to others while keeping that software cen
 - So, IPv6 and IPv4 traffic need to coexist during the transition period.
 - This is possible with **IPv4 mapped address space**. The IPv6 specifications have set aside a number of addresses that can be directly correlated to an IPv4 address.
   
-  ![IPv4 mapped address space](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-8.png)
+  ![IPv4 mapped address space](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-8.webp)
   
 - More important is IPv6 traffic needs to travel to IPv4 servers.
 - This is done through **IPv6 tunnels**.
@@ -248,7 +248,7 @@ A way of licensing the use of software to others while keeping that software cen
   Servers take incoming IPv6 traffic and encapsulate it within traditional IPv4 datagram.
 - They consist of IPv6 tunnel servers on either end of a connection. These IPv6 tunnel servers take incoming IPv6 traffic and encapsulate it within traditional IPv4 datagrams. This is then delivered across the IPv4 Internet space, where it's received by another IPv6 tunnel server. That server performs the de-encapsulation and passes the IPv6 traffic further along in the network.
   
-  ![IPv6 tunneling](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-9.png)
+  ![IPv6 tunneling](/notes/google-it-support/Troubleshooting%20and%20the%20Future%20of%20Networking-9.webp)
   
 #### IPv6 tunnel broker
   

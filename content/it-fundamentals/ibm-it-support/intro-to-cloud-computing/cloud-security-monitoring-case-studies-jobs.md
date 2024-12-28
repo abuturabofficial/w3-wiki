@@ -72,13 +72,13 @@ weight: 5
 
 ### **Authentication and User Identity**
   
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs.webp)
 
 #### Multifactor authentication
   
   It is used to combat identity theft by adding another level of authentication for application users.
   
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-1.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-1.webp)
 
 #### Cloud Directory Services
   
@@ -92,13 +92,13 @@ weight: 5
 - changes in user access rights
 - access methods used by each user
   
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-2.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-2.webp)
 
 ### Audit and Compliance
   
   Critical service within identity and access management framework, both for cloud provider, and cloud consumer.
   
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-3.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-3.webp)
 
 ### User and service access management
   
@@ -125,14 +125,14 @@ weight: 5
   
   Access policies define how users, service IDs, and access groups in the account are given permission to access account resources.
   
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-4.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-4.webp)
 
 #### Access Group Benefits
 
 - Streamline access assignment process vs. assigning individual user access
 - Reduce number of policies
   
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-5.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-5.webp)
 
 ## **Cloud Encryption**
 
@@ -238,7 +238,7 @@ weight: 5
 
 #### Cloud Monitoring Assessment
   
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-6.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-6.webp)
 
 #### Cloud Monitoring Features
   
@@ -308,23 +308,23 @@ weight: 5
 
 - Cloud Developers
 
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-7.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-7.webp)
 
 - Cloud Integration Specialists
   
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-8.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-8.webp)
 
 - Cloud Data Engineer
 
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-9.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-9.webp)
 - Cloud Security Engineers
 
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-10.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-10.webp)
 
 - Cloud DevOps Engineers
 
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-11.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-11.webp)
 
 - Cloud Solutions Architects
 
-  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-12.png)
+  ![Cloud Security, Monitoring, Case Studies, Jobs](/notes/ibm-it-support/Cloud%20Security,%20Monitoring,%20Case%20Studies,%20Jobs-12.webp)

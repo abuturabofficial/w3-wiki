@@ -54,13 +54,13 @@ weight: 5
   
 **Responsibilities:**
 
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering.webp)
 
 ## **Skills Required in Software Engineering**
   
 **What are hard skills?**
 
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-1.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-1.webp)
   
   Commonly required hard skills in software engineering:
 - Programming languages
@@ -72,15 +72,15 @@ weight: 5
 - Agile development
 - Database architecture
   
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-2.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-2.webp)
 
 **What are soft skills?**
 - Hard to define, quantify, or certify
 - Easily transferable
 
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-3.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-3.webp)
 
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-4.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-4.webp)
 
 ### Hard skills for software engineers
   
@@ -232,39 +232,39 @@ weight: 5
   **Job Titles:**
 - Front-end engineer
   
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-5.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-5.webp)
 
 - Back-end engineer
   
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-6.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-6.webp)
 
 - Full-stack engineer
   
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-7.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-7.webp)
 
 - DevOps engineer
   
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-8.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-8.webp)
 
 - Software Quality Assurance Engineer
   
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-9.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-9.webp)
 
 - Software Integration Engineer
   
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-10.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-10.webp)
 
 - Software Security Engineer
   
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-11.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-11.webp)
 
 - Mobile App Developer
   
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-12.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-12.webp)
 
 - Games Developer
   
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-13.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-13.webp)
 
 ## **Code of Ethics**
   
@@ -282,35 +282,35 @@ weight: 5
   
 1) **Public**
 
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-14.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-14.webp)
 
 2) **Client/Employer**
 
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-15.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-15.webp)
 
 3) **Product**
 
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-16.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-16.webp)
 
 4) **Judgement**
 
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-17.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-17.webp)
 
 5) **Management**
 
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-18.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-18.webp)
 
 6) **Profession**
 
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-19.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-19.webp)
 
 7) **Colleagues**
 
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-20.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-20.webp)
 
 8) **Self**
 
-![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-21.png)
+![Job Opportunities and Skill sets in Software Engineering](/notes/ibm-devops-and-se/Job%20Opportunities%20and%20Skill%20sets%20in%20Software%20Engineering-21.webp)
 
 ### Supplemental guide to behavior
 

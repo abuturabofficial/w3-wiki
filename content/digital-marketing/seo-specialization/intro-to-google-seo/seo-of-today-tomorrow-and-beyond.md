@@ -87,7 +87,7 @@ weight: 3
 - Position “0”
 - Snippets for voice search questions
   
-![Featured Snippets Example](/notes/seo-specialization/SEO%20of%20Today%20Tomorrow%20and%20Beyond.png)
+![Featured Snippets Example](/notes/seo-specialization/SEO%20of%20Today%20Tomorrow%20and%20Beyond.webp)
 
 #### Pros
 
@@ -99,7 +99,7 @@ weight: 3
 - You get less shelf-space for page one ranking
 - The result may answer a query and prevent them from clicking to your website
   
-![Average CTR of Featured Snippets](/notes/seo-specialization/SEO%20of%20Today%20Tomorrow%20and%20Beyond.jpg)
+![Average CTR of Featured Snippets](/notes/seo-specialization/SEO%20of%20Today%20Tomorrow%20and%20Beyond-1.webp)
 
 #### Impacts of CTR
 

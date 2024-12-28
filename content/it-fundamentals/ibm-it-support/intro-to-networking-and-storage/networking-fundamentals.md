@@ -35,20 +35,20 @@ weight: 1
 - ZigBee
 - Bluetooth
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals.webp)
 
 #### LAN (Local Area Network)
   
   A LAN is typically limited to a small, localized area, such as a single building or site.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-1.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-1.webp)
 
 #### MAN (Metropolitan Area Network)
 
 - A MAN is a network that spans an entire city, a campus, or a small region.
 - MANs are sometimes referred to as CANs (Campus Area Networks).
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-2.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-2.webp)
 
 #### WAN (Wide Area Network)
   
@@ -57,7 +57,7 @@ weight: 1
 - Schools
 - Government entities
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-3.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-3.webp)
 
 #### WLAN (Wireless LAN)
   
@@ -85,33 +85,33 @@ weight: 1
   1. **Physical Topology**: It describes how network devices are physically connected.
   2. **Logical Topology**: It describes how data flows across the physically connected network devices.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-4.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-4.webp)
 
 #### Star topology
   
   Star topology networks feature a central computer that acts as a hub.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-5.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-5.webp)
 
 #### Ring topology
   
   Ring topology networks connect all devices in a circular ring pattern, where data only flows in one direction (clockwise).
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-6.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-6.webp)
 
 #### Bus topology
   
   Bus topology networks connect all devices with a single cable or transmission line.
 - Small networks, LAN.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-7.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-7.webp)
 
 #### Tree topology
   
   Tree topology networks combine the characteristics of bus topology and star topology.
 - University campus
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-8.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-8.webp)
 
 #### Mesh topology
   
@@ -120,17 +120,17 @@ weight: 1
 - It is commonly used in WAN network for backup purposes.
 - It is not used in LAN implementations.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-9.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-9.webp)
 
 ## **Wire Connections**
 
 ### Older Internet Connection Types
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-10.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-10.webp)
 
 ### Newer Internet Connection Types
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-11.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-11.webp)
 
 ### **Wired Networks**
   
@@ -200,7 +200,7 @@ weight: 1
 
 ### **Cables types**
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-12.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-12.webp)
 
 #### Hard Drive Cables
   
@@ -218,7 +218,7 @@ weight: 1
 	- Different cable types
 	- Up to 16 connections
 	  
-	  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-13.png)
+	  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-13.webp)
 
 #### Network Cables
   
@@ -259,9 +259,9 @@ weight: 1
 		- **Shielded Twisted Pair (STP)**
 			- More expensive
 			- Designed to reduce interference
-			  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-14.png)
+			  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-14.webp)
 			  
-			  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-15.png)
+			  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-15.webp)
 
 #### Serial Cables
   
@@ -273,7 +273,7 @@ weight: 1
 - Mice
 - Peripheral devices
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-16.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-16.webp)
 
 #### Video Cables
   
@@ -292,7 +292,7 @@ weight: 1
 - Mini-HDMI
 	- Type C HDMI
 	  
-	  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-17.png)
+	  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-17.webp)
 
 #### Multipurpose Cables
   
@@ -313,45 +313,45 @@ weight: 1
 
 ### **Wireless network types**
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-18.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-18.webp)
 
 #### WPAN networking examples
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-19.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-19.webp)
 
 #### WLAN networking examples
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-20.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-20.webp)
 
 #### WMAN networking examples
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-21.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-21.webp)
 
 #### WWAN networking examples
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-22.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-22.webp)
 
 ### Wired vs. wireless
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-23.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-23.webp)
 
 ### Latest Networking Trends
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-24.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-24.webp)
 
 ## **Advantages and Disadvantages of Network Types**
 
 ### Networks vs. devices
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-25.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-25.webp)
 
 ### Smaller vs. larger
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-26.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-26.webp)
 
 ### Wired vs. wireless
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-27.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-27.webp)
 
 ### **Network Types**
   
@@ -359,7 +359,7 @@ weight: 1
 - Wired
 - Wireless
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-28.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-28.webp)
 
 #### PAN
   
@@ -499,7 +499,7 @@ weight: 1
   
   A **gateway** is a hardware or software that allows data to flow from one network to another, for examples, a home network to the Internet.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-29.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-29.webp)
 
 #### Repeaters and WAPs
   
@@ -517,7 +517,7 @@ weight: 1
   
   NICs connect individual devices to a network.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-30.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-30.webp)
 
 #### Firewalls, proxies, IDS, and IPS
   
@@ -525,7 +525,7 @@ weight: 1
 - Firewalls can be software or hardware
 - Routers and operating systems have built-in firewalls
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-31.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-31.webp)
   
   **A Proxy Server:**
 - Works to minimize security risks
@@ -537,7 +537,7 @@ weight: 1
 - IDS monitors network traffic and reports malicious activity
 - IPS inspects network traffic and removes, detains, or redirects malicious items
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-32.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-32.webp)
 
 ## **Packets, IP Addressing, DNS, DHCP, and NAT**
 
@@ -553,11 +553,11 @@ weight: 1
 
 ### Data Transmission Flow Types
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-33.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-33.webp)
 
 ### IP Packets Transmission Modes
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-34.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-34.webp)
 
 ### Data Transmission Flow
   
@@ -571,7 +571,7 @@ weight: 1
   
   An IP address is used to logically identify each device (Host) on a given network.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-35.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-35.webp)
 
 #### IP Address Types
   
@@ -591,7 +591,7 @@ weight: 1
   
   The DNS is the phone book of the internet.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-36.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-36.webp)
 
 ### Dynamic Host Configuration Protocol (DHCP)
   
@@ -615,13 +615,13 @@ weight: 1
 - Internal usage within a network.
 - Routers use subnet masks to route data to the right place.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-37.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-37.webp)
 
 ### Automatic Private IP Addressing (APIPA)
   
   APIPA is a feature in operating systems like Windows that let computers self-configure an IP address and subnet mask automatically when the DHCP server isn’t reachable.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-38.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-38.webp)
 
 ### Network Address Translation (NAT)
   
@@ -633,13 +633,13 @@ weight: 1
   
   **NAT instructions send all data packets without revealing private IP addresses of the intended destination.**
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-39.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-39.webp)
 
 ### Media Access Control (MAC) Addresses
   
   A MAC address is the physical address of each device on a network.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-40.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-40.webp)
 
 ## **Models, Standards, Protocols, and Ports**
 
@@ -656,13 +656,13 @@ weight: 1
 
 #### 7 Layer OSI Model
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-41.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-41.webp)
 
 #### 5 Layer TCP/IP Model
   
   The TCP/IP model is a set of standards that allow computers to communicate on a network. TCP/IP is based on the OSI model.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-42.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-42.webp)
 
 ### **Network Standards and their Importance**
   
@@ -719,11 +719,11 @@ weight: 1
   
   The TCP/IP suite is a collection of protocols.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-43.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-43.webp)
 
 #### Protocols – Internet of Things
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-44.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-44.webp)
 
 #### Protocols – Crypto Classic
   
@@ -742,37 +742,37 @@ weight: 1
 - A network device can have up to **65536** ports.
 - Port numbers do not change.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-45.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-45.webp)
 
 ## **Wireless Networks and Standards**
 
 ### **Network types**
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-46.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-46.webp)
 
 #### WPAN
   
   A WPAN connects devices within the range of an individual person (10 meters). WPANs use signals like **infrared, Zigbee, Bluetooth, and ultra-wideband**.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-47.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-47.webp)
 
 #### WLAN
   
   A WLAN connects computers and devices within homes, offices, or small businesses. WLANs use Wi-Fi signals from routers, modems, and wireless access points to wirelessly connect devices.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-48.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-48.webp)
 
 #### WMAN
   
   A WMAN spans a geographic area (size of a city). It serves ranges greater than 100 meters.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-49.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-49.webp)
 
 #### WWAN
   
   A WWAN provides regional, nationwide, and global wireless coverage. This includes private networks of multinational corporations, **the Internet, and cellular networks like 4G, 5G, LTE, and LoRaWAN**.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-50.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-50.webp)
 
 #### Wireless ad hoc network
   
@@ -788,13 +788,13 @@ weight: 1
 - Not robust
 - Security risks
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-51.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-51.webp)
 
 ### **Cellular networks**
   
   A cellular network provides regional, nationwide, and global mesh coverage for mobile devices.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-52.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-52.webp)
   
   **Advantages**
 - Flexibility
@@ -810,7 +810,7 @@ weight: 1
   
   The IEEE 802.20 and 802.22 standards support WWANs, cellular networks and WANETs.
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-53.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-53.webp)
   
   **IEEE 802.20**
 - Optimizes bandwidth to increase coverage or mobility
@@ -823,20 +823,20 @@ weight: 1
 
 ### Web page protocols
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-54.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-54.webp)
 
 ### File transfer protocols
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-55.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-55.webp)
 
 ### Remote access protocols
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-56.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-56.webp)
 
 ### Email protocols
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-57.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-57.webp)
 
 ### Network Protocols
   
-  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-58.png)
+  ![Networking Fundamentals](/notes/ibm-it-support/Networking%20Fundamentals-58.webp)

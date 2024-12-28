@@ -10,7 +10,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 
 ### Types of IT Infrastructure Services
   
-  ![IT Infrastructure](/notes/google-it-support/Network%20and%20Infrastructure%20Services.png)
+  ![IT Infrastructure](/notes/google-it-support/Network%20and%20Infrastructure%20Services.webp)
 
 - You can use **Cloud Infrastructure Services or IaaS**, if you don't want to use own hardware. Some common IaaS providers are:
   + Amazon EC2
@@ -18,16 +18,16 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + Windows Azure
   + Google Compute Engine (GCP)
   
-  ![IaaS](/notes/google-it-support/Network%20and%20Infrastructure%20Services-1.png)
+  ![IaaS](/notes/google-it-support/Network%20and%20Infrastructure%20Services-1.webp)
 
 - Networks can be integrated into an IaaS
 - But in recent years, **Network as a Service or NaaS** has emerged.
   
-  ![NaaS](/notes/google-it-support/Network%20and%20Infrastructure%20Services-2.png)
+  ![NaaS](/notes/google-it-support/Network%20and%20Infrastructure%20Services-2.webp)
 
 - Every company needs, some email service, word processor, ppt makers, CMS, etc. **Software as a Service or SaaS** can handle it for you.
   
-  ![SaaS](/notes/google-it-support/Network%20and%20Infrastructure%20Services-3.png)
+  ![SaaS](/notes/google-it-support/Network%20and%20Infrastructure%20Services-3.webp)
 
 - Some companies have a product built around a software application. In this case, there are some things that software developers need to be able to code, build and shape their software.
   + First, specific applications have to be installed for their programming development environment.
@@ -35,7 +35,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
   + Finally, if they're serving web content like a website, they might need to publish their product on the Internet.
   + For all in one solution, **Platform as a Service or PaaS**, is used.
   
-  ![Paas](/notes/google-it-support/Network%20and%20Infrastructure%20Services-4.png)
+  ![Paas](/notes/google-it-support/Network%20and%20Infrastructure%20Services-4.webp)
 
 - The last IT Infrastructure service we'll discuss is the management of users, access, and authorization. A directory service, centralizes your organization's users and computers in one location so that you can add, update, and remove users and computers. Some popular directory services are:
   + Windows Active Directory (AD)
@@ -70,7 +70,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 
 - Network service commonly used in an organization is **File transfer service**.
   
-  ![A Network File transfer service](/notes/google-it-support/Network%20and%20Infrastructure%20Services-5.png)
+  ![A Network File transfer service](/notes/google-it-support/Network%20and%20Infrastructure%20Services-5.webp)
 
 #### PXE Boot (Preboot Execution)
   
@@ -81,7 +81,7 @@ LastModifierEmail: cyberfrontofficial@proton.me
 - One of the oldest network protocols
 - You can use Public NTP server, or deploy your own if you have a fleet of hundreds and thousands of computers.
   
-  ![NTP Server](/notes/google-it-support/Network%20and%20Infrastructure%20Services-6.png)
+  ![NTP Server](/notes/google-it-support/Network%20and%20Infrastructure%20Services-6.webp)
 
 ### **Network Support Services Revisited**
 
@@ -105,11 +105,11 @@ LastModifierEmail: cyberfrontofficial@proton.me
 
 - First, we need a domain name.
   
-  ![DNS Web Server Setup](/notes/google-it-support/Network%20and%20Infrastructure%20Services-7.png)
+  ![DNS Web Server Setup](/notes/google-it-support/Network%20and%20Infrastructure%20Services-7.webp)
 
 - We can also have own server, pointed to the domain name.
   
-  ![DNS setup for private server](/notes/google-it-support/Network%20and%20Infrastructure%20Services-8.png)
+  ![DNS setup for private server](/notes/google-it-support/Network%20and%20Infrastructure%20Services-8.webp)
 
 ### DNS for Internal Networks
 

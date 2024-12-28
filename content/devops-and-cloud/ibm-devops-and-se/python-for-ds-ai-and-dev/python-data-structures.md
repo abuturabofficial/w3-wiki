@@ -23,17 +23,17 @@ weight: 2
   Ratings = (10, 9, 6, 5, 10, 8, 9, 6, 2)
   ```
   
-  ![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures.png)
+  ![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures.webp)
   
-  ![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-1.png)
+  ![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-1.webp)
   
-  ![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-2.png)
+  ![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-2.webp)
   
-  ![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-3.png)
+  ![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-3.webp)
   
-  ![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-4.png)
+  ![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-4.webp)
   
-  ![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-5.png)
+  ![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-5.webp)
 
 ## Lists
 
@@ -69,23 +69,23 @@ weight: 2
 
 - Multiple names referring to the same object is known as **aliasing**
   
-![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-6.png)
+![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-6.webp)
 
 - We can clone the list, where both lists will be of their independent copies
 - So changing List “A”, will not change List “B”
   
-![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-7.png)
+![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-7.webp)
 
 ## Dictionaries
   
-![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-8.png)
+![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-8.webp)
 
 - Dictionaries are denoted with curly Brackets {}
 - The keys have to be immutable and unique
 - The values can be immutable, mutable and duplicates
 - Each key and value pair is separated by a comma
   
-![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-9.png)
+![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-9.webp)
 
 ## Sets
 
@@ -98,7 +98,7 @@ weight: 2
 
 ### Sets: Creating a Set
   
-![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-10.png)
+![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-10.webp)
 
 - You can convert a list into set
   
@@ -120,7 +120,7 @@ weight: 2
 
 - To find the intersection of the sets elements present in the both sets), `set1 & set2` or `set1.intersection(set2)`
   
-![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-11.png)
+![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-11.webp)
 
 - Union of the sets, contain elements of both the sets combined, `set1.union(set2)`
 - To find the difference of sets:
@@ -132,6 +132,6 @@ weight: 2
   set2.difference(set1)
   ```
   
-![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-12.png)
+![Python data Structures](/notes/ibm-devops-and-se/Python%20Data%20Structures-12.webp)
 
 - To find is a set is a subset/superset (have all the elements of other set), `set1.issubset/issuperset(set2)

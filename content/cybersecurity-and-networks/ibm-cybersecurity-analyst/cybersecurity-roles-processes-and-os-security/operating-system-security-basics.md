@@ -49,7 +49,7 @@ weight: 3
 
 ### Typical Windows Directory Structure
   
-  ![Operating System Security Basics](/notes/ibm-cybersecurity-analyst/Operating%20System%20Security%20Basics.png)
+  ![Operating System Security Basics](/notes/ibm-cybersecurity-analyst/Operating%20System%20Security%20Basics.webp)
 
 ## **Shortcuts and Commands**
 
@@ -58,7 +58,7 @@ weight: 3
 - Common tasks that can be accessed using the Windows or Ctrl Key and another Key.
 - Time saving and helpful for tasks done regularly.
   
-  ![Operating System Security Basics](/notes/ibm-cybersecurity-analyst/Operating%20System%20Security%20Basics-1.png)
+  ![Operating System Security Basics](/notes/ibm-cybersecurity-analyst/Operating%20System%20Security%20Basics-1.webp)
 
 ## Additional Shortcuts
 
@@ -92,11 +92,11 @@ weight: 3
 - `-` represents file in CLI
 - `d` represents directory in CLI
   
-![Operating System Security Basics](/notes/ibm-cybersecurity-analyst/Operating%20System%20Security%20Basics-2.png)
+![Operating System Security Basics](/notes/ibm-cybersecurity-analyst/Operating%20System%20Security%20Basics-2.webp)
 
 ### Run Levels
 
-![Operating System Security Basics](/notes/ibm-cybersecurity-analyst/Operating%20System%20Security%20Basics-3.png)
+![Operating System Security Basics](/notes/ibm-cybersecurity-analyst/Operating%20System%20Security%20Basics-3.webp)
 
 ## **Linux Basic Commands**
 

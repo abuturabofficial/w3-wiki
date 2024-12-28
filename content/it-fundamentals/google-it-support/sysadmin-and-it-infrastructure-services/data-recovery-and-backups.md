@@ -31,11 +31,11 @@ LastModifierEmail: cyberfrontofficial@proton.me
   
   Absolutely necessary data should be backed up.
   
-  ![Important Backup data](/notes/google-it-support/Data%20Recovery%20and%20Backups.png)
+  ![Important Backup data](/notes/google-it-support/Data%20Recovery%20and%20Backups.webp)
   
-  ![Local Storage](/notes/google-it-support/Data%20Recovery%20and%20Backups-1.png)
+  ![Local Storage](/notes/google-it-support/Data%20Recovery%20and%20Backups-1.webp)
   
-  ![Off-site storage](/notes/google-it-support/Data%20Recovery%20and%20Backups-2.png)
+  ![Off-site storage](/notes/google-it-support/Data%20Recovery%20and%20Backups-2.webp)
   
   Backed up data as well as, data in transit for backup, both should be encrypted.
 
@@ -144,6 +144,6 @@ Typical postmortem report consists of:
 + Actions to Avoid Same Scenario
 + What went well?
   
-  ![Post-mortem Report](/notes/google-it-support/Data%20Recovery%20and%20Backups-3.png)
+  ![Post-mortem Report](/notes/google-it-support/Data%20Recovery%20and%20Backups-3.webp)
   
-  ![Post-mortem Report](/notes/google-it-support/Data%20Recovery%20and%20Backups-4.png)
+  ![Post-mortem Report](/notes/google-it-support/Data%20Recovery%20and%20Backups-4.webp)

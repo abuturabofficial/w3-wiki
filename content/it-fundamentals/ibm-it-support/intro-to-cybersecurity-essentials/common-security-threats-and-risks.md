@@ -12,11 +12,11 @@ weight: 1
 
 ### The CIA Triad
   
-  ![Common Security Threats and Risks](/notes/ibm-it-support/Common%20Security%20Threats%20and%20Risks.png)
+  ![Common Security Threats and Risks](/notes/ibm-it-support/Common%20Security%20Threats%20and%20Risks.webp)
 
 ### Regulatory Standards
   
-  ![Common Security Threats and Risks](/notes/ibm-it-support/Common%20Security%20Threats%20and%20Risks-1.png)
+  ![Common Security Threats and Risks](/notes/ibm-it-support/Common%20Security%20Threats%20and%20Risks-1.webp)
 
 ## **Importance of Security and Information Privacy**
 
@@ -24,7 +24,7 @@ weight: 1
   
   An information asset is information or data that is of value.
   
-  ![Common Security Threats and Risks](/notes/ibm-it-support/Common%20Security%20Threats%20and%20Risks-2.png)
+  ![Common Security Threats and Risks](/notes/ibm-it-support/Common%20Security%20Threats%20and%20Risks-2.webp)
   
   Information assets can exist physically (paper, disks, other media) or they can exist electronically, in databases and files.
 
@@ -55,7 +55,7 @@ weight: 1
 
 ### Confidential Information
   
-  ![Common Security Threats and Risks](/notes/ibm-it-support/Common%20Security%20Threats%20and%20Risks-3.png)
+  ![Common Security Threats and Risks](/notes/ibm-it-support/Common%20Security%20Threats%20and%20Risks-3.webp)
   
   Properly handling confidentiality means:
 - Restricting access

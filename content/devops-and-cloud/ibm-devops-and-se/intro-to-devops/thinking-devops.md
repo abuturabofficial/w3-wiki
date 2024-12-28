@@ -51,7 +51,7 @@ weight: 2
   
   **Git feature branch workflow:**
   
-![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps.png)
+![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps.webp)
 
 ## **Working in Small Batches**
 
@@ -71,11 +71,11 @@ weight: 2
   
 **Batch of 50 brochures:**
 
-![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-1.png)
+![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-1.webp)
 
 **Single Piece Flow:**
 
-![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-2.png)
+![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-2.webp)
 
 ### Measuring the size of batches
 
@@ -92,7 +92,7 @@ weight: 2
   
 **Minimum Viable Product Example:**
 
-![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-3.png)
+![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-3.webp)
 
 ### Gaining an understanding
 
@@ -123,7 +123,7 @@ weight: 2
 
 #### Basic TDD workflow
   
-![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-4.png)
+![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-4.webp)
   
 **Why is TDD important for DevOps?**
 - It saves time when developing
@@ -142,7 +142,7 @@ weight: 2
 - BDD ensures that you’re building the “**right thing**”
 - TDD ensures that you are building the “**thing right**”
   
-![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-5.png)
+![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-5.webp)
 
 ### BDD workflow
 
@@ -164,7 +164,7 @@ weight: 2
 
 **Retail BDD example**
 
-![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-6.png)
+![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-6.webp)
 
 **Gherkin for acceptance criteria:**
 - Add acceptance criteria to every user story
@@ -184,7 +184,7 @@ weight: 2
   
 **Think differently about application design:**
 
-![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-7.png)
+![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-7.webp)
 
 **Think cloud native:**
 - The Twelve-Factor App
@@ -201,7 +201,7 @@ weight: 2
 
 ### Monolith vs. Microservices
   
-![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-8.png)
+![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-8.webp)
 
 ## **Designing for Failure**
   
@@ -216,15 +216,15 @@ weight: 2
   
 **Retry pattern:**
 
-![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-9.png)
+![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-9.webp)
 
 **Circuit Breaker pattern:**
 
-![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-10.png)
+![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-10.webp)
 
 **Bulkhead pattern:**
 
-![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-11.png)
+![Thinking DevOps](/notes/ibm-devops-and-se/Thinking%20DevOps-11.webp)
   
 **Chaos engineering:**
 - Also known as monkey testing

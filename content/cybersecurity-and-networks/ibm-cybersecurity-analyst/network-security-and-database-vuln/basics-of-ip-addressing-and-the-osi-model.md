@@ -11,7 +11,7 @@ weight: 2
 
 ## **IP Addressing – The Basics of Binary**
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model.webp)
 
 ## **IP Address Structure and Network Classes**
 
@@ -21,16 +21,16 @@ weight: 2
 - From 0.0.0.0 to 255.255.255.255
 - IPv4 has 4,294,967,296 possible addresses in its address space.
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-1.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-1.webp)
 
 ### Classful Addressing
   
   When the Internet’s address structure was originally defined, every unicast IP address had a network portion, to identify the network on which the interface using the IP address was to be found, and a host portion, used to identify the particular host on the network given in the network portion.
 - The partitioning of the address space involved five classes. Each class represented a different trade-off in the number of bits of a 32-bit IPv4 address devoted to the network numbers vs. the number of bits devoted to the host number.
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-2.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-2.webp)
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-3.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-3.webp)
 
 ## **IP Protocol and Traffic Routing**
 
@@ -43,11 +43,11 @@ weight: 2
 
 ### **IP Protocol Header**
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-4.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-4.webp)
 
 #### IPv4 vs. IPv6 Header
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-5.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-5.webp)
 
 ### Network Mask
 
@@ -60,7 +60,7 @@ weight: 2
   
   In each IPv4 subnet, a special address is reserved to be the subnet broadcast address. The subnet broadcast address is formed by setting the network/subnet portion of an IPv4 address to the appropriate value and all the bits in the Host portion to 1.
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-6.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-6.webp)
 
 ## **Introduction to the IPv6 Address Schema**
 
@@ -91,35 +91,35 @@ weight: 2
 
 ## **Application and Transport Protocols – UDP and TCP**
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-7.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-7.webp)
 
 ### **Transport Layer Protocol > UDP**
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-8.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-8.webp)
 
 #### UDP Header Fields
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-9.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-9.webp)
 
 #### UDP Use Cases
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-10.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-10.webp)
 
 ### **Transport Layer Protocol > TCP**
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-11.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-11.webp)
 
 #### Transport Layer Protocol > TCP in Action
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-12.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-12.webp)
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-13.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-13.webp)
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-14.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-14.webp)
 
 ### UDP vs TCP
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-15.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-15.webp)
 
 ## **Application Protocols – HTTP**
 
@@ -128,7 +128,7 @@ weight: 2
 - It is made of 3 blocks known as the start-line header and body.
 - Not secure.
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-16.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-16.webp)
 
 ### Application Protocols – HTTPS
 
@@ -146,7 +146,7 @@ weight: 2
 
 ### DHCP
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-17.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-17.webp)
 
 ## **Syslog Message Logging Protocol**
   
@@ -162,7 +162,7 @@ weight: 2
 
 ### **Syslog utilizes three layers**
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-18.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-18.webp)
 
 #### Functions are performed at each conceptual layer:
 
@@ -185,17 +185,17 @@ weight: 2
 - The facility value indicates which machine process created the message. The Syslog protocol was originally written on **BSD Unix**, so Facilities reflect the names of the UNIX processes and daemons.
 - If you’re receiving messages from a UNIX system, consider using the User Facility as your first choice. Local0 through Local7 aren’t used by UNIX and are traditionally used by networking equipment. Cisco routers, for examples, use Local6 or Local7.
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-19.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-19.webp)
 
 ##### Syslog Severity Levels
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-20.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-20.webp)
 
 ## **Flows and Network Analysis**
 
 ### What information is gathered in flows?
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-21.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-21.webp)
 
 ## **Port Mirroring and Promiscuous Mode**
 
@@ -233,17 +233,17 @@ weight: 2
 
 - The firewall itself must be able to monitor traffic from layers 2 through 7 and make a determination as to what type of traffic is being sent and received.
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-22.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-22.webp)
 
 ## **NGFW Packet Flow Example and NGFW Comparisons**
 
 ### Flow of Traffic Between Ingress and Egress Interfaces on a NGFW
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-23.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-23.webp)
 
 ### **Flow of Packets Through the Firewall**
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-24.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-24.webp)
 
 #### **NGFW Comparisons**:
 
@@ -312,7 +312,7 @@ weight: 2
 
 ###### IDS Location on Network
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-25.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-25.webp)
 
 #### Hybrid IDS Implementation
 
@@ -326,7 +326,7 @@ weight: 2
 - Examines network traffic flows to detect and prevent vulnerability exploits.
 - Often sits directly behind the firewall.
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-26.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-26.webp)
 
 #### How does the attack affect me?
 
@@ -379,7 +379,7 @@ weight: 2
   **Monitoring and Failover**
 - In a highly available setup, the system needs to be able to monitor itself for failure. This means that there are regular checks to ensure that all components are working properly. Failover is the process by which a secondary component becomes primary when monitoring reveals that a primary component has failed.
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-27.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-27.webp)
 
 ### **NIC Teaming**
   
@@ -391,4 +391,4 @@ weight: 2
 
 #### HA on a Next-Gen FW
   
-  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-28.png)
+  ![Basics of IP Addressing and the OSI Model](/notes/ibm-cybersecurity-analyst/Basics%20of%20IP%20Addressing%20and%20the%20OSI%20Model-28.webp)

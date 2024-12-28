@@ -65,7 +65,7 @@ weight: 1
   
   “A set of defined repeatable steps that take inputs, add value, and produce outputs that satisfy a customer's requirements.”
   
-  ![BPM Overview](/notes/ibm-cybersecurity-analyst/People%20process%20and%20technology.png)
+  ![BPM Overview](/notes/ibm-cybersecurity-analyst/People%20process%20and%20technology.webp)
 
 ### Attributes of a Process
 
@@ -82,7 +82,7 @@ weight: 1
 
 ### Standard Process Roles
   
-  ![Standard Process Roles](/notes/ibm-cybersecurity-analyst/People%20process%20and%20technology-1.png)
+  ![Standard Process Roles](/notes/ibm-cybersecurity-analyst/People%20process%20and%20technology-1.webp)
 
 ### What makes a Process Successful?
 
@@ -104,7 +104,7 @@ weight: 1
 
 ### Continual Process Improvement
   
-  ![Continual Process Improvement](/notes/ibm-cybersecurity-analyst/People%20process%20and%20technology-2.png)
+  ![Continual Process Improvement](/notes/ibm-cybersecurity-analyst/People%20process%20and%20technology-2.webp)
 
 ## **Information Technology Infrastructure Library (ITIL) Overview**
 

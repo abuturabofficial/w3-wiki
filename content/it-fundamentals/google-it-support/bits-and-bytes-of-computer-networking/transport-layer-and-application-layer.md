@@ -14,14 +14,14 @@ weight: 3
 “Allows traffic to be directed to specific network applications”
 - It handles multiplexing and demultiplexing through ports
   
-  ![De/multiplexing](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer.png)
+  ![De/multiplexing](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer.webp)
   
 - Port
 > A 16-bit number that's used to direct traffic to specific services running on a networked computer
   
-  ![Port Number](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-1.png)
+  ![Port Number](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-1.webp)
   
-  ![A Small Company Network Hosted on a Single Server](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-2.png)
+  ![A Small Company Network Hosted on a Single Server](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-2.webp)
   
 ### **Dissection of a TCP Segment**
 
@@ -33,7 +33,7 @@ weight: 3
 
 #### TCP Header
   
-  ![A TCP Header](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-3.png)
+  ![A TCP Header](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-3.webp)
   
 - Destination port
   
@@ -90,9 +90,9 @@ Not in strict order;
 - Handshake
 > “A way for two devices to ensure that they're speaking the same protocol and will be able to understand each other.”
   
-  ![A Three-way Handshake](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-4.png)
+  ![A Three-way Handshake](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-4.webp)
   
-  ![A TCP Handshake](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-5.png)
+  ![A TCP Handshake](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-5.webp)
   
 #### The Four-way Handshake
 
@@ -101,7 +101,7 @@ Not in strict order;
 - Then receiving end responds with **ACK** flag and connection closes
 - Even though the port, on one end, can simply remain open, and the connection ends without closing it
   
-  ![A Four-way Handshake](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-6.png)
+  ![A Four-way Handshake](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-6.webp)
   
 ### **TCP Socket States**
 
@@ -136,9 +136,9 @@ Not in strict order;
   
 “Established a connection, and uses this to ensure that all data has been properly transmitted.”
   
-  ![A lossless TCP Transfer](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-7.png)
+  ![A lossless TCP Transfer](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-7.webp)
   
-  ![A Packet loss during TCP Transfer](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-8.png)
+  ![A Packet loss during TCP Transfer](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-8.webp)
 
 #### Connectionless Protocol
 
@@ -166,7 +166,7 @@ Not in strict order;
   
 “Allows network applications to communicate in a way they understand.”
   
-  ![The TCP Five-Layered Model](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-9.png)
+  ![The TCP Five-Layered Model](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-9.webp)
   
 - Too many protocols in use at application layer, a hassle to list them all.
   + i.e., HTTP, SMTP, etc.
@@ -182,4 +182,4 @@ Not in strict order;
 
 “Responsible for making sure that the un-encapsulated application layer data is able to understand by the application in question.”
   
-  ![The OSI 7-Layer Model](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-10.png)
+  ![The OSI 7-Layer Model](/notes/google-it-support/Transport%20Layer%20and%20Application%20Layer-10.webp)
