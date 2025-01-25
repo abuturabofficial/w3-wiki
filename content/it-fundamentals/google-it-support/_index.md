@@ -39,7 +39,7 @@ This course delves deep into computer networking and transport layers.
 > 5. [Connecting to the Internet](/it-fundamentals/google-it-support/bits-and-bytes-of-computer-networking/connecting-to-the-internet)
 > 6. [Troubleshooting and the Future of Networking](/it-fundamentals/google-it-support/bits-and-bytes-of-computer-networking/troubleshooting-and-the-future-of-networking)
 
-### 3. Operating Systems and You: Becoming a Power User
+## 3. Operating Systems and You: Becoming a Power User
 
 It teaches about the inner workings of computer operating systems, and how manipulate and control different processes running on a computer.
 
@@ -52,7 +52,7 @@ It teaches about the inner workings of computer operating systems, and how manip
 > 5. [Operating Systems in Practice](/it-fundamentals/google-it-support/operating-systems-and-you/operating-systems-in-practice)
 > 6. [Process Management](/it-fundamentals/google-it-support/operating-systems-and-you/process-management)
 
-### 4. System Administration and IT Infrastructure Services
+## 4. System Administration and IT Infrastructure Services
 
 This is all about managing different IT services, including public and private cloud, platform services (PAAS, SAAS, IAAS). Also it teaches about data different backup solution and data recovery techniques.
 
@@ -65,7 +65,7 @@ This is all about managing different IT services, including public and private c
 > 5. [Data Recovery and Backups](/it-fundamentals/google-it-support/sysadmin-and-it-infrastructure-services/data-recovery-and-backups)
 > 6. [Final Project](/it-fundamentals/google-it-support/sysadmin-and-it-infrastructure-services/sysadmin-and-it-infrastructure-services-final-project)
 
-### 5. IT Security: Defense against the Digital Dark Arts
+## 5. IT Security: Defense against the Digital Dark Arts
 
 This course teaches about the best security practices and as well as methods to defend against evolving digital threats.
 
