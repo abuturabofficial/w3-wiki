@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: '2025-01-31T10:58:47+05:00'
 title: 'Unit 1: Algorithms'
 linkTitle: ''
