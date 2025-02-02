@@ -109,3 +109,72 @@ Then let's go into the body of the function, and decide how to implement that. S
 5. If the guess was too low, that is, `array[guess] < target`, then set `min = guess + 1`.
 6. Otherwise, the guess was too high. Set `max = guess - 1`.
 7. Go back to step-2.
+
+## Challenge
+
+<details><summary><b>Implementing binary search... </b></summary>
+
+(If you don't know JavaScript, you can skip the code challenges, or you can do the Intro to JS course and come back to them.)
+
+Complete the doSearch function so that it implements a binary search, following the pseudo-code below (this pseudo-code was described in the previous article):
+1. Let min = 0 and max = n-1.
+2. If max < min, then stop: target is not present in array. Return -1.
+3. Compute guess as the average of max and min, rounded down (so that it is an integer).
+4. If array[guess] equals target, then stop. You found it! Return guess.
+5. If the guess was too low, that is, array[guess] < target, then set min = guess + 1.
+6. Otherwise, the guess was too high. Set max = guess - 1.
+7. Go back to step 2.
+
+Once implemented, uncomment the Program.assertEqual() statement at the bottom to verify that the test assertion passes.
+
+</details>
+
+> [!INFO] TBD
+
+## Running time of binary search
+
+Linear search on an array of `n` elements might have to make as many as `n` guesses. We know, binary search need a lot less guesses. We also learned that as the length of an array increases, the efficiency of binary search goes up.
+
+The idea is, when binary search makes an incorrect guess, number of reasonable guess left, are at least cut half. Binary search halves the size of the reasonable portion upon every incorrect guess.
+
+Every time we double the size of an array, we require at most one more guess.
+
+Let's look at the general case of an array of length `n`, We can express the number of guesses, in the worst case, as “the number of time we can repeatedly halve, starting at `n`, until we get the value 1, plus one.” But this is inconvenient to write out.
+
+Luckily, there's a mathematical function that means the same thing as the **base-2 logarithm of n**. That's the most often written as $\log_{2}(n)$.
+
+| n         | $\log_{2}(n)$ |
+| --------- | ------------- |
+| 1         | 0             |
+| 2         | 1             |
+| 4         | 2             |
+| 8         | 3             |
+| 16        | 4             |
+| 32        | 5             |
+| 64        | 6             |
+| 128       | 7             |
+| 256       | 8             |
+| 512       | 9             |
+| 1024      | 10            |
+| 1,048,576 | 20            |
+| 2,097,152 | 21            |
+
+Graph of the same table:
+
+![](/notes/computer-science-theory/binary-search-3.webp)
+
+Zooming in on smaller values of n:
+
+![](/notes/computer-science-theory/binary-search-4.webp)
+
+The logarithm function grows very slowly. Logarithms are the inverse of exponentials, which grow very rapidly, so that if $\log_{2}(n) = x$, then $\ n = 2^{x}$. For example, $\ log_2 128 = 7$, we know that $\ 2^7 = 128$.
+
+That makes it easy to calculate the runtime of a binary search algorithm on an $n$ that's exactly a power of $2$. If $n$ is $128$, binary search will require at most $8 (log_2 128 + 1)$ guesses.
+
+What if $n$ isn't a power of $2$? In that case, we can look at the closest lower power of $2$. For an array whose length is 1000, the closest lower power of $2$ is $512$, which equals $2^9$. We can thus estimate that ‍$log_2 1000$ is a number greater than $9$ and less than $10$, or use a calculator to see that its about $9.97$. Adding one to that yields about $10.97$. In the case of a decimal number, we round down to find the actual number of guesses. Therefore, for a 1000-element array, binary search would require at most **10 guesses**.
+
+For the Tycho-2 star catalog with **2,539,913 stars**, the closest lower power of 2 is ‍ $2^{21}$ (which is 2,097,152), so we would need at most **22 guesses**. Much better than linear search!
+
+Compare $n$ vs $log_{2} {n}$ below:
+
+![](/notes/computer-science-theory/binary-search-5.webp)
