@@ -21,3 +21,4 @@ Unit 1, is subdivided into these parts:
 
 1. [Introduction to Algorithms](/computer-science/computer-science-theory/unit-1/intro-to-algorithms)
 2. [Binary Search](/computer-science/computer-science-theory/unit-1/binary-search)
+3. [Asymptotic Notation](/computer-science/computer-science-theory/unit-1/asymptotic-notation)
