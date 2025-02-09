@@ -17,8 +17,8 @@ weight: -1
 
 ### UNIT 1: Algorithms
 
-Unit 1, is subdivided into these parts:
-
-1. [Introduction to Algorithms](/cs-and-programming/computer-science-theory/unit-1/intro-to-algorithms)
-2. [Binary Search](/cs-and-programming/computer-science-theory/unit-1/binary-search)
-3. [Asymptotic Notation](/cs-and-programming/computer-science-theory/unit-1/asymptotic-notation)
+> [!TRANSPARENT]- Unit 1, is subdivided into these parts...
+>
+> 1. [Introduction to Algorithms](/cs-and-programming/computer-science-theory/unit-1/intro-to-algorithms)
+> 2. [Binary Search](/cs-and-programming/computer-science-theory/unit-1/binary-search)
+> 3. [Asymptotic Notation](/cs-and-programming/computer-science-theory/unit-1/asymptotic-notation)
