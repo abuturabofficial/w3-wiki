@@ -44,6 +44,8 @@ params:
     - zen-light
   # Show edit button
   editURL: https://github.com/abuturabofficial/w3-notes/tree/main/content/${FilePath}
+  # Disable inline Code copy button
+  disableInlineCopyToClipBoard: true
 
 # Sidebar settings
 param:
