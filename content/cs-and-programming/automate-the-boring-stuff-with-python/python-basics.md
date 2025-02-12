@@ -108,12 +108,6 @@ Though PEP8 guide itself says:
 
 ## Writing Our First Program
 
-
-| GitHub Link | https://github.com/abuturabofficial/python-automation-pg |
-| ----------- | -------------------------------------------------------- |
-
-
-
 - Python ignore comments starting with `#`.
 - It also skips the blank lines.
 - **Functions** — They are like mini-programs in Python.
