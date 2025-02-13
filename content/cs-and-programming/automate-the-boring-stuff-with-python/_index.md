@@ -16,4 +16,9 @@ This course is taught by **Al Sweigart** on **Udemy**. It has the following modu
 > [!INFO] 
 > My notes are based on both the [_video course_](https://www.udemy.com/course/automate/) and the book [_Automate the Boring Stuff with Python_](https://automatetheboringstuff.com/#toc) by **Al Sweigart**.
 
-1. [Python Basics](/cs-and-programming/automate-the-boring-stuff-with-python/python-basics/)
+
+| Coding Exercises | [Python Automation Playground](https://github.com/abuturabofficial/python-automation-pg) |
+| ---------------- | ---------------------------------------------------------------------------------------- |
+
+1. [Section 1: Python Basics](/cs-and-programming/automate-the-boring-stuff-with-python/python-basics/)
+2. [Section 2: Flow Control](/cs-and-programming/automate-the-boring-stuff-with-python/flow-control/)
