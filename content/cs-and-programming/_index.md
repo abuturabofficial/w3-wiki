@@ -22,3 +22,19 @@ weight: -1
 > 1. [Introduction to Algorithms](/cs-and-programming/computer-science-theory/unit-1/intro-to-algorithms)
 > 2. [Binary Search](/cs-and-programming/computer-science-theory/unit-1/binary-search)
 > 3. [Asymptotic Notation](/cs-and-programming/computer-science-theory/unit-1/asymptotic-notation)
+
+## Automate the Boring Stuff With Python Programming
+
+This course is taught by [**Al Sweigart**](https://www.udemy.com/course/automate/) on **Udemy**.
+
+> [!TRANSPARENT]- It has the following modules:
+>
+> > [!INFO] 
+> > My notes are based on both the [_video course_](https://www.udemy.com/course/automate/) and the book [_Automate the Boring Stuff with Python_](https://automatetheboringstuff.com/#toc) by **Al Sweigart**.
+> 
+> | Coding Exercises | [Python Automation Playground](https://github.com/abuturabofficial/python-automation-pg) |
+> | ---------------- | ---------------------------------------------------------------------------------------- |
+>
+> 1. [Section 1: Python Basics](/cs-and-programming/automate-the-boring-stuff-with-python/python-basics/)
+> 2. [Section 2: Flow Control](/cs-and-programming/automate-the-boring-stuff-with-python/flow-control/)
+> 3. [Section 3: Function](/cs-and-programming/automate-the-boring-stuff-with-python/functions/)

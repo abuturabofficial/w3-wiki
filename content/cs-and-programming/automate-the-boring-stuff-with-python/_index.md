@@ -22,3 +22,4 @@ This course is taught by **Al Sweigart** on **Udemy**. It has the following modu
 
 1. [Section 1: Python Basics](/cs-and-programming/automate-the-boring-stuff-with-python/python-basics/)
 2. [Section 2: Flow Control](/cs-and-programming/automate-the-boring-stuff-with-python/flow-control/)
+3. [Section 3: Function](/cs-and-programming/automate-the-boring-stuff-with-python/functions/)
