@@ -342,7 +342,7 @@ If the execution reaches a `break` statement, it immediately exits the `while` l
 ➎ print('Thank you!')
 ```
 
-he first line ➊ creates an _infinite loop_; it is a while loop whose condition is always True. (The expression True, after all, always evaluates down to the value True.) After the program execution enters this loop, it will exit the loop only when a break statement is executed. (An infinite loop that _never_ exits is a common programming bug.)
+The first line ➊ creates an _infinite loop_; it is a while loop whose condition is always True. (The expression True, after all, always evaluates down to the value True.) After the program execution enters this loop, it will exit the loop only when a break statement is executed. (An infinite loop that _never_ exits is a common programming bug.)
 
 Just like before, this program asks the user to enter your name ➋. Now, however, while the execution is still inside the while loop, an if statement checks ➌ whether name is equal to 'your name'. If this condition is True, the break statement is run ➍, and the execution moves out of the loop to print('Thank you!') ➎. Otherwise, the if statement’s clause that contains the break statement is skipped, which puts the execution at the end of the while loop. At this point, the program execution jumps back to the start of the while statement ➊ to recheck the condition.
 
