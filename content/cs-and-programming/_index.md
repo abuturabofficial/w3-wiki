@@ -38,3 +38,4 @@ This course is taught by [**Al Sweigart**](https://www.udemy.com/course/automate
 > 1. [Section 1: Python Basics](/cs-and-programming/automate-the-boring-stuff-with-python/python-basics/)
 > 2. [Section 2: Flow Control](/cs-and-programming/automate-the-boring-stuff-with-python/flow-control/)
 > 3. [Section 3: Function](/cs-and-programming/automate-the-boring-stuff-with-python/functions/)
+> 4. [Section 4: Handling Errors with Try/except](/cs-and-programming/automate-the-boring-stuff-with-python/handling-errors-with-try-and-except/)
