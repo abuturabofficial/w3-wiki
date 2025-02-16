@@ -24,3 +24,5 @@ This course is taught by **Al Sweigart** on **Udemy**. It has the following modu
 2. [Section 2: Flow Control](/cs-and-programming/automate-the-boring-stuff-with-python/flow-control/)
 3. [Section 3: Function](/cs-and-programming/automate-the-boring-stuff-with-python/functions/)
 4. [Section 4: Handling Errors with Try/except](/cs-and-programming/automate-the-boring-stuff-with-python/handling-errors-with-try-and-except/)
+5. [Section 5: Writing a Complete Program, Guess the Number](/cs-and-programming/automate-the-boring-stuff-with-python/writing-a-complete-program/)
+6. [Section 6: Lists](/cs-and-programming/automate-the-boring-stuff-with-python/lists/)
