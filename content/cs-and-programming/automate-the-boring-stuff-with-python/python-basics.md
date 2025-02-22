@@ -39,7 +39,7 @@ There are different programming text editors available:
 
 - Expressions = Values + Operators
 
-In python, these expressions always evaluate to a single result.
+In python, these expressions always evaluate to a single result. Arithmetic Operators are:
 
 | **Operator** | **Operation**                     | **Example** | **Evaluates to . . .** |
 | ------------ | --------------------------------- | ----------- | ---------------------- |
