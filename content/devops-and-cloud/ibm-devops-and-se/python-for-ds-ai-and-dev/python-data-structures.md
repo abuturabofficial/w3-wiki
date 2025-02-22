@@ -49,7 +49,7 @@ weight: 2
 - List can nest other lists and tuples
 - We can combine lists
 - List can be extended with `extend()` method
-- `append.()` adds only one element to the List, if we append `L.append([1,2,3,4])`, the List “L” will be:
+- `append()` adds only one element to the List, if we append `L.append([1,2,3,4])`, the List “L” will be:
   
   ```py
   L = ["Michael Jackson", 10.1, 1982,[1,2,3,4]]
