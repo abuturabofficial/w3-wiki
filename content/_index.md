@@ -1,12 +1,12 @@
 ---
 draft: false
 date: '2024-12-12T10:58:16+05:00'
-title: "My Notes Wiki"
+title: "The Gray Matter Wiki"
 type: "home"
 description: "A dynamic knowledge hub exploring technology, cybersecurity, cloud computing, operating systems, and more. Continuously updated with insights from courses and lifelong learning to inspire curiosity and growth."
 ---
 
-🌟 **Welcome to My Notes Wiki!** 🌟  
+## 🌟 **Welcome to Brain Dump Central!** 🌟  
 
 📚 This is where I share insights and knowledge from the many courses I’ve explored throughout my learning journey.  
 
@@ -20,7 +20,7 @@ description: "A dynamic knowledge hub exploring technology, cybersecurity, cloud
 
 ---
 
-🌐 **Connect with me** 🌐  
+## 🌐 **Connect with me** 🌐  
 
 The easiest and the fastest way to approach me is via email. (Use my Public PGP key to encrypt your emails before sending)
 

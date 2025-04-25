@@ -1,6 +1,6 @@
 baseURL: "https://wiki.cyberfront.me"
 languageCode: "en-us"
-title: "NOTES WIKI"
+title: "Notes Wiki"
 theme: "hugo-theme-relearn"
 
 frontmatter:
@@ -9,7 +9,7 @@ frontmatter:
 params:
   author:
     email: cyberfrontofficial@proton.me
-    name: AbuTurab
+    name: Sajid Mahmood
 
 # Print Support: Enable print support to print entire chapters or the whole site
 outputs:
