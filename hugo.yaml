@@ -35,6 +35,8 @@ markup:
     noClasses: false
 
 params:
+  images:
+    - images/hero.png
   showVisitedLinks: true
   themeVariant:
     - auto
