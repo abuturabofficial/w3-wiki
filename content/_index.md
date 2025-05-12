@@ -20,6 +20,16 @@ description: "A dynamic knowledge hub exploring technology, cybersecurity, cloud
 
 ---
 
+### 🎓 **Education Profiles** 🎓
+
+Following are my education profiles on different MOOC's platforms.
+
+- **Coursera Profile:** [View Profile](https://www.coursera.org/learner/abuturabofficial)
+- **TryHackMe:** [View Profile](https://tryhackme.com/p/abuturabofficial)
+- **Credly:** [View Profile](https://www.credly.com/users/abuturabofficial)
+- **Khan Academy:** [View Profile](https://www.khanacademy.org/profile/abuturabofficial/)
+
+---
 ### 🌐 **Connect with me** 🌐
 
 The easiest and the fastest way to approach me is via email. (Use my Public PGP key to encrypt your emails before sending)
