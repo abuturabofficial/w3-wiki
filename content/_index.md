@@ -20,7 +20,7 @@ description: "A dynamic knowledge hub exploring technology, cybersecurity, cloud
 
 ---
 
-### 🎓 **Education Profiles** 🎓
+### 🎓 **Educational Profiles** 🎓
 
 Following are my education profiles on different MOOC's platforms.
 
