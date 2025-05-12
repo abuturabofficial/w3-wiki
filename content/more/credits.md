@@ -31,5 +31,14 @@ Beautiful header logo (A yellow color book with looking glass) is taken from: <a
 **IBM**  
 <i class="fas fa-chalkboard-teacher"></i> Special thanks to **[IBM Skills Network Team](https://www.ibm.com/training/)** for their valuable courses, helping to deepen my understanding of cutting-edge technologies and concepts.  
 
+**TryHackMe**  
+<i class="fas fa-user-secret"></i> Appreciation to **[TryHackMe](https://tryhackme.com/)** for their interactive and hands-on cybersecurity labs, which have greatly enhanced my practical skills in information security.
+
+**Khan Academy**  
+<i class="fas fa-lightbulb"></i> Heartfelt thanks to **[Khan Academy](https://www.khanacademy.org/)** for their free, high-quality educational resources that make learning accessible to everyone, everywhere.
+
+**Udemy**  
+<i class="fas fa-laptop-code"></i> Thanks to **[Udemy](https://www.udemy.com/)** for their diverse range of courses and expert instructors, enabling me to learn new skills at my own pace.
+
 **Other Course Providers**  
 <i class="fas fa-book"></i> Appreciation to all the institutions and instructors whose courses have helped me grow and whose content I've referenced in my notes.
