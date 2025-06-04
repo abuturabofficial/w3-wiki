@@ -16,7 +16,7 @@ description: "A dynamic knowledge hub exploring technology, cybersecurity, cloud
 
 🌱 **Stay curious, and let’s grow together!** 🚀
 
-📖 **Looking for more tech insights?** Check out my blog at **[CYBERFRONT.ME](https://cyberfront.me)**, where I delve into topics like technology, cybersecurity, cloud computing, operating systems, and more! 🔐☁️💻
+📖 **Looking for more tech insights?** Check out my blog at **[sajidmahmood.com](https://sajidmahmood.com)**, where I delve into topics like technology, cybersecurity, cloud computing, operating systems, and more! 🔐☁️💻
 
 ---
 
@@ -34,7 +34,7 @@ Following are my education profiles on different MOOC's platforms.
 
 The easiest and the fastest way to approach me is via email. (Use my Public PGP key to encrypt your emails before sending)
 
-- <i class="fas fa-book"></i> [Follow my Blog](https://cyberfront.me)
+- <i class="fas fa-book"></i> [Follow my Blog](https://sajidmahmood.com)
 - <i class="fab fa-github"></i> [GitHub](https://github.com/abuturabofficial)  
 - <i class="fab fa-linkedin"></i> [LinkedIn](https://linkedin.com/in/abuturabofficial)  
 - <i class="fab fa-mastodon"></i> [Mastodon](https://mastodon.social/@abuturab)  
