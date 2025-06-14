@@ -139,3 +139,7 @@ This course is all about principles of Human Computer Interaction, designing sec
 > 4. [Strategies for Secure Interaction Design: authority, guidelines for interface design](/cybersecurity-and-networks/uom-cybersec-specialization/usable-security/strategies-for-secure-interaction-design)
 > 5. [Usable Authentication: authentication mechanisms, biometrics, two-factor authentication](/cybersecurity-and-networks/uom-cybersec-specialization/usable-security/usable-authentication)
 > 6. [Usable Privacy: privacy settings, personal data sharing, data inference](/cybersecurity-and-networks/uom-cybersec-specialization/usable-security/usable-privacy)
+
+## CompTIA SY0-701 Security+ Training Course
+
+This training course is offered by [Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) over on YouTube.
