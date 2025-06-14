@@ -50,9 +50,9 @@ params:
   disableInlineCopyToClipBoard: true
 
 # Sidebar settings
-param:
-  alwaysopen: false
-  collapsibleMenu: true
+params:
+  disableLandingPageButton: true
+
 # Image effects
   imageEffects:
     border: true

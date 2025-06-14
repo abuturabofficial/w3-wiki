@@ -1,5 +1,4 @@
 <a id="R-logo" class="R-default" href="{{ partial "permalink.gotmpl" (dict "to" .Site.Home) }}">
   <img src="{{ .Site.Params.logo | default "/images/logo.svg" }}" alt="{{ .Site.Params.linkTitle | default .Site.Title }}" style="height: 26px;">
-  {{ .Site.Params.linkTitle | default .Site.Title }}
+  <span style="font-weight: bold;">{{ .Site.Params.linkTitle | default .Site.Title }}</span>
 </a>
-
