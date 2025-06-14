@@ -34,26 +34,23 @@ markup:
   highlight:
     noClasses: false
 
+# Sidebar settings
 params:
-  images:
-    - images/hero.png
+  disableLandingPageButton: true
   showVisitedLinks: true
   themeVariant:
     - auto
     - relearn-light
     - relearn-dark
-    - zen-dark
-    - zen-light
+    - relearn-bright
+    - learn
+  images:
+    - images/hero.png
   # Show edit button
   editURL: https://github.com/abuturabofficial/w3-wiki/tree/main/content/${FilePath}
   # Disable inline Code copy button
   disableInlineCopyToClipBoard: true
-
-# Sidebar settings
-params:
-  disableLandingPageButton: true
-
-# Image effects
+  # Image effects
   imageEffects:
     border: true
     lazy: true
