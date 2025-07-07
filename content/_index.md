@@ -30,7 +30,7 @@ Following are my education profiles on different MOOC's platforms.
 - **Khan Academy:** [View Profile](https://www.khanacademy.org/profile/abuturabofficial/)
 
 ---
-### 🌐 **Connect with me** 🌐
+### 🌐 **Let's Connect** 🌐
 
 The easiest and the fastest way to approach me is via email. (Use my Public PGP key to encrypt your emails before sending)
 
