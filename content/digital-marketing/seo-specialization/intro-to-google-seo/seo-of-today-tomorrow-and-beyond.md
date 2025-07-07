@@ -2,7 +2,7 @@
 title: 'SEO of Today, Tomorrow and Beyond'
 date: 2022-09-01 10:38:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 3

@@ -3,7 +3,7 @@ title: "Introduction to DevOps"
 linkTitle: "Overview of DevOps"
 date: 2023-05-09 09:23:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

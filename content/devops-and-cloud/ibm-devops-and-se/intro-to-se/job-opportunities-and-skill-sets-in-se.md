@@ -2,7 +2,7 @@
 title: "Job Opportunities and Skill sets in Software Engineering"
 date: 2023-05-23 08:49:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 5

@@ -3,7 +3,7 @@ title: Programming Languages and Organization
 linkTitle: "Basics of Programming II"
 date: 2023-05-22 10:39:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 3

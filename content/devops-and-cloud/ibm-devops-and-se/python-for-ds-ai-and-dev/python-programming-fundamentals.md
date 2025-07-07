@@ -2,7 +2,7 @@
 title: "Python Programming Fundamentals"
 date: 2023-09-23 08:49:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

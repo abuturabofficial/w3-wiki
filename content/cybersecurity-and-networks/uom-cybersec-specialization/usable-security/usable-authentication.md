@@ -3,7 +3,7 @@ title: "Usable Authentication: authentication mechanisms, biometrics, two-factor
 linkTitle: "Usable Authentication"
 date: 2022-08-24 17:11:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 5

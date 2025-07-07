@@ -1,7 +1,7 @@
 ---
 draft: false
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 date: '2024-12-22T13:24:59+05:00'
 title: 'DevOps & Cloud'
 linkTitle: ''

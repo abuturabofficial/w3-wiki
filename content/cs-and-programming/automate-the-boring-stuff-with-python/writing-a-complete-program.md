@@ -5,7 +5,7 @@ title: 'Section 5: Writing a Complete Program, Guess the Number'
 linkTitle: 'Writing a Complete Program'
 menuPre: ''
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 5

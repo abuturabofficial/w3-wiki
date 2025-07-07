@@ -2,7 +2,7 @@
 title: "Computing Platforms and Software Application"
 date: 2023-02-16 12:41:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

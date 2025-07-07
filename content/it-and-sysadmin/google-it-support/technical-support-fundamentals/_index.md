@@ -1,7 +1,7 @@
 ---
 draft: false
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 date: '2024-12-20T11:07:59+05:00'
 title: 'Technical Support Fundamentals'
 linkTitle: 'IT Fundamentals'

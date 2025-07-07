@@ -1,7 +1,7 @@
 ---
 draft: false
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 date: '2024-12-22T11:40:59+05:00'
 title: 'UOM Cybersecurity Specialization'
 linktitle: 'Cybersecurity Specialization'

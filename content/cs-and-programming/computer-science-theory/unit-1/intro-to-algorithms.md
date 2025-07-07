@@ -5,7 +5,7 @@ title: 'Introduction to Algorithms'
 linkTitle: 'Intro to Algorithms'
 menuPre: ''
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

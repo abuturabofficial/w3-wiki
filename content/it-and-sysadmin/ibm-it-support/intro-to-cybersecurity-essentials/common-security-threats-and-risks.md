@@ -2,7 +2,7 @@
 title: "Common Security Threats and Risks"
 date: 2023-02-21 15:37:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

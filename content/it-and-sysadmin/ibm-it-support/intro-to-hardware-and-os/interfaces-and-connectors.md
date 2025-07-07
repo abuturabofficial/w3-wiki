@@ -2,7 +2,7 @@
 title: "Interfaces and Connectors"
 date: 2023-02-10 12:34:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 3

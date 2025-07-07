@@ -1,6 +1,6 @@
 ---
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 date: '2024-12-21T14:42:59+05:00'
 title: 'Introduction to Cloud Computing'
 linkTitle: 'Cloud Computing'

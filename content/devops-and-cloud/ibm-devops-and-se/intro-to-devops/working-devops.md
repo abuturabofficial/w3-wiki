@@ -2,7 +2,7 @@
 title: "Working DevOps"
 date: 2023-05-15 08:31:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 3

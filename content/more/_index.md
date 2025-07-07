@@ -3,7 +3,7 @@ draft: false
 _build:
   render: never
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 date: '2024-12-21T09:04:59+05:00'
 linkTitle: 'MORE'
 title: 'More'

@@ -2,7 +2,7 @@
 title: "Overview of Cloud Computing"
 date: 2023-02-18 11:24:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

@@ -1,7 +1,7 @@
 ---
 draft: false
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 date: '2024-12-22T13:32:57+05:00'
 title: 'Introduction to DevOps'
 weight: 1

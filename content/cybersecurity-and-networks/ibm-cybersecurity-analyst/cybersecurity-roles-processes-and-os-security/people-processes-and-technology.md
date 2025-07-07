@@ -2,7 +2,7 @@
 title: "People Processes and Technology"
 date: 2022-08-18 18:32:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

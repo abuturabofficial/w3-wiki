@@ -3,7 +3,7 @@ title: "Basics of IP Addressing and the OSI Model"
 linkTitle: Basics of IP Addressing
 date: 2023-03-16 12:40:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 2

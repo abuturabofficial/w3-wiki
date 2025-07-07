@@ -5,7 +5,7 @@ weight: 6
 collapsibleMenu: true
 alwaysOpen: false
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 ---
 
 ## **Life of a process**

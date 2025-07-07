@@ -1,6 +1,6 @@
 ---
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 title: What is Software?
 date: 2022-06-03 08:00:00 +0500
 weight: 5

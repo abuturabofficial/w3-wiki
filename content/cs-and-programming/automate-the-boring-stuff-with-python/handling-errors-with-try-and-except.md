@@ -5,7 +5,7 @@ title: 'Section 4: Handling Errors With Try/Except'
 linkTitle: 'Handling Errors With Try/Except'
 menuPre: ''
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 4

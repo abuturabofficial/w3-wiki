@@ -2,7 +2,7 @@
 title: "Operating System Security Basics"
 date: 2023-03-07 16:33:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 3

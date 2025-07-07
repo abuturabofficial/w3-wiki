@@ -6,7 +6,7 @@ weight: 7
 collapsibleMenu: true
 alwaysOpen: false
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 ---
 
 ## **Assignment**

@@ -5,7 +5,7 @@ title: 'How to Pass Your SY0-701 Security+ Exam'
 linkTitle: ''
 menuPre: ''
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

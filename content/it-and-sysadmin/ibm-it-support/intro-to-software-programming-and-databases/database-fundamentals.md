@@ -2,7 +2,7 @@
 title: "Database Fundamentals"
 date: 2023-02-17 16:18:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 4

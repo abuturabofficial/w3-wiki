@@ -2,7 +2,7 @@
 title: "Computing Devices and Peripherals"
 date: 2023-02-08 13:00:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 2

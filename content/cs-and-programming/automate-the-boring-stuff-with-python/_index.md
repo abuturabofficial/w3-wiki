@@ -5,7 +5,7 @@ title: 'Automate the Boring Stuff With Python Programming'
 linkTitle: 'Automate the Boring Stuff with Python'
 menuPre: '<i class="fas fa-robot"></i> '
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 3
@@ -26,3 +26,4 @@ This course is taught by **Al Sweigart** on **Udemy**. It has the following modu
 4. [Section 4: Handling Errors with Try/except](/cs-and-programming/automate-the-boring-stuff-with-python/handling-errors-with-try-and-except/)
 5. [Section 5: Writing a Complete Program, Guess the Number](/cs-and-programming/automate-the-boring-stuff-with-python/writing-a-complete-program/)
 6. [Section 6: Lists](/cs-and-programming/automate-the-boring-stuff-with-python/lists/)
+7. [Section 7: Dictionaries and Structuring Data](/cs-and-programming/automate-the-boring-stuff-with-python/dictionaries/)

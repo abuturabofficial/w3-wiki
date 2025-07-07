@@ -5,7 +5,7 @@ title: 'CS & Programming'
 linkTitle: ''
 menuPre: '<i class="fas fa-laptop-code"></i> '
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: true
 weight: -1
@@ -41,3 +41,4 @@ This course is taught by [**Al Sweigart**](https://www.udemy.com/course/automate
 > 4. [Section 4: Handling Errors with Try/except](/cs-and-programming/automate-the-boring-stuff-with-python/handling-errors-with-try-and-except/)
 > 5. [Section 5: Writing a Complete Program, Guess the Number](/cs-and-programming/automate-the-boring-stuff-with-python/writing-a-complete-program/)
 > 6. [Section 6: Lists](/cs-and-programming/automate-the-boring-stuff-with-python/lists/)
+> 7. [Section 7: Dictionaries and Structuring Data](/cs-and-programming/automate-the-boring-stuff-with-python/dictionaries/)

@@ -2,7 +2,7 @@
 title: "Introduction to Shell Scripting"
 date: 2023-05-24 08:58:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 3

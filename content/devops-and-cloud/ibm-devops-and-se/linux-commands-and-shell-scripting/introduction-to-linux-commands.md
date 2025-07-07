@@ -2,7 +2,7 @@
 title: "Introduction to Linux Commands"
 date: 2023-05-24 07:19:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 2

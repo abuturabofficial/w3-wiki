@@ -1,7 +1,7 @@
 ---
 draft: false
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 date: '2024-12-22T14:27:57+05:00'
 title: 'Hands-on Introduction to Linux Commands and Shell Scripting'
 linkTitle: 'Hands-on Linux Shell Scripting'

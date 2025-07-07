@@ -5,7 +5,7 @@ title: 'Section 1: Python Basics'
 linkTitle: 'Python Basics'
 menuPre: ''
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

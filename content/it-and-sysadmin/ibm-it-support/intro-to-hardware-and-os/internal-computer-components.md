@@ -2,7 +2,7 @@
 title: "Internal Computer Components"
 date: 2023-02-13 12:09:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 4

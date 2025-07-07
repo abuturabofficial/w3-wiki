@@ -1,6 +1,6 @@
 ---
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 title: Operating Systems
 date: 2022-06-01 11:00:00 +0500
 weight: 3

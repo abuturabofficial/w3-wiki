@@ -3,7 +3,7 @@ title: "Client System Administration Endpoint Protection and Patching"
 linkTitle: Client SysAdmin Endpoint
 date: 2023-03-11 12:40:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 2

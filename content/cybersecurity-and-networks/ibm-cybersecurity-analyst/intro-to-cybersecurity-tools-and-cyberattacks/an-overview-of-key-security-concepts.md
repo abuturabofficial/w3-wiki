@@ -3,7 +3,7 @@ title: "An Overview of Key Security Concepts"
 linkTitle: Key Security Concepts
 date: 2022-08-17 15:01:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 3

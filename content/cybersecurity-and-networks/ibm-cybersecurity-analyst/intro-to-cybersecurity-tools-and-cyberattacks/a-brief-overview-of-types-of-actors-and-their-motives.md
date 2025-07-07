@@ -3,7 +3,7 @@ title: "A Brief Overview of Types of Threat Actors and their Motives"
 linkTitle: Types of Threat Actors and Their Motives
 date: 2022-08-16 18:44:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 2

@@ -2,7 +2,7 @@
 title: "Using Git Commands and Managing GitHub Projects"
 date: 2023-06-06 08:18:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 2

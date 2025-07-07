@@ -5,7 +5,7 @@ title: 'Computer Science Theory'
 linkTitle: ''
 menuPre: '<i class="fas fa-flask"></i> '
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

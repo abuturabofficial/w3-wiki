@@ -3,7 +3,7 @@ title: "Executing the Plan"
 linkTitle: "Daily Execution"
 date: 2023-05-19 09:42:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 3

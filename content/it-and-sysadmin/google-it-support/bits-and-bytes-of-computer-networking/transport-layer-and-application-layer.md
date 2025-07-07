@@ -1,6 +1,6 @@
 ---
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 title: Transport Layer and Application Layer
 linkTitle: Transport and Application Layer
 date: 2022-10-05 07:24:00 +0500

@@ -1,7 +1,7 @@
 ---
 draft: false
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 date: '2024-12-22T15:16:57+05:00'
 title: 'Getting Started with Git and GitHub'
 linkTitle: ''

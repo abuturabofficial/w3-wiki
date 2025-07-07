@@ -5,7 +5,7 @@ title: 'Unit 1: Algorithms'
 linkTitle: 'Algorithms'
 menuPre: ''
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 

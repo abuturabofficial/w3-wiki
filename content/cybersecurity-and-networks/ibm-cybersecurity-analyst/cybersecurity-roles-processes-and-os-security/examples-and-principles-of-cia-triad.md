@@ -3,7 +3,7 @@ title: Further discussion of confidentiality, integrity, and availability
 linkTitle: "Examples and Principles of CIA Triad"
 date: 2023-03-04 11:23:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 2

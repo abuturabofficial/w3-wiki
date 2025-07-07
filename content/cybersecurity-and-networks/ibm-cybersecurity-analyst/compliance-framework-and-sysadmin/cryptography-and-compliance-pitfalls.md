@@ -2,7 +2,7 @@
 title: "Cryptography and Compliance Pitfalls"
 date: 2023-03-12 12:45:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 4

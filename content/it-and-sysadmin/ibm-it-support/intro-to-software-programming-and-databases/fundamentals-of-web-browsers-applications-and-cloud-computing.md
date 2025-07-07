@@ -3,7 +3,7 @@ title: "Fundamentals of Web Browsers, Applications, and Cloud Computing"
 linkTitle: Web Browsers, Applications, and Cloud Computing
 date: 2023-02-16 16:01:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 2

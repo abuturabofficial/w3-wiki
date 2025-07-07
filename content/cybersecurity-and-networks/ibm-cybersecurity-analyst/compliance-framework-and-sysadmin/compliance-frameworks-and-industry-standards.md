@@ -3,7 +3,7 @@ title: Compliance and Regulation for Cybersecurity
 linkTitle: Compliance Frameworks and Industry Standards"
 date: 2023-03-09 12:02:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

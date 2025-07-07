@@ -3,7 +3,7 @@ title: Persona Development
 linkTitle: 'Your Audience and Building Personas'
 date: 2022-09-01 12:00:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 4

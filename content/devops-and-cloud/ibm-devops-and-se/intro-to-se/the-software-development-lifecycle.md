@@ -3,7 +3,7 @@ title: "SDLC - The Software Development Lifecycle"
 linkTitle: "SDLC"
 date: 2023-05-20 08:45:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

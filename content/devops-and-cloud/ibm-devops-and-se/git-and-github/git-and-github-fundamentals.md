@@ -2,7 +2,7 @@
 title: "Git and GitHub Fundamentals"
 date: 2023-06-06 06:46:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

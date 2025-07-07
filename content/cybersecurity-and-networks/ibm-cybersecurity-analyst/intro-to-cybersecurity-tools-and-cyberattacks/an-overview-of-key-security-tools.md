@@ -2,7 +2,7 @@
 title: "An Overview of Key Security Tools"
 date: 2022-08-17 17:07:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 4

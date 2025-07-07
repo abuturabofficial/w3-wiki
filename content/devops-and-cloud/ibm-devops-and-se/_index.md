@@ -1,7 +1,7 @@
 ---
 draft: false
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 date: '2024-12-22T11:40:59+05:00'
 title: 'IBM DevOps and Software Engineering Professional Certificate'
 linktitle: 'IBM DevOps and SE'

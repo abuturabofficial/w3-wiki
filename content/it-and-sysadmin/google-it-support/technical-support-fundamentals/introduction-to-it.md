@@ -1,6 +1,6 @@
 ---
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 title: Introduction to IT
 date: 2022-04-17 11:30:00 +0500
 weight: 1

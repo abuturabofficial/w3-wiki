@@ -1,7 +1,7 @@
 ---
 draft: false
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 date: '2024-12-21T11:47:59+05:00'
 title: 'Cybersecurity Compliance Frameworks and System Administration'
 linkTitle: 'Compliance Frameworks and SysAdmin'

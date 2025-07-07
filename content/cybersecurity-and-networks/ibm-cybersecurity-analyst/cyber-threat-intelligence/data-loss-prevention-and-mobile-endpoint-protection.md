@@ -3,7 +3,7 @@ title: "Data Loss Prevention and Mobile Endpoint Protection"
 linkTitle: Data Loss Prevention and MEP
 date: 2023-04-27 18:25:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 2

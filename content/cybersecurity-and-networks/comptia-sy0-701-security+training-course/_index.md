@@ -1,7 +1,7 @@
 ---
 draft: false
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 date: '2025-06-14T18:26:39+0500'
 title: 'CompTIA SY0-701 Security+ Training Course'
 linkTitle: 'CompTIA SY0-701 Security+'

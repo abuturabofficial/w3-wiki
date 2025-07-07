@@ -1,6 +1,6 @@
 ---
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 title: Introduction to Computer Hardware
 linkTitle: Hardware
 date: 2022-04-18 09:00:00 +0500

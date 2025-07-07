@@ -2,7 +2,7 @@
 title: "Introduction to Linux"
 date: 2023-05-24 06:11:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

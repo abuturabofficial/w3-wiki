@@ -3,7 +3,7 @@ title: "Strategies for Secure Interaction Design: authority, guidelines for inte
 linkTitle: "Strategies for Secure Interaction Design"
 date: 2022-08-24 16:20:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 4

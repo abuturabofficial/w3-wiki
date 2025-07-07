@@ -2,7 +2,7 @@
 title: "SIEM Platforms"
 date: 2023-04-30 11:59:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 4

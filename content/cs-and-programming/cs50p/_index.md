@@ -5,7 +5,7 @@ title: "CS50’s Introduction to Programming with Python"
 linkTitle: "CS50's Intro to Programming with Python"
 menuPre: '<i class="fab fa-python"></i> '
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 2

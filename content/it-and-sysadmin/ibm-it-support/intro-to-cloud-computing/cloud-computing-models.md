@@ -2,7 +2,7 @@
 title: "Cloud Computing Models"
 date: 2023-02-18 13:59:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 2

@@ -3,7 +3,7 @@ title: "Evaluation: usability studies, A/B testing, quantitative and qualitative
 linkTitle: "Usable Evaluation"
 date: 2022-08-19 17:38:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 3

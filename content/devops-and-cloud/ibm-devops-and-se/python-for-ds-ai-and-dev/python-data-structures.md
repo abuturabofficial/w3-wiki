@@ -2,7 +2,7 @@
 title: "Python Data Structures"
 date: 2023-09-23 09:49:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 2

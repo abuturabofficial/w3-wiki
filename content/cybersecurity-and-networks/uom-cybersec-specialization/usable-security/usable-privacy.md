@@ -3,7 +3,7 @@ title: "Usable Privacy: privacy settings, personal data sharing, data inference"
 linkTitle: "Usable Privacy"
 date: 2022-08-24 18:02:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 6

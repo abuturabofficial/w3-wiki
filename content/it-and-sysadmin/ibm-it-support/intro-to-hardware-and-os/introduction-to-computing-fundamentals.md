@@ -2,7 +2,7 @@
 title: "Introduction to Computing Fundamentals"
 date: 2023-02-06 14:51:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

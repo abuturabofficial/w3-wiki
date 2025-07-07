@@ -3,7 +3,7 @@ title: Threat Hunting Overview
 linkTitle: "Threat Hunting"
 date: 2023-04-30 17:13:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 5

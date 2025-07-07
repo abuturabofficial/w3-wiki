@@ -1,6 +1,6 @@
 ---
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 date: '2024-12-21T11:53:59+05:00'
 title: 'Introduction to Hardware and Operating Systems'
 linkTitle: 'Hardware and OS'

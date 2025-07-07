@@ -5,7 +5,7 @@ weight: 2
 collapsibleMenu: true
 alwaysOpen: false
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 ---
 
 ### Types of IT Infrastructure Services

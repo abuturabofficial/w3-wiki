@@ -3,7 +3,7 @@ title: Introduction to Agile and Scrum
 linkTitle: "Agile and Scrum"
 date: 2023-05-18 08:42:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1

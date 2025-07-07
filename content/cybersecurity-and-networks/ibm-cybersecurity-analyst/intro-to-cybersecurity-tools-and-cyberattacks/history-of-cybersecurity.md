@@ -2,7 +2,7 @@
 title: "History of Cybersecurity"
 date: 2022-08-12 15:57:00 +0500
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
 weight: 1
