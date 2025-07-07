@@ -5,13 +5,13 @@ title: 'PRIVACY POLICY'
 linkTitle: ''
 menuPre: '<i class="fas fa-shield-alt"></i> '
 LastModifierDisplayName: AbuTurab
-LastModifierEmail: cyberfrontofficial@proton.me
+LastModifierEmail: thesajid@proton.me
 collapsibleMenu: false
 alwaysOpen: true
 weight: 
 ---
 
-**Privacy Policy for https://wiki.cyberfront.me**  
+**Privacy Policy for https://wiki.sajidmahmood.com**  
 **Effective Date:** 2024-12-22
 
 ## 1. Introduction
@@ -62,6 +62,6 @@ We may update this Privacy Policy periodically. Any changes will be posted on th
 ## 8. Contact Us  
 
 For questions or concerns, contact us at:  
-- **Email:** [cyberfrontofficial@proton.me](mailto:cyberfrontofficial@proton.me)
+- **Email:** [thesajid@proton.me](mailto:thesajid@proton.me)
 
-- **GPG Public Key:** [Download](/misc/publickey.asc) or [Get it from OPENPGP.ORG](https://keys.openpgp.org/vks/v1/by-fingerprint/B2A1748F33BAE85E5A9C49C741EBAB900757D730)  
+- **GPG Public Key:** [Download](/misc/publickey.thesajid@proton.me.asc) or [Get it from OPENPGP.ORG](https://keys.openpgp.org/vks/v1/by-fingerprint/1561AB4B0D17ECA0A92D2C29B46E542E8DEB33B5)  

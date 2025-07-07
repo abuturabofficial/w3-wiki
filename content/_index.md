@@ -39,5 +39,5 @@ The easiest and the fastest way to approach me is via email. (Use my Public PGP 
 - <i class="fab fa-linkedin"></i> [LinkedIn](https://linkedin.com/in/abuturabofficial)  
 - <i class="fab fa-mastodon"></i> [Mastodon](https://mastodon.social/@abuturab)  
 - <i class="fab fa-x-twitter"></i> [Twitter/X](https://x.com/abuturabofcl)  
-- <i class="fas fa-envelope"></i> [Email Me](mailto:cyberfrontofficial@proton.me)
-- <i class="fas fa-key"></i> [Email PGP Public Key](/misc/publickey.asc)
+- <i class="fas fa-envelope"></i> [Email Me](mailto:thesajid@proton.me)
+- <i class="fas fa-key"></i> [Email PGP Public Key](/misc/publickey.thesajid@proton.me.asc)
