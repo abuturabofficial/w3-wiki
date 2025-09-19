@@ -1,0 +1,15 @@
+body {
+    font-weight: 500; /* normal text thicker */
+    font-size: 1.4rem;        /* increase base size (default is ~16px) */
+    line-height: 1.6;       /* improve readability */
+}
+
+/* p, li { */
+/*     font-weight: 600; */
+/*     font-size: 1px;        /* increase base size (default is ~16px) */ */
+/* } */
+
+/* h1, h2, h3, h4 { */
+/*     font-weight: 800; /* keep headings strong */ */
+/* } */
+

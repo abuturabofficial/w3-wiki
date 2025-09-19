@@ -56,3 +56,5 @@ params:
     lazy: true
     lightbox: true
     shadow: false
+    customCSS:
+      - css/Custom.css
