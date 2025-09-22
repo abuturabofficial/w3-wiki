@@ -22,3 +22,4 @@ It has following video lectures:
 2. [1.1: Security Controls](cybersecurity-and-networks/comptia-sy0-701-security+training-course/02-security-controls/)
 3. [1.2: Security Concepts](cybersecurity-and-networks/comptia-sy0-701-security+training-course/03-security-concepts/)
 4. [1.3: Change Management](cybersecurity-and-networks/comptia-sy0-701-security+training-course/04-change-management/)
+5. [1.4: Cryptographic Solutions](cybersecurity-and-networks/comptia-sy0-701-security+training-course/05-cryptographic-solutions/)

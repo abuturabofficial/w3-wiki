@@ -143,3 +143,6 @@ This course is all about principles of Human Computer Interaction, designing sec
 ## CompTIA SY0-701 Security+ Training Course
 
 This training course is offered by [Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv) over on YouTube.
+
+> [!TIP]
+> You can directly support **Professor Messer** by buying wonderfully written notes from his [website](https://professormesser.link/701notes).

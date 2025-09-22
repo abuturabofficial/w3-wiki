@@ -31,7 +31,7 @@ CompTIA stands for **Computing Technology Industry Association**.
 - 90 minutes, max of 90 questions
 - Passing score: 750 on a scale of 100-900
 
-![](/notes/comptia-sy0-701-security+training-course/how-to-pass-your-sy0-701-security+exam-1.webp)
+![](/notes/comptia-sy0-701-security+training-course/01-how-to-pass-your-sy0-701-security+exam-1.webp)
 
 ## Exam Questions
 
