@@ -17,4 +17,4 @@ It has following video lectures:
 
 1. [How to Pass Your SY0-701 Security+ Exam](cybersecurity-and-networks/comptia-sy0-701-security+training-course/01-how-to-pass-your-sy0-701-security+exam/)
 2. [1.1: Security Controls](cybersecurity-and-networks/comptia-sy0-701-security+training-course/02-security-controls/)
-3. [1.2: The CIA Triad](cybersecurity-and-networks/comptia-sy0-701-security+training-course/03-the-cia-triad/)
+3. [1.2: The Security Concepts](cybersecurity-and-networks/comptia-sy0-701-security+training-course/03-security-concepts/)
