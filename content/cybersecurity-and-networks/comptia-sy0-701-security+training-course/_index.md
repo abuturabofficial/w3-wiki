@@ -20,13 +20,20 @@ It has following video lectures:
 
 ### 0.1 – Introduction
 
-1. [How to Pass Your SY0-701 Security+ Exam](cybersecurity-and-networks/comptia-sy0-701-security+training-course/01-how-to-pass-your-sy0-701-security+exam/)
+[How to Pass Your SY0-701 Security+ Exam](cybersecurity-and-networks/comptia-sy0-701-security+training-course/01-how-to-pass-your-sy0-701-security+exam/)
 
 ### Section 1: General Security Concepts
 
-1. [1.1: Security Controls](cybersecurity-and-networks/comptia-sy0-701-security+training-course/02-security-controls/)
-2. [1.2: Security Concepts](cybersecurity-and-networks/comptia-sy0-701-security+training-course/03-security-concepts/)
-3. [1.3: Change Management](cybersecurity-and-networks/comptia-sy0-701-security+training-course/04-change-management/)
-4. [1.4: Cryptographic Solutions](cybersecurity-and-networks/comptia-sy0-701-security+training-course/05-cryptographic-solutions/)
+[1.1: Security Controls](cybersecurity-and-networks/comptia-sy0-701-security+training-course/02-security-controls/)
+
+[1.2: Security Concepts](cybersecurity-and-networks/comptia-sy0-701-security+training-course/03-security-concepts/)
+
+[1.3: Change Management](cybersecurity-and-networks/comptia-sy0-701-security+training-course/04-change-management/)
+
+[1.4: Cryptographic Solutions](cybersecurity-and-networks/comptia-sy0-701-security+training-course/05-cryptographic-solutions/)
 
 ### Section 2: Threats, Vulnerabilities, and Mitigations
+
+[2.1: Threat Actors](cybersecurity-and-networks/comptia-sy0-701-security+training-course/06-threat-actors)
+
+[2.2: Threat Vectors and Attack Surfaces](cybersecurity-and-networks/comptia-sy0-701-security+training-course/07-threat-vectors-and-attack-surfaces)
