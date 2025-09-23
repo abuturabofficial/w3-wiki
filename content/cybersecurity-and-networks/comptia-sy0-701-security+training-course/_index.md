@@ -18,8 +18,15 @@ This training course is offered by [Professor Messer](https://www.youtube.com/pl
 
 It has following video lectures:
 
+### 0.1 – Introduction
+
 1. [How to Pass Your SY0-701 Security+ Exam](cybersecurity-and-networks/comptia-sy0-701-security+training-course/01-how-to-pass-your-sy0-701-security+exam/)
-2. [1.1: Security Controls](cybersecurity-and-networks/comptia-sy0-701-security+training-course/02-security-controls/)
-3. [1.2: Security Concepts](cybersecurity-and-networks/comptia-sy0-701-security+training-course/03-security-concepts/)
-4. [1.3: Change Management](cybersecurity-and-networks/comptia-sy0-701-security+training-course/04-change-management/)
-5. [1.4: Cryptographic Solutions](cybersecurity-and-networks/comptia-sy0-701-security+training-course/05-cryptographic-solutions/)
+
+### Section 1: General Security Concepts
+
+1. [1.1: Security Controls](cybersecurity-and-networks/comptia-sy0-701-security+training-course/02-security-controls/)
+2. [1.2: Security Concepts](cybersecurity-and-networks/comptia-sy0-701-security+training-course/03-security-concepts/)
+3. [1.3: Change Management](cybersecurity-and-networks/comptia-sy0-701-security+training-course/04-change-management/)
+4. [1.4: Cryptographic Solutions](cybersecurity-and-networks/comptia-sy0-701-security+training-course/05-cryptographic-solutions/)
+
+### Section 2: Threats, Vulnerabilities, and Mitigations
