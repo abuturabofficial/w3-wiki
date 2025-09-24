@@ -37,3 +37,5 @@ It has following video lectures:
 [2.1: Threat Actors](cybersecurity-and-networks/comptia-sy0-701-security+training-course/06-threat-actors)
 
 [2.2: Threat Vectors and Attack Surfaces](cybersecurity-and-networks/comptia-sy0-701-security+training-course/07-threat-vectors-and-attack-surfaces)
+
+[2.3: Types of Vulnerabilities](cybersecurity-and-networks/comptia-sy0-701-security+training-course/08-types-of-vulnerabilities)
