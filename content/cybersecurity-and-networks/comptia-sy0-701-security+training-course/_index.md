@@ -39,3 +39,5 @@ It has following video lectures:
 [2.2: Threat Vectors and Attack Surfaces](cybersecurity-and-networks/comptia-sy0-701-security+training-course/07-threat-vectors-and-attack-surfaces)
 
 [2.3: Types of Vulnerabilities](cybersecurity-and-networks/comptia-sy0-701-security+training-course/08-types-of-vulnerabilities)
+
+[2.4: Indicators of Malicious Activity](cybersecurity-and-networks/comptia-sy0-701-security+training-course/09-indicators-of-malicious-activity)
