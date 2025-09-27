@@ -666,3 +666,94 @@ Firewall rulesets can be complex
 
 Always test and audit
 - Double and triple check
+
+# Mobile Device Vulnerabilities
+
+## Mobile Device Security
+
+Challenging to secure
+- Often need additional security policies and systems
+
+Relatively small
+- Can be almost invisible
+
+Almost always in motion
+- You never know where it might be
+
+Packed with sensitive data
+- Personal and organizational
+
+Constantly connected to the Internet
+- Nothing bad happens on the Internet
+
+## Jailbreaking/Rooting
+
+Mobile devices are purpose built systems
+- You don't have access to the OS
+
+Gaining access
+- Android — Rooting
+- Apple iOS — Jailbreaking
+
+Install custom firmware
+- Replaces the existing OS
+
+Uncontrolled access
+- Circumvent security features
+- The MDM (Mobile Device Management) becomes relatively useless
+
+### Sideloading
+
+Malicious apps can be a significant security concern
+- One Trojan horse can create a data breach
+
+Manage installation sources
+- The global or local app store
+
+Sideloading circumvents security
+- Apps can be installed manually without using an app store
+- Again, your MDM becomes relatively useless
+
+# Zero-day Vulnerabilities
+
+## Vulnerabilities
+
+Many applications have vulnerabilities
+- We have just not found them yet
+
+Someone is working hard to find the next big vulnerability
+- The good guys share these with developers
+
+Attackers keep these yet-to-be-discovered holes to themselves
+- They want to use these vulnerabilities for personal gain
+
+## Zero-day Attacks
+
+Attackers search for unknown vulnerabilities
+- They create exploits against these vulnerabilities
+
+The vendor has no idea the vulnerability exists
+- They don't have a fix for an unknown problem
+
+Zero-day attacks
+- An attack without a patch or method of mitigation
+- A race to exploit the vulnerability or create a patch
+- Difficult to defend against the unknown
+
+Common Vulnerabilities and Exposure (CVE)
+- https://cve.mitre.org
+
+### Zero-day Attacks in the wild
+
+April 2023 — Chrome zero-day
+- Memory corruption, sandbox escape
+
+May 2023 — Microsoft zero-day patch
+- Secure boot zero-day vulnerability
+- Attackers can run UEFI-level self-signed code
+
+May 2023 — Apple iOS and iPadOS zero-days
+- Three zero-day attacks
+- Sandbox escape, disclosure of sensitive information, arbitrary code execution
+- Active exploitation
+
