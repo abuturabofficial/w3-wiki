@@ -43,3 +43,7 @@ It has following video lectures:
 [2.4: Indicators of Malicious Activity](cybersecurity-and-networks/comptia-sy0-701-security+training-course/09-indicators-of-malicious-activity)
 
 [2.5: Mitigation Techniques](cybersecurity-and-networks/comptia-sy0-701-security+training-course/10-mitigation-techniques)
+
+### Section 3: Security Architecture
+
+[3.1: Architecture Models](cybersecurity-and-networks/comptia-sy0-701-security+training-course/11-architecture-models)
