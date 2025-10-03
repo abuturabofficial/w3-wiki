@@ -47,3 +47,6 @@ It has following video lectures:
 ### Section 3: Security Architecture
 
 [3.1: Architecture Models](cybersecurity-and-networks/comptia-sy0-701-security+training-course/11-architecture-models)
+
+[3.2: Applying Security Principles](cybersecurity-and-networks/comptia-sy0-701-security+training-course/12-applying-security-principles)
+
