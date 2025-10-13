@@ -53,3 +53,7 @@ It has following video lectures:
 [3.3: Protecting Data](cybersecurity-and-networks/comptia-sy0-701-security+training-course/13-protecting-data)
 
 [3.4: Resiliency and Recovery](cybersecurity-and-networks/comptia-sy0-701-security+training-course/14-resiliency-and-recovery)
+
+### Section 4: Security Operations
+
+[4.1: Security Techniques](cybersecurity-and-networks/comptia-sy0-701-security+training-course/15-security-techniques)
