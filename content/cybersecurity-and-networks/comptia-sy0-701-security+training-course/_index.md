@@ -57,3 +57,5 @@ It has following video lectures:
 ### Section 4: Security Operations
 
 [4.1: Security Techniques](cybersecurity-and-networks/comptia-sy0-701-security+training-course/15-security-techniques)
+
+[4.2: Asset Management](cybersecurity-and-networks/comptia-sy0-701-security+training-course/16-asset-management)
