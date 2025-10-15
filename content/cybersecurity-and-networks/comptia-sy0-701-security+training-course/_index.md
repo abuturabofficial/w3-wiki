@@ -61,3 +61,5 @@ It has following video lectures:
 [4.2: Asset Management](cybersecurity-and-networks/comptia-sy0-701-security+training-course/16-asset-management)
 
 [4.3: Vulnerability Management](cybersecurity-and-networks/comptia-sy0-701-security+training-course/17-vulnerability-management)
+
+[4.4: Security Monitoring](cybersecurity-and-networks/comptia-sy0-701-security+training-course/18-security-monitoring)
