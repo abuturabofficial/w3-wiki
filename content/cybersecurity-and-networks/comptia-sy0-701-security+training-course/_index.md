@@ -65,3 +65,5 @@ It has following video lectures:
 [4.4: Security Monitoring](cybersecurity-and-networks/comptia-sy0-701-security+training-course/18-security-monitoring)
 
 [4.5: Enterprise Security](cybersecurity-and-networks/comptia-sy0-701-security+training-course/19-enterprise-security)
+
+[4.6: Identity and Access Management](cybersecurity-and-networks/comptia-sy0-701-security+training-course/20-identity-and-access-management)
