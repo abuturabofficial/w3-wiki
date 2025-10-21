@@ -66,4 +66,4 @@ It has following video lectures:
 
 [4.5: Enterprise Security](cybersecurity-and-networks/comptia-sy0-701-security+training-course/19-enterprise-security)
 
-[4.6: Identity and Access Management](cybersecurity-and-networks/comptia-sy0-701-security+training-course/20-identity-and-access-management)
+[4.7: Automation and Orchestration](cybersecurity-and-networks/comptia-sy0-701-security+training-course/21-automation-and-orchestration)
