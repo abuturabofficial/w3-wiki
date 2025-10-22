@@ -16,7 +16,7 @@ This training course is offered by [Professor Messer](https://www.youtube.com/pl
 > [!TIP]
 > You can directly support **Professor Messer** by buying wonderfully written notes from his [website](https://professormesser.link/701notes).
 
-It has following video lectures:
+The course index is as follows:
 
 ### 0.1 – Introduction
 
@@ -67,3 +67,5 @@ It has following video lectures:
 [4.5: Enterprise Security](cybersecurity-and-networks/comptia-sy0-701-security+training-course/19-enterprise-security)
 
 [4.7: Automation and Orchestration](cybersecurity-and-networks/comptia-sy0-701-security+training-course/21-automation-and-orchestration)
+
+[4.8: Incident Response](cybersecurity-and-networks/comptia-sy0-701-security+training-course/22-incident-response)
