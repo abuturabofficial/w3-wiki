@@ -69,3 +69,5 @@ The course index is as follows:
 [4.7: Automation and Orchestration](cybersecurity-and-networks/comptia-sy0-701-security+training-course/21-automation-and-orchestration)
 
 [4.8: Incident Response](cybersecurity-and-networks/comptia-sy0-701-security+training-course/22-incident-response)
+
+[4.9: Security Data Sources](cybersecurity-and-networks/comptia-sy0-701-security+training-course/23-security-data-sources)
