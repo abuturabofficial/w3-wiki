@@ -71,3 +71,7 @@ The course index is as follows:
 [4.8: Incident Response](cybersecurity-and-networks/comptia-sy0-701-security+training-course/22-incident-response)
 
 [4.9: Security Data Sources](cybersecurity-and-networks/comptia-sy0-701-security+training-course/23-security-data-sources)
+
+### Section 5: Security Program Management and Oversight
+
+[5.1: Security Governance](cybersecurity-and-networks/comptia-sy0-701-security+training-course/24-security-governance)
