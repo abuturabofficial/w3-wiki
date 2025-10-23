@@ -75,3 +75,5 @@ The course index is as follows:
 ### Section 5: Security Program Management and Oversight
 
 [5.1: Security Governance](cybersecurity-and-networks/comptia-sy0-701-security+training-course/24-security-governance)
+
+[5.2: Risk Management](cybersecurity-and-networks/comptia-sy0-701-security+training-course/25-risk-management)
