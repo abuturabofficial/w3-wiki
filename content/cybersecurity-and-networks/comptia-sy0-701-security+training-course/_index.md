@@ -81,3 +81,5 @@ The course index is as follows:
 [5.3: Third-party Risk](cybersecurity-and-networks/comptia-sy0-701-security+training-course/26-third-party-risk)
 
 [5.4: Security Compliance](cybersecurity-and-networks/comptia-sy0-701-security+training-course/27-security-compliance)
+
+[5.5: Audits and Assessments](cybersecurity-and-networks/comptia-sy0-701-security+training-course/28-audits-and-assessments)
