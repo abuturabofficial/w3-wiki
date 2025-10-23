@@ -77,3 +77,5 @@ The course index is as follows:
 [5.1: Security Governance](cybersecurity-and-networks/comptia-sy0-701-security+training-course/24-security-governance)
 
 [5.2: Risk Management](cybersecurity-and-networks/comptia-sy0-701-security+training-course/25-risk-management)
+
+[5.3: Third-party Risk](cybersecurity-and-networks/comptia-sy0-701-security+training-course/26-third-party-risk)
