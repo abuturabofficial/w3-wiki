@@ -83,3 +83,5 @@ The course index is as follows:
 [5.4: Security Compliance](cybersecurity-and-networks/comptia-sy0-701-security+training-course/27-security-compliance)
 
 [5.5: Audits and Assessments](cybersecurity-and-networks/comptia-sy0-701-security+training-course/28-audits-and-assessments)
+
+[5.6: Security Awareness](cybersecurity-and-networks/comptia-sy0-701-security+training-course/29-security-awareness)
