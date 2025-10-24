@@ -22,7 +22,7 @@ Being stuck while coding is a normal happening, but not asking for help isn't.
 When you go online to ask for help, make sure:
 - Explain what you are trying to do, not just what you did.
 - If you get an error message, specify the point at which the error happens.
-- Copy and paste the entire body of the error message and your code to a Pastebin site like [Pastebin.com](pastebin.com) or [GitHub Gist](gist.github.com).
+- Copy and paste the entire body of the error message and your code to a Pastebin site like [Pastebin.com](https://pastebin.com) or [GitHub Gist](https://gist.github.com).
 - Explain what you've already tried to do to solve your problem.
 - List the version of Python you're using.
 - Say whether you're able to reproduce the error every time you run the program or whether it happens only after you perform certain actions. If the latter, then explain what those actions are.
