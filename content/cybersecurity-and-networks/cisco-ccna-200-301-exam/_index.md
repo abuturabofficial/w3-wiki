@@ -2,7 +2,7 @@
 draft: false
 date: '2025-10-27T11:41:28+05:00'
 title: 'Complete Cisco CCNA 200-301 Course'
-linkTitle: ''
+linkTitle: 'Cisco CCNA 200-301'
 menuPre: '<i class="fa-solid fa-network-wired"></i> '
 LastModifierDisplayName: AbuTurab
 LastModifierEmail: thesajid@proton.me
