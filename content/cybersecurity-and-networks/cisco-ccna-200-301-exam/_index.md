@@ -20,4 +20,7 @@ These are the combined notes of the following two Udemy courses:
 
 These courses are offered by two wonderful people, [David Bombal](https://www.youtube.com/@davidbombal) and [Jeremy IT Lab](https://www.youtube.com/@JeremysITLab).
 
+> [!TIP]
+> You can access the latest CCNA exam topics [here](https://learningnetwork.cisco.com/s/ccna-exam-topics)
+
 Following is the notes index:
