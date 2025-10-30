@@ -11,6 +11,9 @@ alwaysOpen: false
 weight: 5
 ---
 
+> [!IMPORTANT]
+> It's advised to look at [Network+](/cybersecurity-and-networks/comptia-n10-009-network+training-course/) notes if you want to brush up on networking basics or are a complete newbie to CCNA certification.
+
 These are the combined notes of the following two Udemy courses:
 1. [Cisco CCNA 200-301 Exam: Complete Course with practical labs](https://www.udemy.com/share/107WPG3@GS7iXNxlLuMgwnYDstoYq0X8tZbiPu24Jgjx9W_8RQo1FHJHxi9g5zflMjoOBdhbJw==/)
 2. [Complete Cisco CCNA 200-301 Course](https://www.udemy.com/share/10bruZ3@LUyNAnoGpoErkeUc4UEnOC9pf7ATEXgDUEwlMTocz8b0rWglouq99o2Awg_mxVgrng==/)
