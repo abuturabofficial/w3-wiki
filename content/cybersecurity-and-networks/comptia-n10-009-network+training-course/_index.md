@@ -32,3 +32,5 @@ The course index is as follows:
 ### Section 1: Networking Concepts
 
 [1.1: The OSI Model](/cybersecurity-and-networks/comptia-n10-009-network+training-course/02-the-osi-model/)
+
+[1.2: Network Appliances and Applications](/cybersecurity-and-networks/comptia-n10-009-network+training-course/03-network-appliances-and-applications)
