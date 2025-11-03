@@ -28,3 +28,7 @@ The course index is as follows:
 ### 0.1 – Introduction
 
 [How to Pass Your N10-009 Network+ Exam](/cybersecurity-and-networks/comptia-n10-009-network+training-course/01-how-to-pass-your-n10-009-network+exam/)
+
+### Section 1: Networking Concepts
+
+[1.1: The OSI Model](/cybersecurity-and-networks/comptia-n10-009-network+training-course/02-the-osi-model/)
