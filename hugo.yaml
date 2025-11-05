@@ -6,11 +6,6 @@ theme: "hugo-theme-relearn"
 frontmatter:
   format: yaml
 
-params:
-  author:
-    email: thesajid@proton.me
-    name: Sajid Mahmood
-
 # Print Support: Enable print support to print entire chapters or the whole site
 outputs:
   home:
@@ -36,6 +31,9 @@ markup:
 
 # Sidebar settings
 params:
+  author:
+    email: thesajid@proton.me
+    name: Sajid Mahmood
   disableLandingPageButton: true
   showVisitedLinks: true
   themeVariant:
