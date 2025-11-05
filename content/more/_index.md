@@ -1,6 +1,6 @@
 ---
 draft: false
-_build:
+build:
   render: never
 LastModifierDisplayName: AbuTurab
 LastModifierEmail: thesajid@proton.me
