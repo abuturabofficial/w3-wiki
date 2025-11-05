@@ -34,3 +34,5 @@ The course index is as follows:
 [1.1: The OSI Model](/cybersecurity-and-networks/comptia-n10-009-network+training-course/02-the-osi-model/)
 
 [1.2: Network Appliances and Applications](/cybersecurity-and-networks/comptia-n10-009-network+training-course/03-network-appliances-and-applications)
+
+[1.3: The Cloud](/cybersecurity-and-networks/comptia-n10-009-network+training-course/04-the-cloud)
