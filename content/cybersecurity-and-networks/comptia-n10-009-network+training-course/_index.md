@@ -38,3 +38,5 @@ The course index is as follows:
 [1.3: The Cloud](/cybersecurity-and-networks/comptia-n10-009-network+training-course/04-the-cloud)
 
 [1.4: Ports and Protocols](/cybersecurity-and-networks/comptia-n10-009-network+training-course/05-ports-and-protocols)
+
+[1.5: Transmission Media](/cybersecurity-and-networks/comptia-n10-009-network+training-course/06-transmission-media)
