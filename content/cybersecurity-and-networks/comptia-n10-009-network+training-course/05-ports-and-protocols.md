@@ -353,3 +353,171 @@ Extend voice communication
 - Instant messaging
 - File transfer etc.
 
+## Other Useful Protocols
+
+### ICMP
+
+Internet Control Message Protocol
+- "Text messaging" for your network devices
+
+Another protocol carried by IP
+- Not used for data transfer
+
+Devices can request and reply to administrative requests
+- Hey, are you there?/Yes, I'm right here.
+
+Devices can send messages when things don't go well
+- That network you're trying to reach is not reachable from here
+- Your time-to-live expired, just letting you know
+
+### GRE
+
+Generic Routing Encapsulation
+- The "tunnel" between two endpoints
+
+Encapsulate traffic inside of IP
+- Two endpoints appear to be directly connected to each other
+- No built-in encryption
+
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-9.webp)
+
+### VPN
+
+Virtual Private Networks
+- Encrypted (private) data transversing a public network
+
+Concentrator
+- Encryption/decryption access device
+- Often integrated into a firewall
+
+Many deployment options
+- Specialized cryptographic hardware
+- Software-based options available
+
+### Site-to-site VPN
+
+Always-on
+- Or almost always
+
+Firewalls often act as VPN concentrators
+- Probably already have firewalls in place
+
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-10.webp)
+
+### IPSec (Internet Protocol Security)
+
+Security for OSI Layer 3
+- Authentication and encryption for every packet
+
+Confidentiality and integrity/anti-replay
+- Encryption and packet signing
+
+Very standardized
+- Common to use multivendor implementations
+
+Two core IPSec protocols
+- Authentication Header (AH)
+- Encapsulation Security Payload (ESP)
+
+### Internet Key Exchange (IKE)
+
+Agree on encryption/decryption keys
+- Without sending the key across the network
+- Builds a Security Association (SA)
+
+Phase I
+- Use Diffie-Hellman to create a shared secret key
+- `udp/500`
+- ISAKMP (Internet Security Association and Key Management Protocol)
+
+Phase II
+- Coordinate ciphers and key sizes
+- Negotiate an inbound and outbound SA for IPSec
+
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-11.webp)
+
+### Transport mode and Tunnel mode
+
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-12.webp)
+
+### Authentication Header (AH)
+
+Hash of the packet and a shared key
+- MD5, SHA-1, or SHA-2 are common
+- Adds the AH to the packet
+
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-13.webp)
+
+Some integrity information is sent, but rest of the (original) data is sent in the clear.
+
+### Encapsulation Security Payload (ESP)
+
+Encrypts the packet
+- MD5, SHA-1, or SHA-2 for hash and 3DES or AES for encryption
+- Adds a header, a trailer, and an integrity Check Value
+
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-14.webp)
+
+## Network Communication
+
+### Unicast
+
+One station sending information to another station
+- One-to-one
+
+Send information between two systems
+
+Web surfing, file transfers
+
+Does not scale optimally for real-time streaming media
+
+IPv4 and IPv6
+
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-15.webp)
+
+### Multicast
+
+Delivery of information to interested systems
+- One-to-many-of-many
+
+Multimedia delivery, stock exchanges, dynamic routing updates
+
+Very specialized
+- Difficult to scale across large networks
+
+Used in both IPv4 and IPv6
+- Extensive use in IPv6
+
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-16.webp)
+
+### Anycast
+
+Single destination IP address has multiple paths to two or more endpoints
+- One-to-one-of-many
+- Used in IPv4 and IPv6
+
+Configure the same anycast address on different devices
+- Looks like any other unicast address
+
+Packets sent to an anycast address are delivered to the closest interface
+- Announce the same route out of multiple data centers, clients use the data center closest to them 
+- Anycast DNS
+
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-17.webp)
+
+### Broadcast
+
+Send information to everyone at once
+- One-to-all
+
+One packet, received by everyone
+
+Limited scope
+- The broadcast domain
+
+Routing updates, ARP requests
+
+Used in IPv4
+
+Not used in IPv6
+- Uses multicast instead
