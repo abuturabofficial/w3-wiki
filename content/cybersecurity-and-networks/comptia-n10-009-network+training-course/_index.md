@@ -42,3 +42,5 @@ The course index is as follows:
 [1.5: Transmission Media](/cybersecurity-and-networks/comptia-n10-009-network+training-course/06-transmission-media)
 
 [1.6: Network Topologies](/cybersecurity-and-networks/comptia-n10-009-network+training-course/07-network-topologies)
+
+[1.7: IPv4 Addressing](/cybersecurity-and-networks/comptia-n10-009-network+training-course/08-ipv4-addressing)
