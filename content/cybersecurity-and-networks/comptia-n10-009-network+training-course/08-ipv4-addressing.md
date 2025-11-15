@@ -1,8 +1,8 @@
 ---
 draft: false
 date: '2025-11-11T11:30:38+05:00'
-title: 'Ipv4 Addressing'
-linkTitle: '1.7: Ipv4 Addressing'
+title: 'IPv4 Addressing'
+linkTitle: '1.7: IPv4 Addressing'
 menuPre: ''
 LastModifierDisplayName: AbuTurab
 LastModifierEmail: thesajid@proton.me
