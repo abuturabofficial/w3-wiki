@@ -317,3 +317,333 @@ Network = 26 bits, Host = 6 bits
 Network = 20 bits, Host = 12 bits
 ```
 
+## Calculating IPv4 Subnets and Hosts
+
+### Why subnet the network?
+
+- For single device, it's functionally impossible to know about all devices on the big network
+- That's why we create smaller networks using subnets
+
+![](/notes/comptia-n10-009-network+training-course/08-ipv4-addressing-14.webp)
+
+### VLSM (Variable Length Subnet Masks)
+
+Class-based networks are inefficient
+- The subnet mask is based on the network class
+
+Allow network administrators to define their own masks
+- Customize the subnet mask to specific network requirements
+
+Use different subnet masks in the same classful network
+- 10.0.0.0/8 is the class A network
+- 10.0.0.1/24 and 10.0.8.0/26 would be VLSM
+
+### Defining subnets
+
+IP address: 10.0.0.0
+- Class A, subnet mask: 255.0.0.0
+
+![](/notes/comptia-n10-009-network+training-course/08-ipv4-addressing-15.webp)
+
+![](/notes/comptia-n10-009-network+training-course/08-ipv4-addressing-16.webp)
+
+### Calculating subnets and hosts
+
+Powers of two
+
+| 2<sup>8</sup> | 2<sup>7</sup> | 2<sup>6</sup> | 2<sup>5</sup> | 2<sup>4</sup> | 2<sup>3</sup> | 2<sup>2</sup> | 2<sup>1</sup> |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|      256      |      128      |      64       |      32       |      16       |       8       |       4       |       2       | 
+
+| 2<sup>16</sup> | 2<sup>15</sup> | 2<sup>14</sup> | 2<sup>13</sup> | 2<sup>12</sup> | 2<sup>11</sup> | 2<sup>10</sup> | 2<sup>9</sup> |
+|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:-------------:|
+|     65,536     |     32,768     |     16,384     |     8,192      |     4,096      |     2,048      |     1,024      |      512      | 
+
+**Number of Subnets** = 2<sup>subnet bits</sup>
+
+**Hosts per subnet** = 2<sup>host bits</sup> — 2
+
+Let's put the table to use:
+
+#### **IP address: 10.1.1.0/24**
+
+- Class A
+- Subnet mask 255.0.0.0
+- /24 in binary = 11111111.11111111.11111111.00000000
+
+| Network = B bits | Subnet = 16 bits  | Host = 8 bits |
+| ---------------- | ----------------- | ------------- |
+| 11111111.        | 11111111.11111111 | 00000000      |
+
+Total Subnets = 16 bits = 2<sup>16</sup> = 65,536
+
+Hosts per Subnet = 8 Bits = 2<sup>8</sup> = 256-2 = 254
+
+#### **IP address: 192.168.11.0/26**
+
+- Class C
+- Subnet mask 255.255.255.0
+- /26 in binary = 11111111.11111111.11111111.11000000
+
+|      Network = 24 bits      | Subnet = 2 bits | Host = 6 bits |
+|:---------------------------:|:---------------:|:-------------:|
+| 11111111.11111111.11111111. |       11        |    000000     |
+
+Total Subnets = 2 bits = 2<sup>2</sup> = 4
+
+Hosts per subnet = 6 bits = 2<sup>6</sup> 2 = 64–2 = 62
+
+#### **IP address: 172.16.55.0/21**
+
+- Class B
+- Subnet mask 255.255.0.0
+- /21 in binary = 11111111.11111111.11111000.00000000
+
+| Network = 16 bits  | Subnet = 5 bits | Host = 11 bits |
+|:------------------:|:---------------:|:--------------:|
+| 11111111.11111111. |      11111      |  000.00000000  |
+
+Total subnets = 5 bits = 2<sup>5</sup> = 32
+
+Total hosts per subnet = 11 bits = 2<sup>11</sup>–2 = 2048-2 = 2046
+
+## Magic Number Subnetting
+
+### Subnetting the network
+
+Here's your IP address assignment:
+Network: 192.168.1.0/24
+
+![](/notes/comptia-n10-009-network+training-course/08-ipv4-addressing-17.webp)
+
+We need an IP addressing scheme with more than one network address that can support 40 devices per subnet.
+
+Calculating subnet masks:
+- We have four networks with about 40 devices per subnet
+
+![](/notes/comptia-n10-009-network+training-course/08-ipv4-addressing-18.webp)
+
+Subnetting the network:
+
+IP address 192.168.1.0, subnet mask 255.255.255.192
+
+192.168.1.0 = 11000000.10101000.00000001.00000000
+
+255.255.255.192 = 11111111.11111111.11111111.11000000
+
+Network = 24 bits, Subnet = 2, Host = 6
+
+Total Subnets = 2 bits = 2<sup>2</sup> = 4
+
+Hosts per Subnet = 6 bits = 2<sup>6</sup> = 64-2 = 62
+
+### Four important addresses
+
+Network address/subnet ID
+- The first address in the subnet
+
+Broadcast address
+- The last address in the subnet
+
+First available host address
+- One more than the network address
+
+Last available host address
+- One less than the broadcast address
+
+### Subnetting the network
+
+![](/notes/comptia-n10-009-network+training-course/08-ipv4-addressing-19.webp)
+
+### Magic Number subnetting
+
+Very straightforward method
+- Can often perform the math in your head
+
+Subnet with minimal math
+- Still some counting involved
+
+Some charts might help
+- But may not be required
+- CIDR to Decimal
+- Host ranges
+
+### Some helpful charts
+
+CIDR to decimal charts
+- Memorization will increase the speed
+
+| CIDR |   Decimal   |
+|:----:|:-----------:|
+|  /9  | 255.128.0.0 |
+| /10  | 255.192.0.0 |
+| /11  | 255.224.0.0 |
+| /12  | 255.240.0.0 |
+| /13  | 255.248.0.0 |
+| /14  | 255.252.0.0 |
+| /15  | 255.254.0.0 |
+| /16  | 255.255.0.0 |
+| /17  | 255.128.0.0 |
+| ...  |     ...     | 
+
+
+More simple chart:
+|    CIDR     | Decimal |
+|:-----------:|:-------:|
+| /9 /17 /25  |   128   |
+| /10 /18 /26 |   192   |
+| /12 /20 /28 |   240   |
+| /13 /21 /29 |   248   |
+| /14 /22 /30 |   252   |
+| /15 /23 /31 |   254   |
+| /16 /24 /32 |   255   |
+
+Magic number chart:
+
+|   CIDR for interesting octet 2    | /9  | /10 | /11 | /12 | /13 | /14 | /15 | /16 |
+|:---------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|   CIDR for interesting octet 3    | /17 | /18 | /19 | /20 | /21 | /22 | /23 | /24 |
+|   CIDR for interesting octet 4    | /25 | /26 | /27 | /28 | /29 | /30 |     |     |
+|           Magic number            | 128 | 64  | 32  | 16  |  8  |  4  |  2  |  1  |
+| Subnet mask for interesting octet | 128 | 192 | 224 | 240 | 248 | 252 | 254 | 255 | 
+
+Host ranges
+- Larger blocks are easier to remember
+- Multiply quickly for the smaller blocks
+![](/notes/comptia-n10-009-network+training-course/08-ipv4-addressing-20.webp)
+
+### The magic number process
+
+- Convert the subnet mask to decimal (if necessary)
+- Identify the "interesting octet"
+- Calculate the "magic number"
+    - 256 minus the interesting octet
+- Calculate the host range
+- Identify the network address
+    - First address in the range
+- Identify the broadcast address
+    -  Last address in the range
+
+### Find the subnet ID
+
+IP address: 165.245.77.14
+Subnet mask: 255.255.240.0
+
+- If the mask is 255, **Copy the IP address**
+- If the mask is zero, **copy the zero**
+- Anything not 255 or zero is the **interesting octet**
+
+Subtract the interesting octet mask from 256
+- 256-240 = 16
+- The magic number is **16**
+
+To find out Subnet ID, see the [table](#classful-subnetting:~:text=255-,Host%20ranges,-Larger%20blocks%20are).
+
+| Mask      | 255. | 255. |     240.     |  0   |
+| --------- |:----:|:----:|:------------:|:----:|
+| Action    | Copy | Copy | (256-240)=16 | Zero |
+| IP        | 165. | 245. |     77.      |  14  |
+| Subnet ID | 165. | 245. |     64.      |  0   |
+
+#### **Find the broadcast address**
+
+- If the mask is 255, **copy the subnet ID**
+- If the mask is zero, **write 255**
+- Anything not 255 or zero is the **interesting octet**
+
+Subtract the interesting octet mask from 256
+- 256-240 = 16
+- The magic number is **16**
+
+Broadcast ID = `(Calculate Subnet ID + Magic Number) — 1`
+
+= (64+16)-1 = 79 (Broadcast ID)
+
+| Mask              | 255. | 255. |     240.     |  0   |
+| ----------------- |:----:|:----:|:------------:|:----:|
+| Action            | Copy | Copy | (256-240)=16 | Zero |
+| Subnet ID         | 165. | 245. |     64.      |  0   |
+| Broadcast Address | 165. | 245. |     79.      | 255  |
+
+#### **Find the host range**
+
+IP address: 165.245.77.14
+
+Subnet mask: 255.255.240.0
+
+Subnet ID: 165.245.64.0
+
+Broadcast: 165.245.79.255
+
+Firt host is `subnet ID + 1`
+- 165.245.64.1
+
+Last host is `broadcast - 1`
+- 165.245.79.254
+
+### Finding the Subnet ID/Broadcast and First and Last host addresses
+
+IP address: 10.180.122.244
+Subnet mask: 255.248.0.0
+
+**Find the Subnet ID**:
+
+Using the [Subnet ID rules](#find-the-subnet-id)
+
+```
+Mask          255.    248.     0.    0
+Action        copy  (256-348) Zero  Zero
+IP             10.     180.  122.  244
+Subnet ID      10.     176.    0.    0
+```
+
+**Find the Broadcast ID**:
+
+Using the [Broadcast ID rules](#find-the-broadcast-address)
+
+Broadcast ID = (Subnet ID + Magic Number) — 1
+             = (176+8)-1 = 183
+
+```
+Mask           255.    248.    0.    0
+Action        copy  (256-348)  255  Zero
+Subnet ID       10.    176.    0.    0
+Broadcast ID    10.    183.  255.    255
+```
+
+So,
+
+IP address: 10.180.122.244
+
+Subnet mask: 255.248.0.0
+
+Subnet ID: 10.176.0.0
+
+Broadcast address: 10.183.255.255
+
+First host address: 10.176.0.1
+
+Last host address: 10.183.255.254
+
+### Speeding up the magic
+
+IP address: 172.16.242.133/27
+
+Using the [table](#find-the-broadcast-address:~:text=255-,Magic%20number%20chart%3A,-CIDR%20for%20interesting), /27 has subnet mask
+
+Subnet mask: 255.255.255.224
+
+Magic number is 256–224 = 32
+
+From the [host ranges](#find-the-broadcast-address:~:text=255-,Host%20ranges,-Larger%20blocks%20are), the Subnet ID would be
+
+Subnet ID: 172.16.242.128
+
+Using the magic number calculation: (subnet ID + magic number) — 1
+
+Broadcast: 172.16.242.159
+
+First host: 172.16.242.129
+
+Last host: 172.16.242.158
+
