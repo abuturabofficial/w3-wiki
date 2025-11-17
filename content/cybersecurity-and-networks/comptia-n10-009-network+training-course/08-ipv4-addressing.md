@@ -592,7 +592,7 @@ Using the [Subnet ID rules](#find-the-subnet-id)
 
 ```
 Mask          255.    248.     0.    0
-Action        copy  (256-348) Zero  Zero
+Action        copy  (256-248) Zero  Zero
 IP             10.     180.  122.  244
 Subnet ID      10.     176.    0.    0
 ```
@@ -606,7 +606,7 @@ Broadcast ID = (Subnet ID + Magic Number) — 1
 
 ```
 Mask           255.    248.    0.    0
-Action        copy  (256-348)  255  Zero
+Action        copy  (256-248)  255  Zero
 Subnet ID       10.    176.    0.    0
 Broadcast ID    10.    183.  255.    255
 ```
@@ -646,4 +646,130 @@ Broadcast: 172.16.242.159
 First host: 172.16.242.129
 
 Last host: 172.16.242.158
+
+## Seven Second Subnetting
+
+Designed for exam situations
+- Very fast subnetting
+- No second guessing
+
+~~No~~ Very little math involved
+- Some simple addition to create the tables
+- Add and subtract one
+
+Combination of many techniques
+- Find one that works for you
+
+Use the in-person or digital whiteboard
+- Quickly create the charts — bring your own erasable marker
+
+### The Networks
+
+![](/notes/comptia-n10-009-network+training-course/08-ipv4-addressing-21.webp)
+
+### The Hosts
+
+Network Address Subnet Boundaries:
+![](/notes/comptia-n10-009-network+training-course/08-ipv4-addressing-22.webp)
+
+### The Seven Second Subnetting Process
+
+Convert IP address and subnet mask to decimal
+- Use chart to convert between CIDR-block notation and decimal
+- Same chart also shows the number of devices per subnet
+
+Determine network/subnet address
+- [Second chart](#the-hosts) shows the starting subnet boundary
+
+Determine broadcast address
+- [Second chart](#the-hosts) shows the ending subnet boundary
+
+Calculate first and last usable IP address
+- Add one from network address, subtract one from broadcast address
+
+### Seven second subnetting — Practice
+
+**Address: 165.245.12.88/24**
+
+Convert address and mask to decimal
+
+Calculate the network address:
+- If mask is 255, bring down the address
+- If mask is 0, use the 0
+
+Calculate the broadcast address:
+- If the mask is 255, bring down the address
+- If mask is 0, use 255
+
+First IP is `network address + 1`
+Last IP is `broadcast address - 1`
+
+|  Address  | 165 | 245 | 12  | 88  |
+|:---------:|:---:|:---:|:---:|:---:|
+|   Mask    | 255 | 255 | 255 |  0  |
+|           |  ↓  |  ↓  |  ↓  |  ↓  |
+|  Network  | 165 | 245 | 12  |  0  |
+| Broadcast | 165 | 245 | 12  | 255 |
+| First IP  | 165 | 245 | 12  |  1  |
+|  Last IP  | 165 | 245 | 12  | 254 |
+
+ 
+**Address: 165.245.12.88/26**
+
+(For any other number, refer to your charts)
+
+|  Address  | 165 | 245 | 12  | 88  |
+|:---------:|:---:|:---:|:---:|:---:|
+|   Mask    | 255 | 255 | 255 | 192 |
+|           |  ↓  |  ↓  |  ↓  |  ↓  |
+|    Net    | 165 | 245 | 12  | 64  |
+| Broadcast | 165 | 245 | 12  | 127 |
+| First IP  | 165 | 245 | 12  | 65  |
+|  Last IP  | 165 | 245 | 12  | 126 | 
+
+**Address: 165.245.12.88/20**
+
+|  Address  | 165 | 245 | 12  | 88  |
+|:---------:|:---:|:---:|:---:|:---:|
+|   Mask    | 255 | 255 | 240 |  0  |
+|           |  ↓  |  ↓  |  ↓  |  ↓  |
+|    Net    | 165 | 245 |  0  |  0  |
+| Broadcast | 165 | 245 | 15  | 255 |
+| First IP  | 165 | 245 |  0  |  1  |
+|  Last IP  | 165 | 245 | 15  | 254 | 
+
+**Address: 18.172.200.77/11**
+
+|  Address  | 18  | 172 | 200 | 77  |
+|:---------:|:---:|:---:|:---:|:---:|
+|   Mask    | 255 | 224 |  0  |  0  |
+|           |  ↓  |  ↓  |  ↓  |  ↓  |
+|    Net    | 18  | 160 |  0  |  0  |
+| Broadcast | 18  | 191 | 255 | 255 |
+| First IP  | 18  | 160 |  0  |  1  |
+|  Last IP  | 18  | 191 | 255 | 254 |
+
+**Address: 18.172.200.77/17**
+
+|  Address  | 18  | 172 | 200 | 77  |
+|:---------:|:---:|:---:|:---:|:---:|
+|   Mask    | 255 | 255 | 128 |  0  |
+|           |  ↓  |  ↓  |  ↓  |  ↓  |
+|    Net    | 18  | 172 | 128 |  0  |
+| Broadcast | 18  | 172 | 255 | 255 |
+| First IP  | 18  | 172 | 128 |  1  |
+|  Last IP  | 18  | 172 | 255 | 254 |
+
+### Subnetting and exams
+
+Practice creating the charts
+- Writing or typing
+- Less than a minute
+
+Consider using your own dry-erase pen
+- Fine tip
+- Get permission from the testing center
+
+Find the system that works for you
+- Magic number, seven second subnetting, or your own shortcuts
 

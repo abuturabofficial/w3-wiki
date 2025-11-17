@@ -1,8 +1,8 @@
 ---
 draft: false
 date: '2025-10-30T11:50:03+05:00'
-title: 'Comptia N10-009 Network+training Course'
-linkTitle: 'Comptia N10-009 Network+'
+title: 'CompTIA N10-009 Network+training Course'
+linkTitle: 'CompTIA N10-009 Network+'
 menuPre: '<i class="fa-solid fa-circle-nodes"></i> '
 LastModifierDisplayName: AbuTurab
 LastModifierEmail: thesajid@proton.me
