@@ -46,3 +46,7 @@ The course index is as follows:
 [1.7: IPv4 Addressing](/cybersecurity-and-networks/comptia-n10-009-network+training-course/08-ipv4-addressing)
 
 [1.8: Network Environments](/cybersecurity-and-networks/comptia-n10-009-network+training-course/09-network-environments)
+
+### Section 2: Network Implementation
+
+[2.1: Routing Technologies](/cybersecurity-and-networks/comptia-n10-009-network+training-course/10-routing-technologies)
