@@ -274,4 +274,4 @@ Backwards-compatible with 802.1D STP
 - You can mix both in your network
 
 Very similar process
-- An update, not a wholsesale change
+- An update, not a wholesale change
