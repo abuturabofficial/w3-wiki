@@ -50,3 +50,5 @@ The course index is as follows:
 ### Section 2: Network Implementation
 
 [2.1: Routing Technologies](/cybersecurity-and-networks/comptia-n10-009-network+training-course/10-routing-technologies)
+
+[2.2: Switching Technologies](/cybersecurity-and-networks/comptia-n10-009-network+training-course/11-switching-technologies)
