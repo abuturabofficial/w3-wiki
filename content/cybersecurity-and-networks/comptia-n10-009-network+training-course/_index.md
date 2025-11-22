@@ -54,3 +54,5 @@ The course index is as follows:
 [2.2: Switching Technologies](/cybersecurity-and-networks/comptia-n10-009-network+training-course/11-switching-technologies)
 
 [2.3: Wireless Devices](/cybersecurity-and-networks/comptia-n10-009-network+training-course/12-wireless-devices)
+
+[2.4: Physical Installations](/cybersecurity-and-networks/comptia-n10-009-network+training-course/13-physical-installations)
