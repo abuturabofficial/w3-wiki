@@ -60,3 +60,5 @@ The course index is as follows:
 ### Section 3: Network Operations
 
 [3.1: Processes and Procedures](/cybersecurity-and-networks/comptia-n10-009-network+training-course/14-processes-and-procedures)
+
+[3.2: Network Monitoring](/cybersecurity-and-networks/comptia-n10-009-network+training-course/15-network-monitoring)
