@@ -56,3 +56,7 @@ The course index is as follows:
 [2.3: Wireless Devices](/cybersecurity-and-networks/comptia-n10-009-network+training-course/12-wireless-devices)
 
 [2.4: Physical Installations](/cybersecurity-and-networks/comptia-n10-009-network+training-course/13-physical-installations)
+
+### Section 3: Network Operations
+
+[3.1: Processes and Procedures](/cybersecurity-and-networks/comptia-n10-009-network+training-course/14-processes-and-procedures)
