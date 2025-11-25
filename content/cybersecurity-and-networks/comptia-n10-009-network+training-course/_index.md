@@ -62,3 +62,5 @@ The course index is as follows:
 [3.1: Processes and Procedures](/cybersecurity-and-networks/comptia-n10-009-network+training-course/14-processes-and-procedures)
 
 [3.2: Network Monitoring](/cybersecurity-and-networks/comptia-n10-009-network+training-course/15-network-monitoring)
+
+[3.3: Disaster Recovery](/cybersecurity-and-networks/comptia-n10-009-network+training-course/16-disaster-recovery)
