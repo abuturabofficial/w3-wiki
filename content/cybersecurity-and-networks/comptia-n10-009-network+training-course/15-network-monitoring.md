@@ -213,3 +213,92 @@ Examine a copy of the traffic
 - Port mirror (SPAN), network tap
 
 ![](/notes/comptia-n10-009-network+training-course/15-network-monitoring-8.webp)
+
+## Network Solutions
+
+### Network Discovery
+
+Difficult to see beyond the wall jack
+- LLDP (Link Layer Discovery Protocol), CDP (Cisco Discovery Protocol), etc.
+- IP scanners (Nmap)
+- Commercial network scanners
+- SNMP
+
+Ad hoc
+- Scan as needed or required
+
+Scheduled
+- Scan occurs at regular intervals
+- Report on moves, adds, and changes
+
+### Traffic Analysis
+
+View traffic information from routers, switches, firewalls, etc.
+- Identify traffic flows
+- View traffic summaries
+
+Can be very detailed
+- Every flow from every device
+
+Important historical information
+- Monitoring, post-event analysis
+
+![](/notes/comptia-n10-009-network+training-course/15-network-monitoring-9.webp)
+
+### Performance Monitoring
+
+The fundamental network statistic
+- Amount of network use over time
+
+Many ways to gather this metric
+- SNMP, NetFlow, protocol analysis, software agent
+
+Identify fundamental issues
+- Nothing works properly if bandwidth is highly utilized
+
+![](/notes/comptia-n10-009-network+training-course/15-network-monitoring-10.webp)
+
+### Availability monitoring
+
+Up or down
+- The most important statistic
+- No special rights or permissions required
+- Green is good, red is bad
+
+Alarming and alerting
+- Notification should an interface fail to report
+- Email, SMS
+
+Short-term and long-term reporting
+- View availability over time
+
+Not focused on additional details
+- Additional monitoring may require SNMP
+
+![](/notes/comptia-n10-009-network+training-course/15-network-monitoring-11.webp)
+
+### Network device backup and restore
+
+Every device has a configuration
+- IP addresses, security settings, port configurations
+- Most devices allow the configuration to be downloaded and uploaded
+- Configurations may be specific to a version of operating code or firmware
+
+Revert to a previous state
+- Use backups to return to a previous configuration date and time
+- May require a firmware or version downgrade
+
+### Configuring monitoring
+
+Ten identical web servers
+- Should have ten identical configurations
+- How to confirm?
+
+Monitor the configurations
+- Verify consistency
+- Alert on any changes
+- Backup and restore
+
+Often part of a larger management system or strategy
+- Central console and access
+
