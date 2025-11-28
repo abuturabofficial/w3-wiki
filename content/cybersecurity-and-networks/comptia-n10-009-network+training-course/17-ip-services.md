@@ -406,3 +406,152 @@ DNS over HTTPS (DoH)
 - Looks like a web server communication over tcp/443
 - Some browsers use DoH by default
 
+## DNS Records
+
+Resource Records (RR)
+- The database records of domain name services
+
+Over 30 record types
+- IP addresses, certificates, host alias names, etc.
+
+### Sample Forward Lookup File
+
+![](/notes/comptia-n10-009-network+training-course/17-ip-services-20.webp)
+
+### Start of Authority (SOA)
+
+Describes the DNS zone details
+
+Structure
+- In SOA (Internet zone, Start of Authority) with name of zone
+- Serial number
+- Refresh, retry, and expiry timeframes
+- Caching duration/TTL (Time To Live)
+
+![](/notes/comptia-n10-009-network+training-course/17-ip-services-21.webp)
+
+### Address Records (A) (AAAA)
+
+Defines the IP address of a host
+- This is the most popular query
+
+A records are for IPv4 addresses
+- Modify the A record to change the host name to IP address resolution
+
+AAAA records are for IPv6 addresses
+- The same DNS server, different records
+
+![](/notes/comptia-n10-009-network+training-course/17-ip-services-22.webp)
+
+### Canonical Name Records (CNAME) 
+
+A name is an alias of another, canonical name
+- One physical server, multiple services
+
+![](/notes/comptia-n10-009-network+training-course/17-ip-services-23.webp)
+
+### Mail Exchanger Record (MX)
+
+Determines the host name for the mail server
+- This isn't an IP address; it's a name
+
+![](/notes/comptia-n10-009-network+training-course/17-ip-services-24.webp)
+
+Some DNS servers only provide web-based front-end instead of text based MX records:
+
+![](/notes/comptia-n10-009-network+training-course/17-ip-services-25.webp)
+
+### Text Records (TXT)
+
+Human-readable text information
+- Useful public information
+
+SPF protocol (Sender Policy Framework)
+- Prevent mail spoofing
+- Mail servers check that incoming mail really did come from an authorized host
+
+DKIM (Domain Keys Identified Mail)
+- Digitally sign your outgoing mail
+- Validated by the mail server, not usually seen by the end user
+- Put your public key in the DKIM TXT record
+
+![](/notes/comptia-n10-009-network+training-course/17-ip-services-26.webp)
+
+### Name Sever Records (NS)
+
+List the name servers for a domain
+- NS records point to the name of the server
+
+![](/notes/comptia-n10-009-network+training-course/17-ip-services-27.webp)
+
+### Pointer Record (PTR)
+
+The reverse of an A or AAAA record
+- Added to a reverse map zone file
+
+![](/notes/comptia-n10-009-network+training-course/17-ip-services-28.webp)
+
+## Time Protocols
+
+### NTP (Network Time Protocol)
+
+Switches, routers, firewalls, servers, workstations
+- Every device has its own clock
+
+Synchronizing the clocks becomes critical
+- Log files, authentication information, outage details
+
+Automatic updates
+- No flashing 12:00 lights
+
+Flexible
+- You can control how clocks are updated
+
+Very accurate
+- Accuracy commonly measured in the tens of milliseconds
+
+### NTP Clients and Servers
+
+NTP server
+- Listens on udp/123, responds to time requests from NTP clients
+- Doesn't modify their own time
+
+NTP client
+- Requests time updates from NTP server
+
+NTP client/server
+- Requests time updates from an NTP server
+- Responds to time requests from other NTP clients
+
+Important to plan your NTP strategy
+- Which devices are clients, servers, and client/servers?
+
+### Network Time Security (NTS)
+
+NTP sends traffic in the clear
+- The time of day isn't really a secret
+
+The wrong time can be a significant problem
+- How do you know your NTP server response can be trusted
+
+NTP is updated to provide authentication
+- NTP information can be trusted
+
+TLS handshake is used for key exchange
+- Get authorization cookie from an NTS key exchange server
+
+Connect to an NTP server using this authentication
+- Both requests and responses are validated
+
+![](/notes/comptia-n10-009-network+training-course/17-ip-services-29.webp)
+
+### Precision Time Protocol (PTP)
+
+A more precise time protocol
+- A hardware-based time synchronization
+
+Nanosecond granularity
+- Important for industrial applications, financial trading, etc.
+
+Often implemented as specialized hardware
+- Avoids delays from the OS and applications
