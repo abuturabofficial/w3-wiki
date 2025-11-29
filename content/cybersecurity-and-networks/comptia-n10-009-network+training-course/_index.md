@@ -68,3 +68,7 @@ The course index is as follows:
 [3.4: IP Services](/cybersecurity-and-networks/comptia-n10-009-network+training-course/17-ip-services)
 
 [3.5: Network Access](/cybersecurity-and-networks/comptia-n10-009-network+training-course/18-network-access)
+
+### Section 4: Network Security
+
+[4.1: Network Security Concepts](/cybersecurity-and-networks/comptia-n10-009-network+training-course/19-network-security-concepts)
