@@ -224,3 +224,253 @@ DNS spoofing/poisoning:
 Attacker can poison the DNS server:
 
 ![](/notes/comptia-n10-009-network+training-course/20-attack-types-11.webp)
+
+## Rogue Services
+
+### Rogue DHCP server
+
+IP addresses assigned by a non-authorized server
+- There is no inherent security in DHCP
+
+Client is assigned an invalid or duplicate address
+- Intermittent connectivity, no connectivity
+
+Disable rogue DHCP communication
+- Enable DHCP snooping on your switch
+- Authorized DHCP servers in Active Directory
+
+Disable the rogue 
+- Renew the IP lease
+
+### Rogue Access Points
+
+An unauthorized wireless access point
+- May be added by an employee or an attacker
+- Not necessarily malicious
+- A significant potential backdoor
+
+Very easy to plug in a wireless AP
+- Or enable wireless sharing in your OS
+
+Schedule a periodic survey
+- Walk around your building/campus
+- Use third-party tools/Wi-Fi Pineapple
+
+Consider using 802.1X (Network Access Control)
+- You must authenticate, regardless of the connection type
+
+### Wireless Evil Twins
+
+Looks legitimate, but actually malicious
+- The wireless version of phishing
+
+Configure an access point to look like an existing network
+- Same (or similar) SSID and security settings/captive portal
+
+Overpower the existing access point
+- May not require the same physical location
+
+Wi-Fi hotspots (and users) are easy to fool
+- And they are wide open
+
+You encrypt your communication, right?
+- Use HTTPS and a VPN
+
+### On-Path Network Attack
+
+How can an attacker watch without you knowing?
+- Formerly known as man-in-the-middle
+
+Redirects your traffic
+- Then passes it on to the destination
+- You never know your traffic was redirected
+
+ARP poisoning
+- On-path attack on the local IP subnet
+- ARP has no security
+
+### Other on-path attacks
+
+Get in the middle of the conversation and view or change information
+- Session hijacking
+- HTTPS spoofing
+- Wi-Fi eavesdropping
+
+Encryption fixes most of these situations
+- You can't change what you cannot see
+
+## Social Engineering
+
+### Phishing
+
+Social engineering with a touch of spoofing
+- Often delivered by email, text, etc.
+- Very remarkable when well done
+
+Don't be fooled
+- Check the URL
+
+Usually there's something not quite right
+- Spelling, fonts, graphic
+
+### Shoulder Surfing
+
+You have access to important information
+- Many people want to see
+- Curiosity, industrial espionage, competitive advantage
+
+This is surprisingly easy
+- Airports/Flights
+- Hallway-facing monitors
+- Coffee shops
+
+Surf from afar
+- Binoculars/Telescope
+    - Easy in the big city
+- Webcam monitoring
+
+### Prevent Shoulder Surfing
+
+Control your input
+- Be aware of your surroundings
+
+Use privacy filters
+- It's amazing how well they work
+
+Keep your monitor out of sight
+- Away from windows and hallways
+
+Don't sit in front of me on your flight
+- I can't help myself
+
+### Tailgating and Piggybacking
+
+Tailgating uses an authorized person to gain unauthorized access to a building
+- The attacker does not have consent
+- Sneaks through when nobody is looking
+
+Piggybacking follows the same process, but the authorized person is giving consent
+- Hold the door, my hands are full of donut boxes
+- Sometimes you shouldn't be polite
+
+Once inside, there's little to stop you
+- Most security stops at the border
+
+### Watching for Tailgating
+
+Policy for visitors
+- You should be able to identify anyone
+
+Once scan, one person
+- A matter of policy or mechanically required
+
+Access control Vestibule/Airlock
+- You don't have a choice
+
+Don't be afraid to ask
+- Who are you, and why are you here?
+
+### Dumpster Diving
+
+Mobile garbage bin
+- United States brand name "Dumpster"
+- Similar to a rubbish skip
+
+Important information thrown out with the trash
+- Thanks for bagging your garbage for me!
+
+Gather details that can be used for a different attack
+- Impersonate names, use phone numbers
+
+Timing is important
+- Just after end of month, end of quarter
+
+### Is it legal to dive in a dumpster?
+
+I am not a lawyer.
+
+In the US, it's legal
+- Unless there is a local restriction
+
+If it's in the trash, it's open season
+- Nobody owns it
+
+Dumpsters on private property or "No Trespassing" signs may be restricted
+- You cannot break the law to get to the rubbish
+
+Questions? Talk to a legal professional.
+
+### Protect your rubbish
+
+Secure your garbage
+- Fence and a lock
+
+Shred your documents
+- This will only go so far
+- Governments burn the good stuff
+
+Go look at your trash
+- What's in there?
+
+## Malware
+
+Malicious software
+- These can be very bad
+
+Gather information
+- Keystrokes
+
+Participate in a group
+- Controlled over the network
+
+Show you advertising
+- Big money
+
+Viruses and worms
+- Encrypt your data
+- Ruin your day
+
+### Malware Types and Methods
+
+- Viruses
+- Worms (Self replicating)
+- Ransomware
+- Trojan Horse
+- Rootkit
+- Keylogger
+- Adware/Spyware
+- Bloatware
+- Logic Bomb (Wait for particular time to trigger)
+
+### How you get malware
+
+These all work together
+- A worm takes advantage of a vulnerability
+- Install malware that includes a remote access backdoor
+- Bot may be installed later
+
+Your computer must run a program
+- Email link — Don't click links
+- Web page pop-up
+- Drive-by download
+- Worm
+
+Your computer is vulnerable
+- OS — Keep your OS updated!
+- Applications — Check with the publisher
+
+### Your data is valuable
+
+Personal data
+- Family pictures and videos
+- Important documents
+
+Organization data
+- Planning documents
+- Employee personally identifiable information (PII)
+- Financial information
+- Company private data
+
+How much is it worth?
+- There is a number
+
