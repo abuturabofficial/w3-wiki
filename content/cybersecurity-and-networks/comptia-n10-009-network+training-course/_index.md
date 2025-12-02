@@ -76,3 +76,7 @@ The course index is as follows:
 [4.2: Attack Types](/cybersecurity-and-networks/comptia-n10-009-network+training-course/20-attack-types)
 
 [4.3: Network Security Features](/cybersecurity-and-networks/comptia-n10-009-network+training-course/21-network-security-features)
+
+### Section 5: Network Troubleshooting
+
+[5.1: Troubleshooting](/cybersecurity-and-networks/comptia-n10-009-network+training-course/22-troubleshooting)
