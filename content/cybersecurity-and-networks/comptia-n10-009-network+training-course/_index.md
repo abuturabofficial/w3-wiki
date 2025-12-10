@@ -84,3 +84,5 @@ The course index is as follows:
 [5.2: Physical Access](/cybersecurity-and-networks/comptia-n10-009-network+training-course/23-physical-issues)
 
 [5.3: Troubleshooting Network Services](/cybersecurity-and-networks/comptia-n10-009-network+training-course/24-troubleshooting-network-services)
+
+[5.4: Performance Issues](/cybersecurity-and-networks/comptia-n10-009-network+training-course/25-performance-issues)
