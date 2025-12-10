@@ -86,3 +86,5 @@ The course index is as follows:
 [5.3: Troubleshooting Network Services](/cybersecurity-and-networks/comptia-n10-009-network+training-course/24-troubleshooting-network-services)
 
 [5.4: Performance Issues](/cybersecurity-and-networks/comptia-n10-009-network+training-course/25-performance-issues)
+
+[5.5: Tools and Protocols](/cybersecurity-and-networks/comptia-n10-009-network+training-course/26-tools-and-protocols)

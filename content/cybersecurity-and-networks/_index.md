@@ -215,3 +215,83 @@ This training course is offered by [Professor Messer](https://www.youtube.com/pl
 > [5.5: Audits and Assessments](cybersecurity-and-networks/comptia-sy0-701-security+training-course/28-audits-and-assessments)
 > 
 > [5.6: Security Awareness](cybersecurity-and-networks/comptia-sy0-701-security+training-course/29-security-awareness)
+
+## CompTIA N10-009 Network+training Course
+
+It includes notes from two courses:
+1. [CompTIA N10-009 Network+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8)
+
+This course is freely available on YouTube, thanks to Professor Messer. **Please support Professor Messer directly by buying his official [Network+ Notes](https://www.professormesser.com/n10-009-success-bundle/)**.
+
+2. [CompTIA Network+ (N10-008) Video Training Series](https://www.udemy.com/course/draft/3985912/learn/lecture/26036474#overview)
+
+ This course is offered by Kevin Wallace. It is currently drafted on Udemy, no enrollment possible. But you can enroll in any of the newer Kevin Wallace courses over on his [website](https://www.kwtrain.com/products).
+
+> [!INFO]
+> I would primarily follow Professor Messer's Network+ YouTube playlist for notes taking. Please check official [CompTIA Network+](https://www.comptia.org/en-us/certifications/network/) page for latest news, exam resources, and exam products.
+
+> [!transparent]- The course index is as follows:
+> 
+> ### 0.1 – Introduction
+> 
+> [How to Pass Your N10-009 Network+ Exam](/cybersecurity-and-networks/comptia-n10-009-network+training-course/01-how-to-pass-your-n10-009-network+exam/)
+> 
+> ### Section 1: Networking Concepts
+> 
+> [1.1: The OSI Model](/cybersecurity-and-networks/comptia-n10-009-network+training-course/02-the-osi-model/)
+> 
+> [1.2: Network Appliances and Applications](/cybersecurity-and-networks/comptia-n10-009-network+training-course/03-network-appliances-and-applications)
+> 
+> [1.3: The Cloud](/cybersecurity-and-networks/comptia-n10-009-network+training-course/04-the-cloud)
+> 
+> [1.4: Ports and Protocols](/cybersecurity-and-networks/comptia-n10-009-network+training-course/05-ports-and-protocols)
+> 
+> [1.5: Transmission Media](/cybersecurity-and-networks/comptia-n10-009-network+training-course/06-transmission-media)
+> 
+> [1.6: Network Topologies](/cybersecurity-and-networks/comptia-n10-009-network+training-course/07-network-topologies)
+> 
+> [1.7: IPv4 Addressing](/cybersecurity-and-networks/comptia-n10-009-network+training-course/08-ipv4-addressing)
+> 
+> [1.8: Network Environments](/cybersecurity-and-networks/comptia-n10-009-network+training-course/09-network-environments)
+> 
+> ### Section 2: Network Implementation
+> 
+> [2.1: Routing Technologies](/cybersecurity-and-networks/comptia-n10-009-network+training-course/10-routing-technologies)
+> 
+> [2.2: Switching Technologies](/cybersecurity-and-networks/comptia-n10-009-network+training-course/11-switching-technologies)
+> 
+> [2.3: Wireless Devices](/cybersecurity-and-networks/comptia-n10-009-network+training-course/12-wireless-devices)
+> 
+> [2.4: Physical Installations](/cybersecurity-and-networks/comptia-n10-009-network+training-course/13-physical-installations)
+> 
+> ### Section 3: Network Operations
+> 
+> [3.1: Processes and Procedures](/cybersecurity-and-networks/comptia-n10-009-network+training-course/14-processes-and-procedures)
+> 
+> [3.2: Network Monitoring](/cybersecurity-and-networks/comptia-n10-009-network+training-course/15-network-monitoring)
+> 
+> [3.3: Disaster Recovery](/cybersecurity-and-networks/comptia-n10-009-network+training-course/16-disaster-recovery)
+> 
+> [3.4: IP Services](/cybersecurity-and-networks/comptia-n10-009-network+training-course/17-ip-services)
+> 
+> [3.5: Network Access](/cybersecurity-and-networks/comptia-n10-009-network+training-course/18-network-access)
+> 
+> ### Section 4: Network Security
+> 
+> [4.1: Network Security Concepts](/cybersecurity-and-networks/comptia-n10-009-network+training-course/19-network-security-concepts)
+> 
+> [4.2: Attack Types](/cybersecurity-and-networks/comptia-n10-009-network+training-course/20-attack-types)
+> 
+> [4.3: Network Security Features](/cybersecurity-and-networks/comptia-n10-009-network+training-course/21-network-security-features)
+> 
+> ### Section 5: Network Troubleshooting
+> 
+> [5.1: Troubleshooting](/cybersecurity-and-networks/comptia-n10-009-network+training-course/22-troubleshooting)
+> 
+> [5.2: Physical Access](/cybersecurity-and-networks/comptia-n10-009-network+training-course/23-physical-issues)
+> 
+> [5.3: Troubleshooting Network Services](/cybersecurity-and-networks/comptia-n10-009-network+training-course/24-troubleshooting-network-services)
+> 
+> [5.4: Performance Issues](/cybersecurity-and-networks/comptia-n10-009-network+training-course/25-performance-issues)
+> 
+> [5.5: Tools and Protocols](/cybersecurity-and-networks/comptia-n10-009-network+training-course/26-tools-and-protocols)
