@@ -164,6 +164,12 @@ Non-ephemeral ports — permanent port numbers
 Ephemeral ports — temporary port numbers
 - Ports `1024` through `65,535`
 
+**Well-Known Ports:** 0--1023 Offer well-known network services
+
+**Registered Ports:** 1024-49151 Registered with the Internet Assigned Number Authority (IANA)
+
+**Ephemeral Ports:** 49152--65535 (a.k.a. Dynamic Ports or Private Ports)
+
 ### Port Numbers
 
 TCP and UDP ports can be any number between 0 and 65,535
@@ -414,6 +420,10 @@ Extend voice communication
 - Video conferencing
 - Instant messaging
 - File transfer etc.
+
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-23.webp)
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-24.webp)
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-25.webp)
 
 ## Other Useful Protocols
 
