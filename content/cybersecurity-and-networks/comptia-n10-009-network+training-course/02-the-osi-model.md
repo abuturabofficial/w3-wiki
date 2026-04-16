@@ -27,15 +27,19 @@ This is not the OSI protocol suite
 You'll refer to this model for the rest of your career
 - Often
 
-↻ [A]ll [P]eople [S]eem [T]o [N]eed [D]ata [P]rocessing
+↻ [**A**]ll [**P**]eople [**S**]eem [**T**]o [**N**]eed [**D**]ata [**P**]rocessing
 
 ![](/notes/comptia-n10-009-network+training-course/02-the-osi-model-1.webp)
+
+**Protocol Data Unit:** The name given to data at a specific layer of the OSI Model i.e., Bits, Frames etc.
+- To remember PDUs of first 4 layers, the mnemonic is [B]acon [F]rying [P]rodues [S]alivation
 
 ### Layer 1 — Physical Layer
 
 The physics of the network
 - Signaling, cabling, connectors
 - This layer isn't about protocols
+- Data is referred to as **Bits** at layer 1
 
 "You have a physical layer problem."
 - Fix your cabling, punch-downs, etc.
@@ -45,6 +49,11 @@ The physics of the network
 
 The basic network "language"
 - The foundation of communication at the data link layer
+
+Decisions are made based on MAC Addresses at layer 2.
+- A 48-bit address "burned-in" to a network interface card (NIC) by its manufacturer.
+- The device at this layer is Ethernet Switch
+- The data is referred to as **Frames**
 
 Data Link Control (DLC) protocols
 - MAC (Media Access Control) address on Ethernet
@@ -56,8 +65,8 @@ The "switching" layer
 ### Layer 3 — Network Layer
 
 The "routing" layer
-
-Internet Protocol (IP)
+- The forwarding decisions based on Internet Protocol (IP) Address
+- The PDU is **Packets** (or **Datagrams**)
 
 Fragments frames to traverse different networks
 
@@ -65,8 +74,14 @@ Fragments frames to traverse different networks
 
 ### Layer 4 — Transport Layer
 
-The "post office" layer
+The "post office" layer, it concerns with network connections
 - Parcels and letters
+- The PDU at layer 4 is called **Segments**
+
+There are two types of protocols at play at layer 4:
+1) **Connection-oriented** TCP, Reliable
+2) **Connectionless** UDP, Unreliable
+
 
 TCP (Transmission Control Protocol) and UDP (User Datagram Protocol)
 
@@ -76,6 +91,7 @@ TCP (Transmission Control Protocol) and UDP (User Datagram Protocol)
 
 Communication management between devices
 - Start, stop, restart
+- SIP (session initiation protocol) for VoIP
 
 Control protocols, tunneling protocols
 
@@ -83,6 +99,8 @@ Control protocols, tunneling protocols
 
 ### Layer 6 — Presentation Layer
 
+- The layer we see
+- Displaying an image or ASCII
 - Character encoding
 - Application encryption
 - Often combined with the Application Layer
@@ -91,8 +109,8 @@ Control protocols, tunneling protocols
 
 ### Layer 7 — Application Layer
 
-- The layer we see
-- HTTP, FTP, DNS, POP3
+- The Protocols that give us network functionality, not the graphics display
+- HTTP/s, FTP, DNS, POP3
 
 ![](/notes/comptia-n10-009-network+training-course/02-the-osi-model-7.webp)
 
