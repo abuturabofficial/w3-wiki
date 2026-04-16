@@ -136,3 +136,18 @@ OSI in the real world:
 
 Follow the conversation:
 ![](/notes/comptia-n10-009-network+training-course/02-the-osi-model-9.webp)
+
+## TCP/IP Model
+
+- A model version in which Physical and Data Link Layers become Network Access layer. 
+    - Some variant of this model, Network Access Layer may be called Network Interface layer or Link Layer.
+- Network layer becomes Internet layer
+- Session, Presentation, Applications layers become single Application layer.
+![](/notes/comptia-n10-009-network+training-course/02-the-osi-model-10.webp)
+
+Another variant, in which Physical and Data Link Layers kept intact.
+![](/notes/comptia-n10-009-network+training-course/02-the-osi-model-11.webp)
+
+Another variant, may have Data Link as Network Interface Layer:
+![](/notes/comptia-n10-009-network+training-course/02-the-osi-model-12.webp)
+
