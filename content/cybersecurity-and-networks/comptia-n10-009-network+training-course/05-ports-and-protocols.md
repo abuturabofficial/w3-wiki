@@ -34,6 +34,35 @@ Inside the boxes are more things
 
 ![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-1.webp)
 
+#### IPv4 Header
+
+- **Version:** A 4-bit field that indicates that IP version being used and is always set to a value of 4 for IPv4 headers
+- **Internet Header Length (IHL):** A 4-bit field that indicates the number of 32-bit words in the header, and can have a value in the range 5--15
+- **Type of Service (ToS):** An 8-bit field used to indicate the priority of the packet, and is typically divided into a 6-bit Differentiated Services Code Point (DSCP) field and a 2-bit Explicit Congestion Notification (ECN) field
+- **Total Length:** A 16-bit field that specifies the total size of the packet (in bytes)
+- **Identification:** 16-bit field used to logically group together multiple fragments making up a datagram
+- **Flags:** A 3-bit field used to control packet fragmentation
+- **Fragment Offset:** A 13-bit field used to identify where a fragment was originally located in an unfragmented datagram
+- **Time to Live (TTL):** An 8-bit field used to prevent routing loops by being decremented by 1 at each router hop until the packet is discarded when the TTL = 0
+- **Protocol:** An 8-bit field used to identify the type of data being carried by the packet
+- **Header Checksum:** A 16-bit field used to check the header for errors
+- **Source IP Address:** A 32-bit address specifying the IPv4 address of the sender
+- **Destination IP Address:** A 32-bit address specifying the IPv4 address of the receiver
+- **Options:** A rarely-used field that can specify additional IPv4 header options (NOTE: The Options field is populated if the Internet Header Length > 5)
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-21.webp)
+
+#### IPv6 Header
+
+- **Version:** A 4-bit field that indicates that IP version being used, and is always set a value of 6 for IPv6 headers
+- **Traffic Class:** An 8-bit field used to indicate the priority of the packet, and is typically divided into a 6-bit Differentiated Services Code Point (DSCP) field and a 2-bit Explicit Congestion Notification (ECN) field (performs the same function as an IPv4 ToS byte)
+- **Flow Label:** A 20-bit field used to identify a group of packets as belonging to a single stream
+- **Payload Length:** 16-bit field used to indicate how many bytes are contained in the payload
+- **Next Header:** An 8-bit field used to indicate the next type of header encapsulated in the IPv6 packet (typically a Layer 4 protocol such as TCP or UDP)
+- **Hop Limit:** An 8-bit field used to prevent routing loops by being decremented by 1 at each router hop until the packet is discarded when the Hop Limit = 0 (replaces the IPv4 TTL field)
+- **Source Address:** A 128-bit field that indicates the IPv6 address of the sender
+- **Destination Address:** A 128-bit field that indicates the IPv6 address of the receiver
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-22.webp)
+
 ### TCP and UDP
 
 Transported inside of IP
@@ -63,6 +92,29 @@ Flow control
 
 ![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-2.webp)
 
+#### The 3-Way Handshake
+
+A 3-step process that sets up a connection between two devices speaking TCP.
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-18.webp)
+
+- Segment 1 is sent, ACK2 is sent back from server, acknowledging server is ready for segment 2.
+- The next device will send Segment 2 and Segment 3 at a time, after receiving acknowledgement via ready ACK4, the next time device will send double the segments.
+- Number of segments sent each time, are called **Window Size**. It will keep doubling until some segment is dropped, and the server asks for it again, then the device will think it needs to slow down to transfer segments without error, so the window size will be reduced.
+
+#### TCP Header
+
+- **Source Port:** A 16-bit field that identifies the sending port
+- **Destination Port:** A 16-bit field that identifies the receiving port
+- **Sequence Number:** A 32-bit field that specifies the first sequence number if the SYN flag = 1, or the accumulated sequence number if the SYN flag = 0
+- **Acknowledgement Number:** A 32-bit field that specifies the next sequence number the sender of an ACK expects (if the ACK flag = 1)
+- **Data Offset:** A 4-bit field that specifies the size of the TCP header, with a unit measure of 32-bit words (the minimum value is 5, and the maximum value is 15)
+- **Reserved:** A 3-bit field reserved for future use, where each bit is set to a value of 0
+- **Flags:** A series of nine 1-bit fields indicating the number of bytes the sender of this segment is willing to receive
+- **Checksum:** A 16-bit field used for error-checking both header and payload of the segment
+- **Urgent Pointer:** A 16-bit field indicating the last urgent data byte (if the URG flag = 1)
+- **Options:** A field whose size is in the range of 0–320 bits and can be used to indicate a variety of additional TCP options
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-19.webp)
+
 ### UDP — User Datagram Protocol
 
 Connectionless
@@ -71,11 +123,21 @@ Connectionless
 "Unreliable" delivery
 - No error recovery
 - No reordering of data or retransmissions
+- There is data checksum, to make sure data doesn't get corrupted in the transmission.
+- Due to lack of **Sequence Number** and **Acknowledge Number**, we don't know if it's ever delivered to the destination, that's why it's unreliable.
 
 No flow control
 - Sender determines the amount of data transmitted
 
 ![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-3.webp)
+
+#### UDP Header
+
+- **Source Port:** A 16-bit field that identifies the sending port
+- **Destination Port:** A 16-bit field that identifies the receiving port
+- **Length:** A 16-bit field that specifies the combined length of the UDP header and data
+- **Checksum:** A 16-bit field that can be used to perform error checking of the header and data (optional IPv4 and required for IPv6)
+![](/notes/comptia-n10-009-network+training-course/05-ports-and-protocols-20.webp)
 
 ### Speedy delivery
 

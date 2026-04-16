@@ -188,12 +188,17 @@ LACP
 
 ### Maximum Transmission Unit (MTU)
 
-Maximum IP packet to transmit
+The largest frame or packet that can be transmitted or received on an interface.
 - But not fragment
+![](/notes/comptia-n10-009-network+training-course/11-switching-technologies-16.webp)
 
 Fragmentation slows things down
-- Losing a fragment loses en entire packet
+- Losing a fragment loses an entire packet
 - Requires overhead along the path
+- **Don't Fragment (DF) Bit:** A bit in an IPv4 header that prevents a packet from being fragmented.
+![](/notes/comptia-n10-009-network+training-course/11-switching-technologies-17.webp)
+
+NOTE: IPv6 doesn't have a DF bit, and it uses a **"Packet Too Big"** ICMPv6 message.
 
 Difficult to know the MTU all the way through the path
 - Automated methods are often inaccurate
