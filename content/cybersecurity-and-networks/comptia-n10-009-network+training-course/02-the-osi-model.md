@@ -40,6 +40,7 @@ The physics of the network
 - Signaling, cabling, connectors
 - This layer isn't about protocols
 - Data is referred to as **Bits** at layer 1
+- This layer doesn't process any data, dealing only with physical transmission of signals i.e., **Networking Cables, Hubs, Repeaters** are layer 1 devices.
 
 "You have a physical layer problem."
 - Fix your cabling, punch-downs, etc.
@@ -54,9 +55,11 @@ Decisions are made based on MAC Addresses at layer 2.
 - A 48-bit address "burned-in" to a network interface card (NIC) by its manufacturer.
 - The device at this layer is Ethernet Switch
 - The data is referred to as **Frames**
+- Switches, Bridges, Network adapters (NICs) are layer 2 devices. NICs also operate layer 1.
 
 Data Link Control (DLC) protocols
 - MAC (Media Access Control) address on Ethernet
+- ARP (Address Resolution Protocol) operates at layer 2, which used to resolve IP addresses (layer 3) to MAC addresses (layer 2)
 
 The "switching" layer
 
@@ -66,7 +69,9 @@ The "switching" layer
 
 The "routing" layer
 - The forwarding decisions based on Internet Protocol (IP) Address
-- The PDU is **Packets** (or **Datagrams**)
+- ICMP (Internet Control Message Protocol) operates at layer 3. It doesn't transfer data, rather used for error reporting and diagnostics (ping and traceroute), and network control messages.
+     - It is encapsulated directly within IP packets and doesn't use transport layer protocols like TCP or UDP.
+- The PDU is **Packets**
 
 Fragments frames to traverse different networks
 
@@ -76,11 +81,11 @@ Fragments frames to traverse different networks
 
 The "post office" layer, it concerns with network connections
 - Parcels and letters
-- The PDU at layer 4 is called **Segments**
+- The PDU at layer 4 is called **Segments** and **Datagram**
 
 There are two types of protocols at play at layer 4:
-1) **Connection-oriented** TCP, Reliable
-2) **Connectionless** UDP, Unreliable
+1) **Connection-oriented** TCP, Reliable, PDU for TCP is segments
+2) **Connectionless** UDP, Unreliable, PDU for UDP is datagram
 
 
 TCP (Transmission Control Protocol) and UDP (User Datagram Protocol)
@@ -110,7 +115,8 @@ Control protocols, tunneling protocols
 ### Layer 7 — Application Layer
 
 - The Protocols that give us network functionality, not the graphics display
-- HTTP/s, FTP, DNS, POP3
+- HTTP/s, FTP, DNS, POP3, SMTP
+- It enables direct interaction between the end-user and the network
 
 ![](/notes/comptia-n10-009-network+training-course/02-the-osi-model-7.webp)
 
@@ -120,10 +126,10 @@ Control protocols, tunneling protocols
 | --------------------- | -------------------------------------------------------------------------------------- |
 | Layer 6: Presentation | Application encryption (SSL/TLS)                                                       |
 | Layer 5: Session      | Control protocols, tunneling protocols                                                 |
-| Layer 4: Transport    | TCP segments (connection-oriented, reliable), UDP datagram(connectionless, unreliable) | 
+| Layer 4: Transport    | TCP segments (connection-oriented, reliable), UDP datagram(connectionless, unreliable) |
 | Layer 3: Network      | IP address, Router, Packet                                                             |
 | Layer 2: Data Link    | Frame, MAC address, Extended Unique Identifier (EUI-48, EUI-64), Switch                |
-| Layer 1: Physical     | Bits, Cables, fiber, and the signal itself                                             |
+| Layer 1: Physical     | Bits, Cables, fiber, and the signal itself, just transmissions, no modification        | 
 
 OSI in the real world:
 ![](/notes/comptia-n10-009-network+training-course/02-the-osi-model-8.webp)
