@@ -64,6 +64,7 @@ Then Ethernet Hub became popular and CSMA-CD was still effective.
 
 **Carrier-Sense Multiple Access with Collision Avoidance (CSMA/CA)**
 - The more modern approach
+- Mainly used in Wireless Networks
 - When Client 1 sends the radio signals, Client 2 also hears this transmission, and wait for the transmission to be over, to begin its transfer.
 - There is **Hidden Node** Problem, when the Client 2 is far away from the Wireless Access Point. It cannot clearly hear the Client 1 transmission cycle going on, and falsely assumes that there is no transmission happening. The Client 2 then tries to send its signals, and collision happens.
 - There is no voltage spike for collision detection, for wireless AP.
@@ -114,6 +115,40 @@ Routes traffic between IP subnets
 Often connects diverse network types
 - LAN, WAN, copper, fiber
 
+### Collision and Broadcast Domains
+
+**Collision Domain:** A network segment on which only one packet is allowed at any one time.
+
+Ethernet Hub
+- In the 1990s, Ethernet Bus networks were replaced by Ethernet Hubs.
+- All ports on a hub belong to one collision domain.
+- No intelligent forwarding decisions, every packet is sent to each connected to the Hub.
+- It works in the half-duplex mode, one can send or receive at one time.
+
+> **Half-Duplex:** Allows a device on a network segment to either transmit or receive packets at any one time, but no transmit and receive packets simultaneously.
+
+Ethernet Switch
+- Each port on a switch belongs to its own collision domain.
+- Run devices in the full Duplex mode.
+
+> **Full-Duplex:** Allows simultaneous transmission and reception of packets on a network segment.
+
+**Broadcast Domain:** An area of a network throughout which a broadcast can travel (e.g., a subnet or a VLAN)
+
+- All ports on a hub belong to one broadcast domain
+    - If a device comes online, it sends a broadcast signal to the network to know where is the DHCP server, to get an IP address to reach the Internet or other local devices.
+- All ports on a switch (by default) belong to one broadcast domain.
+    - If laptop 1 wants to find a DHCP server, switch will flood all the port with the broadcast signal.
+    - Broadcast MAC Address `FFFF.FFFF.FFFF`
+    - Not very efficient or scalable due to all or nothig approach
+- Each port on a router belongs to its own broadcast domain.
+    - A router will interconnect the broadcast domains aka subnets or VLANs.
+    - On a router, each port is connected to a different subnet.
+    - If a device tries to reach a DHCP server, and sends DHCP discover broadcast, router will discard broadcast by default.
+    - In figure, the router has 3 gigabit ports which means it has 3 broadcast domains on the router.
+![](/notes/comptia-n10-009-network+training-course/03-network-appliances-and-applications-12.webp)
+
+
 ### Firewalls
 
 Filter traffic by port number or application
@@ -126,6 +161,18 @@ Most firewalls can be layered 3 devices (routers)
 - Often sits on the ingress/egress of the network
 - Network Address Translation (NAT)
 - Dynamic routing
+
+#### Types of Firewalls
+
+- **Packet Filter:** Only Internal traffic is allowed, and all outside traffic is dropped, even websites won't load.
+- **Stateful Firewall:** Inspects the packets going out or coming in. When outgoing packets have the IPs listed, it wanted to connect, when those Internet IPs respond, firewall allows that traffic to pass, as the request was originated from inside the local network.
+- **Next Generation Firewall (NGFW/Layer 7 Firewall):** Performs deep packet inspection (DPI), better able to block threats based on Online Threat databases by matching their signature with known threats signals.
+![](/notes/comptia-n10-009-network+training-course/03-network-appliances-and-applications-13.webp)
+
+#### Demilitarized Zone (DMZ)
+
+For corporate environment, we want our email server etc., to be accessible from the Internet. We put that email server in the Demilitarized Zone, separate from our internal network. In case, our email server gets compromised, our internal network remains safe and isolated.
+![](/notes/comptia-n10-009-network+training-course/03-network-appliances-and-applications-14.webp)
 
 ### IDS and IPS
 
@@ -140,11 +187,19 @@ Detection vs. Prevention
 - Detection — Alarm or alert
 - Prevention — Stop before it gets into the network
 
+> **IDS Sensor:** Inspects and can react to a copy of received traffic.
+>
+> **IPS Sensor:** Inspects and can react to traffic received in-line.
+
 ### Balancing the load
 
 Distribute the load
-- Multiple servers
+- Multiple servers with identical content
 - Invisible to the end-user
+- Eases the processor/hard drive demand on a single server
+- Allows individual servers to be removed from the load balancer's pool of server (e.g., for maintenance)
+- Allows "elastic" server capacity when used with virtual servers
+- Could be a dedicated appliance or a router that supports load balancing
 
 Large-scale implementations
 - Web server farms, database farms
@@ -175,13 +230,24 @@ Content switching
 
 ![](/notes/comptia-n10-009-network+training-course/03-network-appliances-and-applications-1.webp)
 
+### Advanced Filtering Appliances
+
+**Next Generation Firewall (NGFW/Layer 7 Firewall):** An Application Layer firewall with additional features, such as: Deep-Packet Inspection (DPI), Intrusion Prevention System (IPS), and encrypted traffic inspection.
+
+**Content Filter:** Could be software (e.g., used by parents) or an appliance (e.g., used by enterprises) used to filter traffic thought to be objectionable.
+
+**Unified Threat Management (UTM) Appliance:** A dedicated appliance that combines multiple filtering functions, such as: Firewall, IPS, Anti-Malware, VPN, and Content Filter.
+
+> **Ransomware Attack:** Occurs when a system contains malware (software written to be intentionally malicious), and the user is asked to pay a ransom to prevent their data from being publically posted or permanently encrypted.
+
 ### Proxies
 
 - Sits between the user and the external network
 - Receives the user requests and sends the request on their behalf (the proxy)
-- Useful for caching information, access control, URL filtering, content scanning
+- Useful for caching, access control, URL filtering, content scanning
 - Applications may need to know how to use the proxy (explicit)
 - Some proxies are invisible (transparent)
+    - Clients don't need to know the proxy server is sitting in the middle, and work in the silence.
 
 ### NAS vs. SAN
 
@@ -207,6 +273,8 @@ An access point is a bridge
 - OSI layer 2 devices
 
 ### Wireless networks everywhere
+
+> **Wireless Access Point:** Contains one or more antennas for communicating with wireless devices.
 
 Wireless networking is pervasive
 - And you probably don't just have a single access point
@@ -281,6 +349,9 @@ Many deployment options
 
 Often used with client software
 - Sometimes built into the OS
+
+> **Virtual Private Network (VPN) Concentrator:** A dedicated hardware appliance, that can handle encryption and decryption of VPN traffic as well as it can originate/terminate multiple VPN connections. It reduces the burden on the router.
+![](/notes/comptia-n10-009-network+training-course/03-network-appliances-and-applications-15.webp)
 
 ### Quality of Service (QoS)
 
