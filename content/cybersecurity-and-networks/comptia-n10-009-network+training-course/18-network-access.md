@@ -15,6 +15,10 @@ weight: 18
 
 Virtual Private Networks
 - Encrypted (private) data transversing a public network
+- Allows clients to connect to any Internet connection
+- Securely use a web browser (e.g., Clientless Cisco SSL VPN)
+- Install a software client (e.g., Cisco AnyConnect SSL VPN)
+- NOTE: A Split Tunnel (as opposed to a Full Tunnel) can be used to keep local traffic from flowing over the VPN
 
 Concentrator
 - Encryption/Decryption access device
@@ -43,6 +47,9 @@ Always-on
 
 Firewalls often act as VPN concentrators
 - Probably already have firewalls in place
+- Can use common broadband technologies
+- Transparent to the client devices
+- Can use routers or dedicated VPN concentrators
 
 ![](/notes/comptia-n10-009-network+training-course/18-network-access-2.webp)
 
@@ -73,6 +80,70 @@ Split Tunnel
 - Non-VPN traffic is sent normally
 - Configured in the VPN software
     ![](/notes/comptia-n10-009-network+training-course/18-network-access-3.webp)
+
+
+## VPN Routing Protocols
+
+### Generic Routing Encapsulation (GRE)
+
+1. Doesn't provide security
+2. Can encapsulate nearly any type of data
+
+![](/notes/comptia-n10-009-network+training-course/18-network-access-8.webp)
+
+### IP Security (IPsec)
+
+1. Provides
+    - **Confidentiality**: Encryption
+    - **Integrity**: Hashing
+    - **Authentication**: PSKs or Digital Signatures
+    - **Anti-replay**: Applies Serial Numbers to Packets
+2. Can encapsulate unicast IP packets
+3. Two modes
+    - **Transport Mode**: Uses Packet's orignal header
+    - **Tunnel Mode**: Encapsulates entire packet
+4. Authentication and Encryption
+    - **Authentication Header (AH)**: Authenticates an entire IP packet, including the outer IP header but doesn't do encryption
+    - **Encapsulating Security Protocol (ESP)**: Can authenticate an IP packet (not including the IP header), and can perform encryption
+5. Setup Steps
+    - **Step #1**: Establish an Internet Key Exchange (IKE) Phase 1 tunnel (a.k.a. Internet Security Association and Key Management Protocol \[ISAKMP] tunnel)
+    - **Step #2**: Establish IKE Phase 2 Tunnel
+
+![](/notes/comptia-n10-009-network+training-course/18-network-access-9.webp)
+
+### GRE over IPsec
+
+- GRE encapsulates nearly any traffic type into GRE packets, which are unicast IP packets
+- The GRE packets are protected over the IPsec tunnel
+
+![](/notes/comptia-n10-009-network+training-course/18-network-access-10.webp)
+
+### Dynamic Multipoint Virtual Private Network (DMVPN)
+
+- **Multipoint GRE (mGRE):** Allows a single interface to support multiple GRE tunnels
+- **Next Hop Resolution Protocol (NHRP):** Used to discover the IP address of the device at the far-end of a tunnel
+![](/notes/comptia-n10-009-network+training-course/18-network-access-11.webp)
+![](/notes/comptia-n10-009-network+training-course/18-network-access-12.webp)
+
+Let's R4 wants to communicate with R3:
+- It will send an NHRP Query to the Headquarters
+    - (1) What physical interface's IP address is associated with a tunnel interface's IP address of 10.0.0.2?
+- Headquarter will send back an NHRP reply
+    - (2) 10.0.0.2 is at 203.0.113.1
+- (3) Tunnel formation from R4 to R3
+
+## Voice over IP (VoIP)
+
+**Private Branch Exchange:** A privately owned phone system used in large organizations (NOTE: **Key systems** were privately owned phone systems for smaller installations)
+![](/notes/comptia-n10-009-network+training-course/18-network-access-13.webp)
+
+Keeping old PBX hardware, companies can add routers to have VoIP functionality.
+![](/notes/comptia-n10-009-network+training-course/18-network-access-14.webp)
+
+**IP Telephony**
+> **Real-time Transport Protocol (RTP):** A Transport Layer protocol that carries voice and video media.
+
+![](/notes/comptia-n10-009-network+training-course/18-network-access-15.webp)
 
 ## Remote Access
 

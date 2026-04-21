@@ -294,6 +294,8 @@ Distributed database
 
 ### FQDN (Fully Qualified Domain Name)
 
+> A complete DNS name that uniquely identifies a host.
+
 ![](/notes/comptia-n10-009-network+training-course/17-ip-services-13.webp)
 
 ### Primary and secondary DNS servers
@@ -414,6 +416,9 @@ Resource Records (RR)
 Over 30 record types
 - IP addresses, certificates, host alias names, etc.
 
+![](/notes/comptia-n10-009-network+training-course/17-ip-services-30.webp)
+![](/notes/comptia-n10-009-network+training-course/17-ip-services-31.webp)
+
 ### Sample Forward Lookup File
 
 ![](/notes/comptia-n10-009-network+training-course/17-ip-services-20.webp)
@@ -493,6 +498,10 @@ The reverse of an A or AAAA record
 
 ## Time Protocols
 
+Network devices need accurate time:
+- To help network administrator correctly interpret logs
+- To use digital certificates
+
 ### NTP (Network Time Protocol)
 
 Switches, routers, firewalls, servers, workstations
@@ -515,6 +524,7 @@ Very accurate
 NTP server
 - Listens on udp/123, responds to time requests from NTP clients
 - Doesn't modify their own time
+- Uses a **stratum number** to measure the believability of a time source
 
 NTP client
 - Requests time updates from NTP server

@@ -261,7 +261,7 @@ Often referenced with the physical
 
 ## Network Address Translation (NAT)
 
-It is estimated that there are over 20 t 30 billion devices connected to the Internet (and growing)
+It is estimated that there are over 20 to 30 billion devices connected to the Internet (and growing)
 - IPv4 supports around 4.29 billion addresses
 
 The address space for IPv4 is exhausted
