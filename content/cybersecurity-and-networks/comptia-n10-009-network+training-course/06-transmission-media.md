@@ -11,6 +11,17 @@ alwaysOpen: false
 weight: 6
 ---
 
+## Packet Switched vs. Circuit Switched Networks
+
+> **Integrated Services Digital Network (ISDN):** A technology that can carry voice, data, and/or video across digital circuits in the Public Switched Telephone Network (PSTN).
+
+| Circuit Switched                                      | Packet Switched                                                                 |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------- |
+| A circuit (or a "call") is set up before transmitting | A connection is "always-on"                                                     |
+| Voice, data, and/or video is sent over the circuit    | Voice, data, and/or video is encapsulated in packets and sent through a network |
+| Examples includes, Telephone calls, ISDN              | Examples include: Cable modems, Wireless networks, LANs                         |
+| Dedicated bandwidth                                   | Shared bandwidth                                                                                |
+
 ## Wireless Networking
 
 ### Wireless Standards
@@ -30,9 +41,21 @@ Modern standards have a more marketable name
 
 ![](/notes/comptia-n10-009-network+training-course/06-transmission-media-1.webp)
 
+### Cellular Technologies (1G, 2G, 3G)
+
+- **1G:** Delivered analog voice
+- **2G:** Introduced digital voice and added support for data using GSM (Global System for Mobile Communication) and CDMA (Code Division Multiple Access)
+- **2.5G:** Added packet switching with GPRS (General Packet Radio Service)
+- **2.7G (EDGE):** Increased data rates with EDGE (Enhanced Data Rates for GSM Evolution)
+- **3G:** Increased data rates using standards including UMTS (Universal Mobile Telecommunications System) and CDMA2000
+
 ### 4G and LTE
 
-Long Term Evolution (LTE)
+4G
+- Required a cellular network to support at least a 100 Mbps download speed to qualify as 4G
+
+Fourth Generation Long Term Evolution (4G LTE)
+- A cellular service offered by networks that were somewhat slower that 4G requirements, where LTE implied the network was evolving to higher speeds, and operated in a wide range of speeds: 20 Mbps -- 100 Mbps
 - A "4G" technology
 - converged standard (GSM and CDMA providers)
 - Based on GSM and EDGE (Enhanced Data Rated for GSM Evolution)
@@ -45,6 +68,7 @@ LTE Advanced (LTE-A)
 
 Fifth generation cellular networking
 - Launched worldwide in 2020
+- Offers much higher speed, very low latency and comes in two flavors: **mmWave** (max speed around 5 Gbps) and **Sub-6GHz** (max speed between 4G and mmWave speeds)
 
 Significant performance improvements
 - At higher frequencies
@@ -57,13 +81,48 @@ Significant IoT impact
 - Faster monitoring and notification
 - Additional cloud processing
 
+### Frame Relay
+
+- Popular in the 1990s
+- It is a standardized, cos-effective packet-switching protocol used to connect LANs and transmit data across WANs.
+- Operates at Layer 2
+- It breaks data into variable sized units called frames and transmits them over shared virtual circuits
+- Key features
+    - Packet Switching
+    - Efficiency
+    - Bandwidth sharing
+- Currently, it has been replaced by newer technologies such MPLS, Ethernet over Fiber, and DSL, cable modems.
+
+> **Data Link Connection identifier (DLCI):** identifies a virtual circuit that interconnects two devices on a Frame Relay Network.
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-29.webp)
+
+### Asynchronous Transfer Mode (ATM)
+
+-  Somewhat legacy WAN technology
+- ATM uses cell of a fixed length 53 bytes
+
+> **VPI (Virtual Path Identifier)/VCI (Virtual Circuit Identifier):** Uniquely identifies a virtual connection that ATM uses to transport its cells.
+
+> **UNI (User to Network Interface):** Interconnects a user's device (e.g., a router) with an ATM network.
+
+> **NNI (Network to Network Interface)** Interconnects ATM networks
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-30.webp)
+
 ### Satellite Networking
+
+> **Very Small Aperture Terminal (VSAT):** A WAN technology that uses small satellite dishes connected to a network and supports two-way communication via a satellite.
 
 Communication to a satellite
 - Non-terrestrial communication
+- Two way satellite communication
+- Satellite dish is less than 3 meters in diameter
+- Data experiences more delay
+- Sensitive to weather conditions
 
 High cost relative to terrestrial networking
-- 100 Mbit/s down, 5 Mbit/s up are common
+- 12 Mbps to 100 Mbit/s down, 5 Mbit/s up are common
 - Remote sites, difficult-to-network sites
 
 Relatively high latency
@@ -160,6 +219,10 @@ Expensive light source
 ![](/notes/comptia-n10-009-network+training-course/06-transmission-media-6.webp)
 
 ## Copper Cabling
+
+> **Hybrid Fiber-Coax (HFC) Distribution Network:** A cable company's infrastructure including both fiber and coax.
+
+> **Data-Over Cable Service Interface Specification (DOCSIS):** A set of standards specifying the use of different frequency ranges in a cable television network.
 
 ### The importance of cable
 

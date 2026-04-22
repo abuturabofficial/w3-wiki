@@ -101,6 +101,18 @@ One-to-one connection
 Older WAN links
 - Point to point T-1
 
+PPP Features:
+- Authentication 
+- Compression
+- Error Detection and Correction
+Multiple links
+
+> **PAP (Password Authentication Protocol):** Sends login credentials (typically in clear text) across the network.
+> 
+> **CHAP (Challenge Handshake Authentication Protocol):** Sends a hash of login credentials across the network.
+
+> **MLP (Multilink PPP):** Bundles multiple physical links into a single logical link, which improves throughput.
+
 Connections between buildings
 ![](/notes/comptia-n10-009-network+training-course/07-network-topologies-5.webp)
 
