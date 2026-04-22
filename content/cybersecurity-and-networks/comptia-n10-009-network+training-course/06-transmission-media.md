@@ -176,7 +176,7 @@ Media type
 - T is twisted pair copper, F is fiber
 - SX would be short wavelength light
 
-## Optical Fiber
+## Optical Fiber Cables
 
 ### Fiber Communication
 
@@ -208,6 +208,8 @@ Inexpensive light source
 
 ![](/notes/comptia-n10-009-network+training-course/06-transmission-media-5.webp)
 
+> **Multimode Delay Distortion:** Data corruption resulting from bits using one path of light (i.e., a mode) passing up other bits using a different path of light (i.e., a different mode).
+
 ### Single-mode Fiber
 
 Long-range communication
@@ -234,6 +236,8 @@ Usually only get one good opportunity at building your cabling infrastructure
 
 The vast majority of wireless communication uses cables
 - Everything eventually touches a cable
+
+> **Electromagnetic Interference (EMI):** Occurs when radio waves are picked up by or radiated by a cable carrying another signal, resulting in signal degradation.
 
 ### Twisted pair copper cabling
 
@@ -271,6 +275,9 @@ Two or more forms share a common axis
 
 RG-6 used in television/digital cable
 - And high speed Internet over cable
+- Measured by impedance
+
+> **Impedance:** A circuit's opposition to traffic flow (measured in Ohms), which can have resistive, capacitive, and/or inductive components.
 
 ![](/notes/comptia-n10-009-network+training-course/06-transmission-media-8.webp)
 
@@ -278,6 +285,9 @@ RG-6 used in television/digital cable
 
 Two inner conductors
 - Twinax
+- Most commonly used in Data Centers
+- 40 Gbps or 100 Gbps
+- 7 meters
 
 Common on 10 Gigabit Ethernet SFP+ cables
 - Full duplex
@@ -313,6 +323,10 @@ Plenum-rated cable may not be flexible
 Worst-case planning
 - Used in plenum and risers
 - Important concerns for any structure
+
+### Categories of Twisted Pair Cable
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-31.webp)
 
 ## Network Transceivers
 
@@ -405,6 +419,18 @@ Push on and turn
 
 ![](/notes/comptia-n10-009-network+training-course/06-transmission-media-19.webp)
 
+#### Ultra Physical Contact (UPC)
+
+Refracted light from the contact can damage the transmitting laser inside the fiber.
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-33.webp)
+
+#### Angled Physical Contact (APC) 
+
+Refracted light comes at an angle, and mostly absorbed by the fiber cladding.
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-34.webp)
+
 ### MPO — Multi-fiber Push On
 
 Twelve fibers in a single connector
@@ -428,7 +454,9 @@ May also see the MTP abbreviation
 ### RJ11 Connector
 
 Registered Jack type 11
-- 6 position, 2 conductor (6P2C)
+- 6 position, 2 conductors (6P2C)
+- Commonly used on telephones, modems, and fax machines
+- RJ-14: 6 positions with 4 conductors
 
 Telephone & DSL connection
 
@@ -437,6 +465,7 @@ Telephone & DSL connection
 ### RJ45 Connector
 
 Registered Jack type 45
+- Commonly used on Ethernet cables
 
 8 positions, 8 conductors (8P8C)
 - Modular connector
@@ -446,11 +475,18 @@ Registered Jack type 45
 
 ![](/notes/comptia-n10-009-network+training-course/06-transmission-media-25.webp)
 
+### DB-9 and DB-25
+
+Used with older serial connections (e.g., modem, serial printer, console on Unix host, or mouse)
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-32.webp)
+
 ### F-connector
 
 Coaxial cable
 - Standard connector type
 - Threaded connector
+- Commonly used with RG-6 and RG-59 coaxial cable
 
 Cable television infrastructure
 - Cable modem
@@ -464,6 +500,9 @@ Cable television infrastructure
 
 Bayonet Neil-Concelman
 - Paul Neil (Bell Labs) and Carl Concelman
+- Was used with 10BASE-2 networks
+- Carries radio frequencies for a variety of electronic gear
+- Usually connects to 50 or 75 Ohm coaxial cable
 
 Another common coaxial cable connector
 - Common with twinax and DS3 WAN links
@@ -473,3 +512,12 @@ Secure connections
 - Twist and lock in place
 
 ![](/notes/comptia-n10-009-network+training-course/06-transmission-media-28.webp)
+
+## Media Converters
+
+- Single-Mode Fiber to Ethernet
+- Multimode Fiber to Ethernet
+- Fiber to Coaxial
+- Single-Mode Fiber to Multimode Fiber
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-35.webp)
