@@ -708,7 +708,10 @@ Some standard bodies:
 ## Straight-Through vs. Crossover Cables
 
 **Straight-Through Cable**
+> A straight (patch) cable is when both ends of a cable are wired using the same standard.
 
+- It connects dissimilar devices, PC to Switch, Switch to Router etc.
+- The most common type of Ethernet cable that's used on a LAN
 ![](/notes/comptia-n10-009-network+training-course/06-transmission-media-62.webp)
 
 NOTE: Some literature defines MDI and MDI-X as follows:
@@ -719,5 +722,31 @@ Auto MDI-X
 - Allows a switch port to dynamically determine which pins to use for transmitting and receiving
 
 **Crossover Cable**
+>  A crossover cable is when both ends of a cable are wired using the 2 different standards
+
+- Connects two similar, PC to PC, Switch to Switch
+- Can be used to connect two similar devices without a hub or switch
 ![](/notes/comptia-n10-009-network+training-course/06-transmission-media-63.webp)
 ![](/notes/comptia-n10-009-network+training-course/06-transmission-media-64.webp)
+
+## Ethernet Standards
+
+Ethernet Standards for Copper Cabling
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-65.webp)
+NOTE: T --- Twisted Pair Cable
+
+Ethernet Standards for Fiber Optic Cabling
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-66.webp)
+NOTE: SX --- Shorter Wavelength, SR --- Short Range, LR --- Long Range, FX --- Fiber Optic, LX --- Long Wavelength 
+
+Fiber Multiplexing:
+- Use different colors of light to transmit different customers' data through fiber at the same time
+- Color of light is represented by lambda
+
+> **Coarse Wavelength Division Multiplexing (CWDM):** Typically supports a maximum of 8 channels (although 18 channels are possible over shorter distance). Each channel's wavelength is separated by 20 nm. Maximum distance is 80 km. Does not support amplifiers.
+
+> **Dense Wavelength Division Multiplexing:** Supports a maximum of 80 channels, with each channel's wavelength separated by 0.4 nm. Maximum distance is 3000 km. Supports amplifiers.
+
+> **Bidirectional Wavelength Division Multiplexing (WDM):** Allows a single fiber optic strand to simultaneously carry the transmission and reception of multiple channels, by assigning different wavelengths to the transmission and reception components of a single channel. This can reduce fiber costs, at the expense of fewer channels.
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-67.webp)
