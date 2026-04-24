@@ -358,11 +358,13 @@ Enhanced Small Form-factor Pluggable (SFP+)
 
 ![](/notes/comptia-n10-009-network+training-course/06-transmission-media-14.webp)
 
-### QSFP
+### QSFP and QSFP+
 
-Quad Small Form-factor Pluggable
-- 4-channel SFP = Four 1 Gbit/s = 4 Gbit/s
-- QSFP+ is four-channel SFP+ = Four 10 Gbit/sec = 40 Gbit/sec
+Quad Small Form-factor Pluggable (QSFP)
+- 4-channel SFP = Four 1 Gbit/s Channels = 4 Gbit/s
+
+QSFP+ is four-channel SFP+
+- Four 10 Gbit/sec channels = 40 Gbit/sec
 
 Combine four SFPs into a single transceiver
 - Cost savings in fiber and equipment
@@ -521,3 +523,201 @@ Secure connections
 - Single-Mode Fiber to Multimode Fiber
 
 ![](/notes/comptia-n10-009-network+training-course/06-transmission-media-35.webp)
+
+## Termination Point
+
+Terminate Copper and Fiber cables:
+
+**66 Block**
+- More common in PBX (Public Branch Exchange) or older CAT 3 equipment
+- Susceptible to more cross talk
+- Not used much nowadays
+
+**110 Block**
+- For Cat 6 or higher
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-36.webp)
+
+Patchpanel, makes termination of cables a lot easier and cleaner.
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-37.webp)
+
+**Fiber Distribution Panel**
+- All fibers in the building comes to this panel
+- See only the connectors sticking out (ST connector in the FIG. below)
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-38.webp)
+
+**Demarcation Point (Demarc) and Smart Jack**
+- **Demarcation Point:** Where network maintenance responsibility passes from the WAN provider to the customer
+- **Smart Jack:**A network device (commonly located at a Demarc) that can perform diagnostic tests on the connected circuit.
+
+## Cabling Tools
+
+### Crimper
+
+- Make connection of the cables with the connectors by crimping on it.
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-39.webp)
+
+### Cable Tester
+
+- Tells how things are wired up
+- Is there crossover or straight through cables etc.
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-40.webp)
+
+### Punch Down Tool
+
+- Connect individual cables
+- Punch down cables on 66/110 Blocks
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-41.webp)
+
+### OTDR
+
+- Optical Time Domain Reflectometer
+- How far down, the optic fiber has broken down
+- Use light and reflections to determine the distance from the broken optic fiber
+- Expensive
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-42.webp)
+
+### BERT
+
+- Bit Error Rate Test
+- Generate some load on the network
+- Send out the pattern of 1s and 0s, and matched with the received data
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-43.webp)
+
+### Light Meter
+
+- Less expensive compared to BERT
+- Test if light passing through from one end of the fiber optic cable to the other efficiently
+- Measure the strength of the light inside the fiber optic cable
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-44.webp)
+
+### Tone Generator
+
+- Used for tracking down specific copper cables
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-45.webp)
+
+### Loopback Adapter
+
+- Inexpensive
+- LED lit up to show we are transmitting and receiving at the same time
+- Check if the cable is working
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-46.webp)
+
+### Multimeter
+
+- Check voltage
+- Continuity: See if the cable is broken somewhere
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-47.webp)
+
+### Bandwidth Speedtest
+
+- Software tool
+- E.g., https://speedtest.net, https://speed.cloudflare.com, https://openspeedtest.com
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-48.webp)
+
+### Wire Map Tester
+
+- Right wires showing up on the RJ45 connector
+- Trace short in the wire
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-49.webp)
+
+### Cable Tap
+
+- Electronic tapping of the modems or PBX
+- Physically tap into the wires
+- Can be used for nefarious purposes
+- Security risk, but also used for checking signals inside the copper cables
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-50.webp)
+
+### Fusion Splicer
+
+- Join physically together two fiber optic strands
+- Other method to join, is mechanical splicer
+- Melts two fiber optic pieces together
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-51.webp)
+
+### Snips/Cutters
+
+- Cut copper wires, after getting them out the insulation
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-52.webp)
+
+### Cable Stripper
+
+- Strips the cable's outer insulation
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-53.webp)
+
+### Port Scanner
+
+- Software tool e.g., nmap
+- Scans OS/Server's open ports which can be a security risk
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-54.webp)
+
+### Iperf
+
+- Can run network performance test
+- One device running as a server and other as a client, one can perform network throughput test between them
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-56.webp)
+
+### Spectrum Analyzer
+
+- Measure power of optical source for different wavelengths
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-55.webp)
+
+## Punch-Down Blocks
+
+Found in the wiring closet, where we are physically punching building wires into the conductors inside the punch-down blocks.
+
+### 66-Block
+
+- Legacy
+- Typically, supports Cat 3 cable
+- Some options support Cat 5e
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-58.webp)
+
+### 110-Block
+
+- Preferred over 66 blocks
+- Typically, supports Cat 6a and lower
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-59.webp)
+
+### Krone
+
+- The German word for crown
+- A European alternative to the 110 block
+- Can support stranded conductors (conductor with multiple thin wires), in addition to solid conductors
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-57.webp)
+
+### BIX (Building Industry Cross-connect)
+
+- Typically, supports Cat 5e
+- GigaBIX exceeds Cat 6 specifications (max. bandwidth 4.8 Gbps)
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-60.webp)
+
+## T568 Standards
+
+Which color cable will be connected to which color pin inside the RJ45 connector.
+
+Some standard bodies:
+- American National Standards Institute (ANSI)
+- Telecommunication Industry Association (TIA)
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-61.webp)
+
+## Straight-Through vs. Crossover Cables
+
+**Straight-Through Cable**
+
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-62.webp)
+
+NOTE: Some literature defines MDI and MDI-X as follows:
+- MDI: Medium-Dependent Interface
+- MDI-X: Medium-Dependent Interface Crossover
+
+Auto MDI-X
+- Allows a switch port to dynamically determine which pins to use for transmitting and receiving
+
+**Crossover Cable**
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-63.webp)
+![](/notes/comptia-n10-009-network+training-course/06-transmission-media-64.webp)
