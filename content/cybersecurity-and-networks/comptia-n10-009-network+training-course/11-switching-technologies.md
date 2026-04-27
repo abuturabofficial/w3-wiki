@@ -11,6 +11,40 @@ alwaysOpen: false
 weight: 11
 ---
 
+## Media Access Control (MAC) Address
+
+> A 48-bit unique identifier for an Ethernet client.
+
+- MAC represented as hexadecimal notation
+
+Hexadecimal numbering with Base 10, and Base 2 number:
+![](/notes/comptia-n10-009-network+training-course/11-switching-technologies-18.webp)
+
+> **Organizationally Unique Identifier (OUI):** A 24-bit string assigned to a vendor of Ethernet hardware.
+- First 24-bit of MAC address
+
+A data frame also needs MAC address to reach its destination
+![](/notes/comptia-n10-009-network+training-course/11-switching-technologies-19.webp)
+
+## Ethernet Switch Frame Forwarding
+
+- Based on MAC address
+- Happens at layer 2
+- Switch maintains a MAC Address Table
+
+> **Flooding:** Occurs when an Ethernet switch sends a copy of an incoming frame out all of its ports, other than the port on which the frame was received. Because the switch hasn't learned the port off of which the destination MAC address is connected.
+
+![](/notes/comptia-n10-009-network+training-course/11-switching-technologies-20.webp)
+
+- Ethernet Frame has an 18 Bytes Header
+- Preamble and SFD are part of Layer 1, used for synchronization
+![](/notes/comptia-n10-009-network+training-course/11-switching-technologies-21.webp)
+- Ethernet Jumbo Frame Format
+![](/notes/comptia-n10-009-network+training-course/11-switching-technologies-22.webp)
+
+> **MTU (Maximum Transmission Unit):** The maximum size (measured in Bytes) of a packet or frame allowed on an interface.
+
+
 ## VLANs and Trunking
 
 ### LANs
@@ -123,12 +157,23 @@ Doesn't replace a standalone router
 
 ### Working with Data and Voice
 
+> **Voice VLAN:** A VLAN that can be configured on an Ethernet switch for the purpose of carrying voice packets to and from IP phones.
+
 Old school: Connect computer to switch, connect phone to PBX (Private Branch Exchange)
 - Two physical cables, two different technologies
 
 Now: Voice over IP (VoIP)
 - Connect all devices to the Ethernet switch
 - One network cable for both
+
+Three ways to carry voice and data traffic:
+1) Connect the voice and data to the same switch port, when there is the software based IP phone.
+2) Connect the Cisco IP phone to Cisco switch (which supports two vLANs on a single port, one should carry voice), Cisco uses CDP (Cisco Discovery Protocol) a propreitery protocol to identify voice and data on a single port.
+3) Use a native port for data and VLAN for voice.
+
+There is also vendor natural **LLDP (Link Layer Discovery Protocol)**, which works at Layer 2, but not compatible with Cisco switches. It's IEEE 802.1AB standard, used by network devices to advertise their identity, capabilities, and neighbors on a local area network.
+
+There is also **LLDP-MED**, an extension to LLDP protocol known as LLDP Media Endpoint Discovery. It provides additional features for voice and video applications, including auto-discovery of LAN policies (VLAN, QoS), device location for emergency services, and Power over Ethernet (PoE) management.
 
 ### Data and Voice cabling
 
