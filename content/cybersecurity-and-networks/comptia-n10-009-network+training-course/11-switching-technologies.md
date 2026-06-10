@@ -168,7 +168,7 @@ Now: Voice over IP (VoIP)
 
 Three ways to carry voice and data traffic:
 1) Connect the voice and data to the same switch port, when there is the software based IP phone.
-2) Connect the Cisco IP phone to Cisco switch (which supports two vLANs on a single port, one should carry voice), Cisco uses CDP (Cisco Discovery Protocol) a propreitery protocol to identify voice and data on a single port.
+2) Connect the Cisco IP phone to Cisco switch (which supports two vLANs on a single port, one should carry voice), Cisco uses CDP (Cisco Discovery Protocol) a proprietary protocol to identify voice and data on a single port.
 3) Use a native port for data and VLAN for voice.
 
 There is also vendor natural **LLDP (Link Layer Discovery Protocol)**, which works at Layer 2, but not compatible with Cisco switches. It's IEEE 802.1AB standard, used by network devices to advertise their identity, capabilities, and neighbors on a local area network.
@@ -223,7 +223,7 @@ IP address management
 
 Port bonding/Link aggregation (LAG)
 - Multiple interfaces act like one big interface
-- Four 10 Gbits interfaces will act as a single 40 Gbit interface
+- Four 10 Gbits interfaces will act as a single 40 Gbits interface
 
 LACP
 - Link Aggregation Control Protocol
@@ -307,7 +307,7 @@ If bridge 6 is unavailable for some reason, there is no other available root!!!
 
 ![](/notes/comptia-n10-009-network+training-course/11-switching-technologies-14.webp)
 
-Spanning Tree recognizes the disconnection, and starts relearning the topology of the network, to clear out congestions. It reconfigures the STP port states to reestablish the connection between Network A and Network M through Bridge 5.
+Spanning Tree recognizes the disconnection, and starts relearning the topology of the network, to clear out congestion. It reconfigures the STP port states to reestablish the connection between Network A and Network M through Bridge 5.
 
 ![](/notes/comptia-n10-009-network+training-course/11-switching-technologies-15.webp)
 
