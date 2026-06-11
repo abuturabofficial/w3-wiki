@@ -89,6 +89,7 @@ We want to communicate among VLAN1s on multiple switches
 
 "VLAN trunking is a technology that allows multiple VLANs to share a single physical link between network switches. Instead of needing separate cables for each VLAN, a trunk link carries traffic for all VLANs simultaneously while keeping them logically separated."
 
+- Trunk carry traffic for multiple VLANs
 - Trunk interface is used to connect VLANs on different physical switches.
 - Single cable to carry packet for all switches
 
