@@ -16,7 +16,7 @@ weight: 3
 Many ways to forward traffic
 - A data center full of equipment
 
-Every device have a purpose
+Every device has a purpose
 - The implementation may change over time
 - Once installed, it can often be difficult to remove
 
