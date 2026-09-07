@@ -15,4 +15,7 @@ This course is offered by [**Harvard University**](https://cs50.harvard.edu/pyth
 
 It is divided into following weekly modules:
 
+> [!INFO]
+> [Click here](https://github.com/abuturabofficial/pythonprac/tree/main/cs50p) for practice code arranged in according to the lectures' weekly fashion.
+
 1. [Week 0 - Functions and Variables](/cs-and-programming/cs50p/week0-functions-and-variables/)
