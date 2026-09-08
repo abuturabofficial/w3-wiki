@@ -1,15 +1,18 @@
 ---
 draft: false
-date: '2025-02-09T15:47:28+05:00'
-title: 'Week 0 - Functions and Variables'
-linkTitle: 'Functions'
-menuPre: ''
+date: "2025-02-09T15:47:28+05:00"
+title: "Week 0 - Functions and Variables"
+linkTitle: "Functions"
+menuPre: ""
 LastModifierDisplayName: AbuTurab
 LastModifierEmail: thesajid@proton.me
 collapsibleMenu: true
 alwaysOpen: false
-weight:  1
+weight: 1
 ---
+
+| Week 0: Practice Code | [GitHub](https://github.com/abuturabofficial/pythonprac/tree/main/cs50p/week0-functions) |
+| :-------------------: | :--------------------------------------------------------------------------------------: |
 
 ## Functions
 
@@ -20,6 +23,7 @@ print("Hello, World!")
 ```
 
 When run, the following text will be printed on the screen:
+
 ```text
 Hello, World!
 ```
@@ -48,7 +52,7 @@ If it's a complex function, a comment will immediately remind you what's this pi
 
 ## Pseudocode
 
-A plain statement which methodically and simply outlines what you want to build in the desired programming language. A comment starts with `#` symbol which tells the interpreter to ignore what comes after it.
+A plain statement in any human language which methodically and simply outlines what you want to build in the desired programming language. A comment starts with `#` symbol which tells the interpreter to ignore what comes after it.
 
 ```text
 # A program that asks for user name as an input
@@ -56,8 +60,10 @@ A plain statement which methodically and simply outlines what you want to build 
 ```
 
 Above lines are simply a pseudocode which explains the outcome we need from the actual code.
+
 - No coding involved on this stage.
 - Only plan english is used to list down the desired outcomes.
+- It can act as a TODO list inside your code.
 - It helps break down complex programs into simple workable chunks.
 
 ## Parameters
@@ -87,9 +93,10 @@ print(name)
 
 Both `sep=' '` and `end="\n"` (with defaults) are the Named parameters provided by the `print` function.
 
-## Strings
+## Strings `str`
 
 An immutable sequences of Unicode characters used to store and manipulate textual data.
+
 - In Python, anything inside `''` or `""` is called a string.
 - The function `input()` only accepts string arguments.
 
@@ -103,7 +110,9 @@ print(f'Hello, {name}')
 
 ### Strings Methods
 
-#### `strip()` function
+There are many string methods provided by Python. Some are given below:
+
+#### `str.strip()` function
 
 Remove whitespace from around the strings:
 
@@ -111,7 +120,7 @@ Remove whitespace from around the strings:
 str.strip()
 ```
 
-#### `capitalize()` function
+#### `str.capitalize()` function
 
 Change the first letter of the string to upper case.
 
@@ -119,10 +128,54 @@ Change the first letter of the string to upper case.
 str.capitalize()
 ```
 
-#### `title()` function
+#### `str.title()` function
 
 Capitalize the first letter of all the words in the given string.
 
 ```py
 str.title()
 ```
+
+## Python Interactive Mode
+
+The live Python interpreter, where you can write code and get the execution immediately, unlike you write your code in a file and then run that file with Python interpreter.
+
+It removes the friction for some quick Python practice.
+
+## Integers `int()`
+
+Integers are whole numbers without a decimal point i.e., -3, -2, -1, 0, 1, 2, 3 etc.
+
+- In programming, ideal for counting or indexing
+
+## Floats `float()`
+
+Floats (floating-point numbers) represent real numbers with decimal components.
+
+- Ideal for a wider range of values and fractional precision, making them suitable for measurements and continuous data.
+
+## Function `def()`
+
+A small reusable piece of program which can be defined once and used multiple times inside the code to reduce repeatability and increase the readability.
+
+```py
+# All the code resides in the main
+def main():
+    return
+
+# Define as many functions as you want
+def func():
+   return
+
+# Call main() to start the execution
+main()
+```
+
+Running without calling on the `main()` function, no execution will happen, as our main code resides in the main function and nobody calling it, when we call on the `main()` function, then the execution starts, and the rest of the user functions will also be executed one by one as they appear in the `main()`.
+
+### Variable Scope
+
+The variable only exists in the scope where you defined it.
+
+- Variable defined inside the function, cannot be called on globally.
+- Variable defined in the 2nd user function cannot be called in the first one.
