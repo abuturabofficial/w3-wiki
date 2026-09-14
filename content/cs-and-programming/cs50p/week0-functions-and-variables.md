@@ -32,6 +32,8 @@ Hello, World!
 
 The built-in function `print` allows you to output some text to the screen in Python.
 
+- You can change the underlying implementation of function as long as name and parameters remains same, nobody running the program will notice.
+
 ## Bugs
 
 An error/mistake in the code which stops the program from running normally.
@@ -110,9 +112,11 @@ print(f'Hello, {name}')
 
 ### Strings Methods
 
-There are many string methods provided by Python. Some are given below:
+> Python string methods are built-in functions attached to string objects that allow for text manipulation, such as changing case, searching, replacing, splitting, and formatting.
 
-#### `str.strip()` function
+Because strings in Python are immutable, these methods don't modify the original string; instead, they return a new string with the requested changes applied.
+
+#### `str.strip()` method
 
 Remove whitespace from around the strings:
 
@@ -120,7 +124,7 @@ Remove whitespace from around the strings:
 str.strip()
 ```
 
-#### `str.capitalize()` function
+#### `str.capitalize()` method
 
 Change the first letter of the string to upper case.
 
@@ -128,12 +132,69 @@ Change the first letter of the string to upper case.
 str.capitalize()
 ```
 
-#### `str.title()` function
+#### `str.title()` method
 
 Capitalize the first letter of all the words in the given string.
 
 ```py
 str.title()
+```
+
+#### `str.join()` method
+
+> The `join()` method takes all items in an iterable and joins them into one string. -- W3School
+
+Syntax = `string.join(iterable)
+
+```py
+myDict = {"name": "John", "country": "Norway"}
+mySeparator = "TEST"
+
+x = mySeparator.join(myDict)
+# OR separator string can be mentioned directly
+x = ','.join(myDict)
+print(x)
+```
+
+> [!NOTE]
+> When using a dictionary as an iterable, the returned values are the keys, not the values.
+
+### String Slicing
+
+You can return a range of characters by using the slice syntax
+
+Specify the start index and the end index, separated by a colon, to return a part of the string.
+
+Example:
+
+```py
+greet = "Hello, World!"
+```
+
+#### Slice From the Start
+
+Get the characters from the start to position 5:
+
+```py
+print(greet[0:5])
+#OR
+print(greet[:5])
+```
+
+When starting from index `0`, we don't need to mention it. The character at index `[5]` will not be included.
+
+#### Slice From the End
+
+By leaving out the end index, the range will go to the end:
+
+```py
+print(greet[2:])
+```
+
+If we want to slice the last 6 characters:
+
+```py
+print(greet[-6:])
 ```
 
 ## Python Interactive Mode
