@@ -22,3 +22,4 @@ It is divided into following weekly modules:
 2. [Week 1: Conditionals](/cs-and-programming/cs50p/week1-conditionals/)
 3. [Week 2: Loops](/cs-and-programming/cs50p/week2-loops/)
 4. [Week 3: Exceptions](/cs-and-programming/cs50p/week3-exceptions/)
+5. [Week 4: Libraries](/cs-and-programming/cs50p/week4-libraries/)
