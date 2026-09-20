@@ -1,5 +1,5 @@
 baseURL: "https://wiki.sajidmahmood.me"
-languageCode: "en-us"
+locale: "en-us"
 title: "Notes Wiki"
 theme: "hugo-theme-relearn"
 
