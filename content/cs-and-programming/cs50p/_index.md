@@ -23,3 +23,4 @@ It is divided into following weekly modules:
 3. [Week 2: Loops](/cs-and-programming/cs50p/week2-loops/)
 4. [Week 3: Exceptions](/cs-and-programming/cs50p/week3-exceptions/)
 5. [Week 4: Libraries](/cs-and-programming/cs50p/week4-libraries/)
+6. [Week 5: Unit Tests](/cs-and-programming/cs50p/week5-unit-tests/)
