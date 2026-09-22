@@ -146,13 +146,13 @@ You can install packages from `PyPI` via Python package manager called `PIP`.
 Create a virtual environment inside your project:
 
 ```sh
-python -m venv myenv
+python -m venv .myenv
 ```
 
 Activate your virtual env:
 
 ```sh
-source myenv/bin/activate
+source .myenv/bin/activate
 ```
 
 Now install the module:
