@@ -68,13 +68,33 @@ Create the test files like `test_[PROGRAM-NAME]` inside the test folder.
 An empty `__init__.py` will tell the `pytest` module that `test/` is a package. A `package` is a python module or multiple modules organized inside a folder.
 
 Now run the `pytest` module on the whole folder:
+
 ```sh
 pytest test/
 ```
 
 > [!NOTE]
 > Each function name inside `test_name.py` must be prefixed with the word `test_` for pytest to discover and run these tests automatically.
+>
 > ```py
 >  def test_addition():
 >      assert 1 + 1 == 2
 > ```
+
+### Raise an Error
+
+If your function raises an error like **ZeroDivisionError** when some condition is met, you want to make sure your unit test, catches that:
+
+```py
+import pytest
+
+def test_zero_division:
+    with pytest.raises(ZeroDivisionError):
+        my_func(1/0)
+```
+
+Here `my_func()` should raise a `ZeroDivisionError` and crash the unit test, but `with pytest.raises(ZeroDivisionError)` tells pytest, "I expect this block of code to through exactly this error".
+
+This test only passes if this error actually happens when `my_func(1/0)` runs, if no error occurs, the test fails.
+
+So, it confirms, the `my_func()` correctly propagates the error instead of silently failing and returning something wrong.
