@@ -40,6 +40,7 @@ This course is offered by [**Harvard University**](https://cs50.harvard.edu/pyth
 > 4. [Week 3: Exceptions](/cs-and-programming/cs50p/week3-exceptions/)
 > 5. [Week 4: Libraries](/cs-and-programming/cs50p/week4-libraries/)
 > 6. [Week 5: Unit Tests](/cs-and-programming/cs50p/week5-unit-tests/)
+> 7. [Week 6: File IO](/cs-and-programming/cs50p/week6-file-io/)
 
 ## Automate the Boring Stuff With Python Programming
 
