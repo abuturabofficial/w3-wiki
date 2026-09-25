@@ -162,5 +162,36 @@ Result: A new empty file is created.
 ## `csv` Module
 
 The csv module reads and writes tabular data in CSV(Comma Separated Values) format.
-
 ![](/notes/cs50p/week6-file-io-1.webp)
+
+## `pillow` Module
+
+[REF: Python:Pillow](https://www.codecademy.com/resources/docs/pillow)
+
+`Pillow` is a Python library used for working with images. It is a user friendly and actively maintained fork of the original Python Imaging Library(PIL). It not only supports various image formats like JPEG, PNG, GIF, TIFF, and BMP, but also offers capabilities such as resizing, cropping, rotating, and color adjustments.
+
+### Use cases of Pillow
+
+Pillow is used for automating and customizing image-related tasks, particularly when graphical interfaces aren't ideal. Here are some compelling use cases:
+
+- Resize and crop images
+- **Format conversion**: Convert between file formats like JPEG, PNG, GIF, BMP.
+- **Image Enhancement**: Adjust brightness, apply filters, or add visual effects.
+- **Batch Processing**: Automate processing of large volumes of images.
+- **Image Generation**: Create custom graphics, visualization, or CAPTCHAS.
+- **Meme or Thumbnail Creation**: Combine Pillow with text or shape drawing for custom graphics.
+
+### Installing Pillow
+
+Install the official release of Pillow:
+```sh
+pip install pillow
+```
+
+### General Workflow of Pillow
+
+Pillow operations typically follow a clear, intuitive workflow:
+- Import the necessary classes from the PIL module
+- Open an image using `Image.open()`
+- Apply transformations like resizing, rotating, or filtering
+- Save the final output using `Image.save()`
