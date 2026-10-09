@@ -41,6 +41,7 @@ This course is offered by [**Harvard University**](https://cs50.harvard.edu/pyth
 > 5. [Week 4: Libraries](/cs-and-programming/cs50p/week4-libraries/)
 > 6. [Week 5: Unit Tests](/cs-and-programming/cs50p/week5-unit-tests/)
 > 7. [Week 6: File IO](/cs-and-programming/cs50p/week6-file-io/)
+> 8. [Week 7: Regular Expressions](/cs-and-programming/cs50p/week7-regex/)
 
 ## Automate the Boring Stuff With Python Programming
 
