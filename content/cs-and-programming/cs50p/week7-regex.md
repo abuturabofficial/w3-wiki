@@ -1,6 +1,6 @@
 ---
 draft: false
-date: "2026-10-09T07:16:32:05:00"
+date: "2026-10-09T07:16:32+05:00"
 title: "Week 7: Regualr Expressions"
 linkTitle: "Regular Expressions"
 menuPre: ""
