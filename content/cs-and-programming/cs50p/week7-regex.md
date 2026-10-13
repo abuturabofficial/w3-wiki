@@ -46,6 +46,11 @@ Metacharacters are characters with a special meaning:
 |   {m,n}   |                          m-n range of repetitions                          |  "he.{2,4}.o"  |
 |    \|     |                                 Either or                                  | "falls\|stays" |
 |    ()     |                             Capture and group                              |
+|   (?: )   |                           Non-capturing version                            |
+
+`()`: It groups the pattern and stores the matched text so you can retrieve it later.
+
+`(?:)`: It groups the pattern but stores nothing
 
 ### Flags
 
@@ -64,3 +69,26 @@ A special sequence is a `\` followed by one of the characters in the list below,
 A set is a set of characters inside a pair of square brackets `[]` with a special meaning:
 
 ![W3School](/notes/cs50p/week7-regex-3.webp)
+
+## Assignment Expression/Walrus Operator `:=`
+
+The `:=` operator was introduced in Python 3.8. It allows you to assign a value to a variable as part of a larger expression, returning the assigned value unlike standard assignment(`=`), which doesn't return a value.
+
+### Syntax
+
+The operator is written as `variable :=  expression`. It evaluates the right-hand side, assigns it to the variable, and returns the value for use in the surrounding context.
+
+### Parentheses
+
+In most contexts, such as top-level statements or certain conditionals, the assignment expression must be enclosed in parentheses to avoid syntax error (e.g., `(x := 5)`).
+
+```py
+# Without walrus operator
+data = get_data()
+if data is not None:
+    print(data)
+
+# With walrus operator
+if (data := get_data()) is not None:
+    print(data)
+```
