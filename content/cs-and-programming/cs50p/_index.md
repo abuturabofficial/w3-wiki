@@ -26,3 +26,4 @@ It is divided into following weekly modules:
 6. [Week 5: Unit Tests](/cs-and-programming/cs50p/week5-unit-tests/)
 7. [Week 6: File IO](/cs-and-programming/cs50p/week6-file-io/)
 8. [Week 7: Regular Expressions](/cs-and-programming/cs50p/week7-regex/)
+9. [Week 8: Object-oriented Programming](/cs-and-programming/cs50p/week8-oop/)
