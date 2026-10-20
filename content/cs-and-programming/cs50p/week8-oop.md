@@ -320,6 +320,71 @@ print(p1)
 > [!WARNING]
 > `__str__()` must return a `string`. If it returns anything else, Python raises a `TypeError`.
 
+## `@classmethod`
+
+In Python, `@classmethod` is a built-in decorator used to define a method that is bound to the class itself rather than a specific object instance.
+
+Unlike regular instance methods, a class method doesn't have access to `self`(the instance). Instead, it implicitly receives the class object as its first argument, which is conventionally named `cls`.
+
+## Inheritance
+
+Inheritance allows us to define a class that inherits all the methods and properties from another class.
+
+**Parent class** is the class being inherited from, also called base class.
+
+**Child class** is the class that inherits from another class, also called derived class.
+
+Exceptions in Python are an example of class inheritance.
+![](/notes/cs50p/week8-oop-4.webp)
+
+## Operator Overloading
+
+Magic methods can control what happens when you use an operator, like `+`, on your own objects. This is called **operator overloading**.
+
+> Operator overloading refers to the ability to redefine the behavior of built-in operators for user-defined classes. In other words, you can "teach" Python how to evaluate expressions like `a+b` when `a` and `b` are instances of a custom class. ---Leapcell.io
+
+Python achieves this by mapping operators to special methods, also known as **dunder methods** (short for "double underscores). For example:
+
+- `+` corresponds to `__add__`
+- `-` corresponds to `__sub__`
+- `*` corresponds to `__mul__`
+- `/` corresponds to `__truediv__`
+- `==` corresponds to `__eq__`
+- `<` corresponds to `__lt__`
+
+By defining these methods in your class, you can control how objects behave when used with those operators.
+
+### Best Practices
+
+1. **Keep operations intuitive**: Only overload operators where it makes logical sense.
+2. **Return new instances**: Avoid mutating existing instances unless that's the intended behavior.
+3. **Ensure compatibility**: Always handle edge cases and validate types when performing operations.
+
+### The `__add__()` Method
+
+Use `__add__()` to add the `age` of two `Person` objects together:
+
+```py
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def __add__(self, other):
+        return self.age + other.age
+
+p1 = Person("Emil", 22)
+p2 = Person("Tobias", 19)
+
+print(p1+p2)
+```
+
+> [!NOTE]
+> Without `__add__()`, writing `p1+p2` would raise a `TypeError`, since Python wouldn't know how to add two `Person` objects.
+
 ---
 
-- REF: Python OOP via [W3School](https://www.w3schools.com/python/python_oop.asp)
+# References
+
+- Python OOP via [W3School](https://www.w3schools.com/python/python_oop.asp)
+- Understanding Operator Overloading in Python via [Leapcell.io](https://leapcell.io/blog/understanding-operator-overloading-in-python)
