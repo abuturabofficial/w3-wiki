@@ -16,9 +16,27 @@ weight: 9
 
 ## What is OOP?
 
+> Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around **object** rather than functions and logic.
+
+Let's breakdown the OOP into its reusable building block:
+
+- **Classes**: These are user-defined data types that act as the blueprint for objects, attributes, methods.
+- **Objects**: These are instances of a class with specifically defined data. When a class is defined initially, the description is the only object that is defined.
+- **Methods**: These are functions that are defined inside a class that describe the behavior of an object. They are useful for re-usability or keeping functionality encapsulated inside one object at a time. Code re-usability is a great benefit when debugging.
+- **Attributes**: These are defined in the class template and represent the state of an object. Objects contain data stored in the attribute field.
+
 **OOP** stands for **Object-Oriented Programming**.
 
 Python is an object-oriented language, allowing you to structure your code using classes and objects for better organization and re-usability.
+
+### Principles of OOP
+
+In order for use to write good OOP code, we need to understand the 4 pillars of OOP we should adhere to:
+
+1. **Encapsulation**: Wrapping data and functions into a single unit(object).
+2. **Abstraction**: Hiding the implementation details of a class and only showing the essential features to the user.
+3. **Inheritance**
+4. **Polymorphism**
 
 ### Advantages of OOP
 
@@ -42,6 +60,14 @@ A class defines what an object should look like, and an object si created based 
 | Car   | Volvo, Audi, Toyota  |
 
 When you create an object from a class, it inherits all the variables and functions defined inside that class.
+
+### Attributes
+
+There are two types of attributes/variable in the classes.
+
+1. **Class Attributes**: Python variables that belong to a class itself, and are shared between all class instances/objects.
+
+2. **Instance Attributes**: Python variables that belong to one object/instance and are only accessible within the object; they are unique to each object and are not shared between class instances.
 
 ## Python Classes and Objects
 
@@ -386,5 +412,10 @@ print(p1+p2)
 
 # References
 
+- OOP Meaning – What is Object-Oriented Programming? via [freeCodeCamp.org](https://www.freecodecamp.org/news/what-is-object-oriented-programming/)
 - Python OOP via [W3School](https://www.w3schools.com/python/python_oop.asp)
 - Understanding Operator Overloading in Python via [Leapcell.io](https://leapcell.io/blog/understanding-operator-overloading-in-python)
+- Lecture 8 : OOPS in Python | Object Oriented Programming | Classes & Objects | Python Full Course [Urdu/Hindi] via [Shradha Khapra](https://www.youtube.com/watch?v=HeW-D6KpDwY)
+- Lecture 9 : OOPS Part 2 | Object Oriented Programming | Python Full Course [Urdu/Hindi] via [Shradha Khapra](https://www.youtube.com/watch?v=bAwmZVJeO5s)
+- Python Object Oriented Programming (OOP) - For Beginners [English] via [Tech with Tim](https://www.youtube.com/watch?v=JeznW_7DlB0)
+- Python Attributes: Class vs. Instance Explained via [builtin.com](https://builtin.com/software-engineering-perspectives/python-attributes)
