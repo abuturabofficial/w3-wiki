@@ -36,7 +36,7 @@ In order for use to write good OOP code, we need to understand the 4 pillars of 
 1. **Encapsulation**: Wrapping data and functions into a single unit(object).
 2. **Abstraction**: Hiding the implementation details of a class and only showing the essential features to the user.
 3. **Inheritance**
-4. **Polymorphism**
+4. **Polymorphism** (Operator overloading): When the same operator is allowed to have different meaning according to the context.
 
 ### Advantages of OOP
 
@@ -99,14 +99,18 @@ p1 = MyClass()
 print(p1.x)
 ```
 
-### Delete Objects
+### `del` keyword
+
+> Used to delete object properties or object itself
 
 You can delete objects by using the `del` keyword.
 
-Delete the p1 object:
+Delete the p1 or its name property object:
 
 ```py
 del p1
+#OR
+del p1.name
 ```
 
 ### Multiple Objects
@@ -346,11 +350,27 @@ print(p1)
 > [!WARNING]
 > `__str__()` must return a `string`. If it returns anything else, Python raises a `TypeError`.
 
-## `@classmethod`
+## Class method
+
+> A class method is bound to the class and receives the class as an implicit first argument.
 
 In Python, `@classmethod` is a built-in decorator used to define a method that is bound to the class itself rather than a specific object instance.
 
 Unlike regular instance methods, a class method doesn't have access to `self`(the instance). Instead, it implicitly receives the class object as its first argument, which is conventionally named `cls`.
+
+```py
+class Student:
+    @classmethod #decorator
+    def college(cls):
+        pass
+```
+
+> [!NOTE]
+> Static method can't access or modify class state and generally for utility.
+
+## Property Decorator
+
+> We use @property decorator on any method in the class to use the method as a property
 
 ## Inheritance
 
@@ -362,6 +382,26 @@ Inheritance allows us to define a class that inherits all the methods and proper
 
 Exceptions in Python are an example of class inheritance.
 ![](/notes/cs50p/week8-oop-4.webp)
+
+### Super Method
+
+> `super()` method is used to access methods of the parent class.
+
+```py
+class Car:
+    def __init__(self, type):
+        self.type = type
+
+    @staticmethod
+    def start():
+        print("Car is started..")
+
+class ToyotaCar(Car):
+    def __init__(self, name):
+        super().__init__(type)
+        self.name = name
+        super().start() #call parent method with super()
+```
 
 ## Operator Overloading
 
