@@ -40,7 +40,6 @@ params:
     - auto
     - relearn-light
     - relearn-dark
-    - relearn-bright
     - learn
   images:
     - images/hero.png
