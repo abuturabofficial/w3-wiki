@@ -43,6 +43,7 @@ This course is offered by [**Harvard University**](https://cs50.harvard.edu/pyth
 > 7. [Week 6: File IO](/cs-and-programming/cs50p/week6-file-io/)
 > 8. [Week 7: Regular Expressions](/cs-and-programming/cs50p/week7-regex/)
 > 9. [Week 8: Object-oriented Programming](/cs-and-programming/cs50p/week8-oop/)
+> 10. [Week 9: Et Cetera](/cs-and-programming/cs50p/week9-et-cetera/)
 
 ## Automate the Boring Stuff With Python Programming
 
