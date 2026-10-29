@@ -119,3 +119,10 @@ def current_balance():
 current_balance()
 print("Balance:", balance)
 ```
+
+---
+
+# References
+
+- Python Sets via [W3Schools](https://www.w3schools.com/python/python_sets.asp)
+- Python --- Global Variables via [W3Schools](https://www.w3schools.com/python/python_variables_global.asp)
