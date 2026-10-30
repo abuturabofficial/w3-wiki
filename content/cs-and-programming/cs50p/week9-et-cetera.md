@@ -120,6 +120,100 @@ current_balance()
 print("Balance:", balance)
 ```
 
+## Constants
+
+One have some constant value somewhere in the code, in Python and other programming languages, a convention is to bring them towards the start.
+
+- Capitalize the whole `CONSTANT=<value>` word, to indicate to other programmers working on the code, they shouldn't touch it.
+
+```py
+MEOWS = 3
+for _ in range(3):
+    print("meow")
+```
+
+- But nothing is stopping other programmers to re-assign the constant's value to something else unlike other programming languages, Python operates on "honor" system.
+- The same applies to the class variables.
+
+```py
+class Cat:
+    MEOWS = 3
+
+    def meow(self):
+        for _ in range(Cat.MEOWS):
+            print("meow")
+
+cat = Cat()
+cat.meow()
+```
+
+## Type hints
+
+- Python is a dynamically typed language, you don't need to mention if your variable value is str, int, or float. Python figures this out own its own.
+- Unlike other languages like C, C++, Java etc., the programmers have to specify sometimes what type of variable you want something to be.
+- Type hints help the programmer find out bugs more easily.
+- Python has type hints too, but they are not strictly enforced by the language.
+
+```py{title="meows.py"}
+def meow(n: int):  # type hint
+    for _ in range(n):
+        print("meow")
+
+number: int = int(input("Number: "))  # type hint
+meow(number)
+```
+
+The `mypy` module provides support for type hints in Python code.
+
+```sh
+pip install mypy
+```
+
+Run the `mypy` on `meows.py`:
+
+```sh
+mypy meows.py
+```
+
+![](/notes/cs50p/week9-et-cetera-1.webp)
+
+To check, if function returns something:
+
+```py
+def meow(n: int) -> str:  # type hint: func should return a str
+    return "meow\n" * n
+
+number: int = int(input("Number: "))  # type hint
+meows: str = meow(number) # type hint
+
+print(meows, end="")
+```
+
+## docstrings
+
+Python provides docstrings to add comments to your code.
+
+- Python has documentation generation tools, which can generate a PDF/md from your docstrings inside your code.
+
+```py
+def meow(n: int) -> str:  # type hint
+    """
+    Meow n times.
+
+    :param n: Number of times to meow
+    :type n: int
+    :raise TypeError: if n is not int
+    :return: A string of n meows, one per line
+    :rtype: str
+    """
+    return "meow\n" * n
+
+number: int = int(input("Number: "))  # type hint
+meows: str = meow(number)
+
+print(meows, end="")
+```
+
 ---
 
 # References
