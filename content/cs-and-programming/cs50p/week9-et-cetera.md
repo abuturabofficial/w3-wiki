@@ -214,9 +214,158 @@ meows: str = meow(number)
 print(meows, end="")
 ```
 
+## The `argparse` module
+
+The `argparse` module makes it easy to build user-friendly command-line interfaces.
+
+It parses arguments and options, generates help and usage messages automatically, and provides errors when users give the program invalid arguments.
+
+| Member                        | Description                                                                    |
+| ----------------------------- | ------------------------------------------------------------------------------ |
+| Action                        | Base class for how an argument should be handled (store, append, count, etc.). |
+| add_argument()                | ArgumentParser method: Define a new positional or optional argument.           |
+| add_subparsers()              | ArgumentParser method: Create sub-commands (e.g. git commit, git push).        |
+| ArgumentDefaultsHelpFormatter | Help formatter that shows default values next to options.                      |
+| ArgumentError                 | Error raised for invalid arguments or combinations.                            |
+| ArgumentParser()              | Create a parser; add options/arguments and parse the command line.             |
+| ArgumentTypeError             | Error raised when converting a value to the required type fails.               |
+| BooleanOptionalAction         | Action that creates --foo / --no-foo style boolean flags.                      |
+| error()                       | ArgumentParser method: Raise an error message and exit.                        |
+| exit()                        | ArgumentParser method: Exit the program with a status code.                    |
+| FileType()                    | Helper for opening files from argument values (e.g. "-" for stdin).            |
+| format_help()                 | method: Return the full help text as a string.                                 |
+| format_usage()                | ArgumentParser method: Return the short usage message as a string.             |
+| HelpFormatter                 | Base class for help text formatting.                                           |
+| MetavarTypeHelpFormatter      | Formatter that adds information about argument types.                          |
+| Namespace                     | Simple object used to store parsed values (dot-attribute access).              |
+| ONE_OR_MORE                   | Marker used in help/usage to indicate one or more values are expected.         |
+| OPTIONAL                      | Marker used in help/usage to indicate an optional argument.                    |
+| PARSER                        | Marker used internally for sub-parsers in usage strings.                       |
+| parse_args()                  | ArgumentParser method: Parse the command line and return a Namespace.          |
+| parse_known_args()            | ArgumentParser method: Parse known options and return (namespace, remaining).  |
+| PARSER                        | Marker used internally for sub-parsers in usage strings.                       |
+| print_help()                  | ArgumentParser method: Print the full help text to stdout.                     |
+| print_usage()                 | ArgumentParser method: Print the short usage message to stdout.                |
+| RawDescriptionHelpFormatter   | Formatter that preserves whitespace in the description.                        |
+| RawTextHelpFormatter          | Formatter that preserves whitespace in both description and epilog.            |
+| REMAINDER                     | Collect all remaining command-line parts into a list.                          |
+| SUPPRESS                      | Special value to hide a value from the help/usage output.                      |
+| ZERO_OR_MORE                  | Marker used in help/usage to indicate zero or more values are accepted.        |
+
+## unpacking
+
+In Python, unpacking lets you assign or pass multiple values at once by expanding an iterable into individual items.
+
+You'll see it in assignments for parallel name binding in expressions and function calls via the iterable unpacking(\*) and dictionary unpacking (\*\*).
+
+**The single asterisk** (\*) in Python is used for two main way:
+
+1. Unpacking Lists (or Tuples)
+2. Unpacking in Function calls
+
+**The Double asterisk** (\*\*) is used for unpacking dictionaries as keyword arguments (key-value pairs).
+
+1. This passes the dictionary entries as keyword arguments to the function.
+2. You can also use \*\* to combine dictionaries in a clean way.
+
+```py
+defaults = {"debug": False}
+overrides = {"debug": True, "verbose": True}
+
+final_config = {**defaults, **overrides}
+print(final_config)
+# Output: {'debug': True, 'verbose': True}
+```
+
+In this case:
+
+- The `overrides` dictionary updates values from `defaults`.
+- The result is a merged dictionary where later entries take priority.
+
+In assignments, the right-hand side must be an **iterable**, and the left-hand side is a **comma-separated sequence of assignment targets**, often written as a tuple of names. The number of values and targets must match. Alternatively, you can use a single starred target(*rest) to collect multiple values into a list.
+
+In function calls, *iterable expands an iterable into **positional arguments**, while **dictionary expands into **keyword arguments**.
+
+### When to Use \* and \*\*
+
+- \* ---> Capture or expand multiple values (lists, args)
+- \*\* ---> Capture or expand keyword pairs(dicts)
+- Perfect for flexible functions, cleaner data handling
+
+### Why use `*` and `**`?
+
+- They make your code more flexible by allowing dynamic argument passing.
+- They help you avoid repetition and make code more concise and readable.
+- Especially useful in functional programming, API calls, and clean config handling.
+
+### Examples
+
+Parallel assignment and value swapping:
+
+```py
+>>> a, b = 1, 2
+>>> a, b
+(1, 2)
+
+>>> a, b = b, a
+>>> a, b
+(2, 1)
+```
+
+Starred targets:
+
+```py
+>>> first, *middle, last = [10, 20, 30, 40]
+>>> first
+10
+>>> middle
+[20, 30]
+>>> last
+40
+```
+
+You can also use \* in other positions:
+
+```py
+>>> *start, end = [1, 2, 3]
+>>> start = [1, 2], end = 3
+
+>>> first, *rest = [10, 20, 30]
+>>> first = 10, rest = [20, 30]
+```
+
+Function calls:
+
+```py
+>>> def greet(greeting, name):
+...     return f"{greeting}, {name}!"
+...
+>>> args = ("Hello", "Pythonista")
+>>> greet(*args)
+'Hello, Pythonista!'
+
+>>> def connect(host, port, timeout=10):
+...     return host, port, timeout
+...
+>>> conn_params = {"host": "localhost", "port": 8000}
+>>> connect(**conn_params)
+('localhost', 8000, 10)
+```
+
+Unpacking in expressions:
+
+```py
+>>> numbers = [0, *range(1, 4), 4]
+>>> numbers
+[0, 1, 2, 3, 4]
+```
+
 ---
 
 # References
 
 - Python Sets via [W3Schools](https://www.w3schools.com/python/python_sets.asp)
 - Python --- Global Variables via [W3Schools](https://www.w3schools.com/python/python_variables_global.asp)
+- Python `argparse` Module via [W3Schools](https://www.w3schools.com/python/ref_module_argparse.asp)
+- Python --- unpacking via [Real Python](https://realpython.com/ref/glossary/unpacking/)
+- Unpacking in Python, Simply Explained via [Ivan R | Medium.com](https://medium.com/@irbbb/unpacking-in-python-simply-explained-92dc53841ba0)
