@@ -360,6 +360,148 @@ Unpacking in expressions:
 [0, 1, 2, 3, 4]
 ```
 
+## *args and **kwargs
+
+By default, a function must be called with the correct number of arguments.
+
+However, sometimes you may not know how many arguments that will be passed into your function.
+
+`*args` and `**kwargs` allow functions to accept an unknown number of arguments.
+
+### Arbitrary Arguments --- *args
+
+If you don't know how many arguments will be passed into your function, add a `*` before the parameter name. This way, the function will receive a tuple of arguments and can access the items accordingly.
+
+<u>Example:</u>
+
+Using *args to accept any number of arguments:
+
+```py
+def my_function(*kids):
+  print("The youngest child is " + kids[2])
+
+my_function("Emil", "Tobias", "Linus")
+```
+
+> [!NOTE]
+> Arbitrary Arguments are often shortened to *args in Python documentation.
+
+#### What is *args?
+
+The `*args` parameter allows a function to accept any number of positional arguments.
+
+Inside the function, `args` becomes a tuple containing all the passed arguments.
+
+#### Using *args with Regular Arguments
+
+You can combine regular parameters with *args.
+
+Regular parameters must come before *args:
+
+```py
+def my_function(greeting, *names):
+  for name in names:
+    print(greeting, name)
+
+my_function("Hello", "Emil", "Tobias", "Linus")
+```
+
+In this example, `"Hello"` is assigned to `greeting`, and the rest are collected in `names`.
+
+#### Practical Examples with *args
+
+*args is useful when you want to create flexible functions:
+
+```py
+def my_function(*numbers):
+  total = 0
+  for num in numbers:
+    total += num
+  return total
+
+print(my_function(1, 2, 3)) # Output: 6
+print(my_function(10, 20, 30, 40)) # Output: 100
+print(my_function(5)) # Output: 5
+```
+
+Find the max value:
+
+```py
+def my_function(*numbers):
+  if len(numbers) == 0:
+    return None
+  max_num = numbers[0]
+  for num in numbers:
+    if num > max_num:
+      max_num = num
+  return max_num
+
+print(my_function(3, 7, 2, 9, 1)) # Output: 9
+```
+
+### Arbitrary Keyword Arguments --- **kwargs
+
+If you don't know how many keyword arguments will be passed into your function, add two asterisks `**` before the parameter name.
+
+This way, the function will receive a dictionary of arguments and can access the items accordingly.
+
+<u>Example:</u>
+
+Using **kwargs to accept any number of keyword arguments.
+
+```py
+def my_function(**kid):
+  print("His last name is " + kid["lname"])
+
+my_function(fname = "Tobias", lname = "Refsnes")
+```
+
+> [!NOTE]
+> Arbitrary Keyword Arguments are often shortened to **kwargs in Python documentation.
+
+#### What is **kwargs?
+
+The `**kwargs` parameter allows a function to accept any number of keyword arguments.
+
+Inside the function, `kwargs` becomes a dictionary containing all the keyword arguments.
+
+#### Using **kwargs with Regular Arguments
+
+You can combine regular parameters with **kwargs.
+
+Regular parameters must come before **kwargs:
+
+```py
+def my_function(username, **details):
+  print("Username:", username)
+  print("Additional details:")
+  for key, value in details.items():
+    print(" ", key + ":", value)
+
+my_function("emil123", age = 25, city = "Oslo", hobby = "coding")
+```
+
+##### Combining *args and **kwargs
+
+You can use both *args and **kwargs in the same function.
+
+The order must be:
+1. Regular parameters
+2. *args
+3. **kwargs
+
+```py
+def my_function(title, *args, **kwargs):
+  print("Title:", title)
+  print("Positional arguments:", args)
+  print("Keyword arguments:", kwargs)
+
+my_function("User Info", "Emil", "Tobias", age = 25, city = "Oslo")
+```
+
+> [!TIP]
+> Remember: Use `*` and `**` in function definitions to collect arguments, and use them in function calls to unpack arguments.
+
 ---
 
 # References
@@ -369,3 +511,4 @@ Unpacking in expressions:
 - Python `argparse` Module via [W3Schools](https://www.w3schools.com/python/ref_module_argparse.asp)
 - Python --- unpacking via [Real Python](https://realpython.com/ref/glossary/unpacking/)
 - Unpacking in Python, Simply Explained via [Ivan R | Medium.com](https://medium.com/@irbbb/unpacking-in-python-simply-explained-92dc53841ba0)
+- Python --- *args and **kwargs via [W3Schools](https://www.w3schools.com/python/python_args_kwargs.asp)
