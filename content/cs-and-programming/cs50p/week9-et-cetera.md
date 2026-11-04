@@ -372,7 +372,7 @@ However, sometimes you may not know how many arguments that will be passed into 
 
 If you don't know how many arguments will be passed into your function, add a `*` before the parameter name. This way, the function will receive a tuple of arguments and can access the items accordingly.
 
-<u>Example:</u>
+<u>Example</u>:
 
 Using *args to accept any number of arguments:
 
@@ -445,7 +445,7 @@ If you don't know how many keyword arguments will be passed into your function, 
 
 This way, the function will receive a dictionary of arguments and can access the items accordingly.
 
-<u>Example:</u>
+<u>Example</u>:
 
 Using **kwargs to accept any number of keyword arguments.
 
@@ -486,6 +486,7 @@ my_function("emil123", age = 25, city = "Oslo", hobby = "coding")
 You can use both *args and **kwargs in the same function.
 
 The order must be:
+
 1. Regular parameters
 2. *args
 3. **kwargs
@@ -502,6 +503,115 @@ my_function("User Info", "Emil", "Tobias", age = 25, city = "Oslo")
 > [!TIP]
 > Remember: Use `*` and `**` in function definitions to collect arguments, and use them in function calls to unpack arguments.
 
+## map()
+
+The `map()` function executes a specified function for each item in an iterable. The item is sent to the function as a parameter.
+
+<u>Syntax</u>:
+
+```py
+map(function, iterable)
+```
+
+| Parameter | Description                                                                                                                                                          |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| function  | Required. The function to execute for each item.                                                                                                                     |
+| iterable  | Required. A sequence, collection or an iterator object. You can send as many iterables as you like, just make sure the function has one parameter for each iterable. |
+
+<u>Examples</u>:
+
+Make new fruits by sending two iterable objects into the function:
+
+```py
+ef myfunc(a, b):
+  return a + b
+
+x = map(myfunc, ('apple', 'banana', 'cherry'), ('orange', 'lemon', 'pineapple'))
+```
+
+Calculate the length of each word in the tuple:
+
+```py
+def myfunc(n):
+  return len(n)
+
+x = map(myfunc, ('apple', 'banana', 'cherry'))
+```
+
+## List Comprehensions
+
+List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have.
+
+It is generally a single line of code enclosed in square brackets. You can use it to filter, format, modify, or do other small tasks on existing iterables such strings, tuples, set, lists, and so on.
+
+Let's see different ways of creating list comprehension and see some of its variants like:
+
+- Simple list comprehension
+- List comprehension with single and nested if conditions
+- List comprehension with single and multiple if and else conditions
+- List comprehension with nested for loops
+
+In Python list comprehension is a single line of code that you write inside the square brackets. It has three components:
+
+1. For loop
+2. Condition and expression
+3. Output
+
+![](/notes/cs50p/week9-et-cetera-2.webp)
+
+### Examples
+
+Simple list comprehension, taking elements of first list and storing them in the other:
+
+```py
+ first = [1, 2, 3, 4, 5]
+second = [x for x in first]
+```
+
+Above is the simple example, which doesn't do anything to the original data. The point of list comprehension is faster modification to the original data:
+
+```py
+first = [1, 2, 3, 4, 5]
+second = [x for x in first if x % 2 == 0 ] # filter out only even elements
+print(second) # Output: [2, 4]
+```
+
+## filter()
+
+The built-in `filter()` function in Python is used to process an iterable and extract items that satisfy a given condition, as determined by a filtering function.
+
+The `filter()` returns an iterator that yields only the elements for which the filtering function returns a truthy value:
+
+```py
+numbers = [-2, -1, 0, 1, 2]
+positive_numbers = list(filter(lambda n: n > 0, numbers))
+list(positive_numbers) # Output: [1, 2]
+```
+
+How the above example run:
+![](/notes/cs50p/week9-et-cetera-3.webp)
+
+<u>Syntax</u>:
+
+```py
+filter(function, iterable)
+```
+
+| Argument | Description                                                                             |
+| -------- | --------------------------------------------------------------------------------------- |
+| function | A function that returns a truthy or falsy value and determines which elements are kept. |
+| iterable | An iterable to be filtered, such as a list, tuple, set, generator, or iterator.         |
+
+### filter() Common Use Cases
+
+The most common use cases for the filter() function include the following:
+- Extracting specific elements from an iterable based on a condition
+- Removing unwanted elements(e.g., None, empty strings) from an iterable
+- Processing data collections to retain only items of interest
+
+## lambda
+...
+
 ---
 
 # References
@@ -512,3 +622,6 @@ my_function("User Info", "Emil", "Tobias", age = 25, city = "Oslo")
 - Python --- unpacking via [Real Python](https://realpython.com/ref/glossary/unpacking/)
 - Unpacking in Python, Simply Explained via [Ivan R | Medium.com](https://medium.com/@irbbb/unpacking-in-python-simply-explained-92dc53841ba0)
 - Python --- *args and **kwargs via [W3Schools](https://www.w3schools.com/python/python_args_kwargs.asp)
+- Python --- map() Function via [W3Schools](https://www.w3schools.com/python/ref_func_map.asp)
+- List Comprehension in Python Explained for Beginners via [freeCodeCamp](https://www.freecodecamp.org/news/list-comprehension-in-python/)
+- filter() via [Real Python](https://realpython.com/ref/builtin-functions/filter/)
