@@ -605,12 +605,64 @@ filter(function, iterable)
 ### filter() Common Use Cases
 
 The most common use cases for the filter() function include the following:
+
 - Extracting specific elements from an iterable based on a condition
 - Removing unwanted elements(e.g., None, empty strings) from an iterable
 - Processing data collections to retain only items of interest
 
-## lambda
-...
+## Lambda function
+
+Lambda functions are similar to user-defined functions but without a name. They're commonly referred to as **anonymous functions**.
+
+Lambda functions are efficient whenever you want to create a function that will only contain simple expressions --- that is, expressions that are usually a single line of a statement. They are also useful when you want to use the function once.
+
+### How to Define a Lambda Function
+
+You can define a lambda function like this:
+
+```py
+lambda argument(s) : expression
+```
+
+- `lambda` is a keyword in Python for defining the anonymous function.
+- `argument(s)` is a placeholder, that is a variable that will be used to hold the value you want to pass into the function expression. A lambda function can have multiple variables depending on what you want to achieve.
+- `expression` is the code you want to execute in the lambda function.
+
+Notice that the anonymous functions doesn't have a return keyword. This is because the anonymous function will automatically return the result of the expression in the function once it is executed.
+
+<u>Examples</u>:
+
+Assume you want to write a function that returns twice the number you pass it:
+
+```py
+def f(x):
+    return x * 2
+
+f(3)
+>> 6
+```
+
+Lambda function will look like this:
+
+```py
+lambda x : x * 2
+```
+
+As mentioned above, the lambda function doesn't have a return keyword. As a result, it will return the result of the expression on its own. The `x` is a place holder, you can use whatever you want.
+
+Now if you want to call a lambda function, you will use an approach known as immediately invoking the function. That looks like this:
+
+```py
+(lambda x : x * 2)(3)
+
+>> 6
+```
+
+The reason for this is that since the lambda function doesn't have a name you can invoke(it's anonymous), you need to enclose the entire statement when you want to call it.
+
+### Lambda with Built-in Functions
+
+Lambda functions are commonly used with built-in functions like `map()`, `filter()`, and `sorted()`.
 
 ---
 
@@ -625,3 +677,4 @@ The most common use cases for the filter() function include the following:
 - Python --- map() Function via [W3Schools](https://www.w3schools.com/python/ref_func_map.asp)
 - List Comprehension in Python Explained for Beginners via [freeCodeCamp](https://www.freecodecamp.org/news/list-comprehension-in-python/)
 - filter() via [Real Python](https://realpython.com/ref/builtin-functions/filter/)
+- How the Python Lambda Function Works – Explained with Examples via [freeCodeCamp](https://www.freecodecamp.org/news/python-lambda-function-explained/)
