@@ -664,6 +664,115 @@ The reason for this is that since the lambda function doesn't have a name you ca
 
 Lambda functions are commonly used with built-in functions like `map()`, `filter()`, and `sorted()`.
 
+## Dictionary Comprehensions
+
+Dictionary comprehension is a feature in Python that allows us to build dictionaries in a single, elegant line of code. It is a similar concept to [list comprehension](#list-comprehensions). The key difference is that instead of generating lists, dictionary comprehension generates key-value pairs.
+
+### Syntax
+
+```py
+{key_expression: value_expression for item in iterable if condition}
+```
+
+### Examples
+
+<u>Let's create a dictionary where the keys are number from 1 to 5 and the values are their square</u>:
+
+```py
+num = [1, 2, 3, 4, 5]
+sq = {n: n**2 for n in num}
+print(sq) # Output: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+```
+
+<u>Let's create a dictionary where the keys are even numbers from 0 to 9, and the values are their squares. We achieve this by adding a condition to filter out odd numbers</u>:
+
+```py
+num = range(10)
+even_sq={n: n ** 2 for n in num if n % 2 == 0}
+print(even_sq) # Output: {0: 0, 2: 4, 4: 16, 6: 36, 8: 64}
+```
+
+<u>We can use dictionary comprehension to modify the values in an existing dictionary. For instance, let's double all the values in a dictionary of key-value pairs</u>:
+
+```py
+original = {"a": 1, "b": 2, "c": 3}
+doubled = {k: v * 2 for k, v in original.items()}
+print(doubled)
+```
+
+Here, `original.item()` loops through each key-value pair, multiplies each value by 2, and creates a new dictionary with the same keys but updated values. This approach is great for making quick transformations.
+
+## `enumerate()` Function
+
+The `enumerate()` function takes a collection (e.g. tuple) and returns it as an enumerate object.
+
+It adds a counter as the key of the enumerate object.
+
+<u>Syntax</u>:
+
+```py
+enumerate(iterable, start=0)
+```
+
+| Parameter | Description                                                           |
+| --------- | --------------------------------------------------------------------- |
+| iterable  | An iterable object                                                    |
+| start     | A Number. Defining the start number of the numerate object. Deafult 0 |
+
+<u>Example</u>:
+
+```py
+fruits = ['apple', 'banana', 'cherry']
+
+# Rank the fruits in the list
+for i, fruit in enumerate(fruits):
+	print(i + 1, fruit)
+```
+
+## Generators
+
+Generators are functions that can pause and resume their execution.
+
+When a generator function is called, it returns a generator object, which is an iterator.
+
+The code inside the function is not executed yet, it is only compiled. The function only executes when you iterate over the generator.
+
+> [!INFO]
+> Generators allow you to iterate over data without storing the entire dataset in memory.
+>
+> Instead of using `return`, generators use the `yield` keyword.
+
+### The yield keyword
+
+The `yield` keyword is what makes a function a generator.
+
+When `yield` is encountered, the function's state is saved, and the value is returned. The next time the generator is called, it continues from where it left off.
+
+```py
+def main():
+    n = int(input("What's n? "))
+    for s in sheep(n):
+        print(s)
+
+
+def sheep(n):
+    for i in range(n):
+        yield "🐑" * i
+
+main()
+```
+
+> [!INFO]
+> Unlike `return`, which terminates the function, `yield` pauses it and can be called multiple times.
+
+### Generators Saves Memory
+
+Generators are memory efficient because they generate values on-the-fly instead of storing everything in memory. For large datasets, generators save memory.
+
+## Recursion
+
+
+
 ---
 
 # References
@@ -678,3 +787,6 @@ Lambda functions are commonly used with built-in functions like `map()`, `filter
 - List Comprehension in Python Explained for Beginners via [freeCodeCamp](https://www.freecodecamp.org/news/list-comprehension-in-python/)
 - filter() via [Real Python](https://realpython.com/ref/builtin-functions/filter/)
 - How the Python Lambda Function Works – Explained with Examples via [freeCodeCamp](https://www.freecodecamp.org/news/python-lambda-function-explained/)
+- What is Dictionary Comprehension in Python? via [codecademy](https://www.codecademy.com/article/what-is-dictionary-comprehension-in-python)
+- Python enumerate() Function via [W3Schools](https://www.w3schools.com/python/ref_func_enumerate.asp)
+- Python Generators via [W3Schools](https://www.w3schools.com/python/python_generators.asp)
