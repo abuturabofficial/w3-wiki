@@ -771,7 +771,74 @@ Generators are memory efficient because they generate values on-the-fly instead 
 
 ## Recursion
 
+Recursion is when a function calls itself.
 
+Recursion is a common mathematical and programming concept. It means that a function calls itself. This has the benefit of meaning that you can loop through data to reach a result.
+
+The developer should be very careful with recursion as it can be quite easy to slip into writing a function which never terminates, or one that uses excess amounts of memory or processor power. However, when written correctly recursion can be a very efficient and mathematically elegant approach to programming.
+
+<u>Example</u>:
+
+A simple recursive function that counts down from 5:
+
+```py
+def countdown(n):
+  if n <= 0:
+    print("Done!")
+  else:
+    print(n)
+    countdown(n - 1)
+
+countdown(5)
+```
+
+### Base Case and Recursive Case
+
+Every recursive function must have two parts:
+
+- A **base case** --- A condition that stops the recursion
+- A **recursive case** --- The function calling itself with a modified argument.
+
+Without a base case, the function would call itself forever, causing a stack overflow error.
+
+<u>Example</u>:
+
+Identifying base case and recursive case:
+
+```py
+def factorial(n):
+  # Base case
+  if n == 0 or n == 1:
+    return 1
+  # Recursive case
+  else:
+    return n * factorial(n - 1)
+
+print(factorial(5))
+```
+
+> [!IMPORTANT]
+> The base case is crucial. Always make sure your recursive function has a condition that willl eventually be met.
+
+### Recursion Depth Limit
+
+Python has a limit on how deep recursion can go. The default limit is usually around 1000 recursive calls.
+
+```py
+import sys
+print(sys.getrecursionlimit())
+```
+
+If you need deeper recursion, you can increase the limit, but be careful as this can cause crashes:
+
+```py
+import sys
+sys.setrecursionlimit(2000)
+print(sys.getrecursionlimit())
+```
+
+> [!WARNING]
+> Increasing the recursion limit should be done with caution. For very deep recursion. consider using iteration instead.
 
 ---
 
@@ -790,3 +857,5 @@ Generators are memory efficient because they generate values on-the-fly instead 
 - What is Dictionary Comprehension in Python? via [codecademy](https://www.codecademy.com/article/what-is-dictionary-comprehension-in-python)
 - Python enumerate() Function via [W3Schools](https://www.w3schools.com/python/ref_func_enumerate.asp)
 - Python Generators via [W3Schools](https://www.w3schools.com/python/python_generators.asp)
+- Lecture 6: Functions & Recursion in Python | Python Full Course \[Urdu/Hindi] via [Shradha Khapra](https://www.youtube.com/watch?v=OvTH-7ESoRA)
+- Python Recursion via [W3Schools](https://www.w3schools.com/python/python_recursion.asp)
